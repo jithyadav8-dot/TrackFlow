@@ -1,0 +1,13 @@
+.venv/
+.tmp/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+*.egg-info/
+data/raw/*.zip
+logs/**/events.out.tfevents.*
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml

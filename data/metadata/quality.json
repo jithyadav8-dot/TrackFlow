@@ -1,0 +1,22 @@
+{
+  "rows": {
+    "routes": 400,
+    "trips": 104236,
+    "stop_times": 2759436,
+    "stops": 10275,
+    "calendar": 133,
+    "calendar_dates": 79,
+    "shapes": 386729,
+    "feed_info": 1,
+    "agency": 2
+  },
+  "missing_optional": [
+    "frequencies"
+  ],
+  "unknown_stop_records": 0,
+  "frequency_trip_count": 0,
+  "frequency_policy": "Expand headways; exact_times=0 departures are synthetic realizations",
+  "rejected": {
+    "section_duration": 17
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "timestamp": "2026-10-28T17:56:59.837605+00:00",
+  "git_commit": null,
+  "python_version": "3.12.10",
+  "dependency_versions": {
+    "numpy": "2.2.6",
+    "pandas": "2.2.3",
+    "gymnasium": "1.2.3",
+    "torch": "2.6.0",
+    "stable-baselines3": "2.7.1",
+    "sb3-contrib": "2.7.1"
+  },
+  "algorithm": "MaskablePPO",
+  "network": {
+    "hidden_layers": [
+      128,
+      128
+    ],
+    "activation": "tanh"
+  },
+  "training_seed": 42,
+  "requested_timesteps": 50000,
+  "actual_timesteps": 53248,
+  "elapsed_seconds": 67.25,
+  "config": {
+    "algorithm": "MaskablePPO",
+    "policy": "MlpPolicy",
+    "network": {
+      "hidden_layers": [
+        128,
+        128
+      ],
+      "activation": "tanh"
+    },
+    "learning_rate": 0.0003,
+    "gamma": 0.99,
+    "gae_lambda": 0.95,
+    "n_steps": 1024,
+    "batch_size": 256,
+    "n_epochs": 10,
+    "clip_range": 0.2,
+    "ent_coef": 0.01,
+    "vf_coef": 0.5,
+    "max_grad_norm": 0.5,
+    "total_timesteps": 500000,
+    "n_envs": 4,
+    "training_seeds": [
+      42,
+      123,
+      2026
+    ],
+    "device": "cpu",
+    "validation_interval": 50000
+  },
+  "reward": {
+    "completion": 2.0,
+    "waiting": 0.05,
+    "invalid": 0.1,
+    "hold": 0.1,
+    "backlog": 2.0,
+    "priority_weighting": true
+  },
+  "configuration_checksum": "72ce36b14d476a2fbc2814e97639bfd4442ae6aafe22890d58fa4068bd9f2e87",
+  "dataset_checksum": "84f2dc9c0f74005deffcbd635ca7efeac91e947cdc2917fcde19e8321be82444",
+  "validation_scenario_checksums": [
+    "2d5a71882c3be33f5f64233514647bd6bb9f67681ac4f221576e19959efd0080",
+    "46efc2a2d4158e9b059ac746cbb2bf13f1b83ea63feb54d9b050eb58120b04e0",
+    "89185d2d2414b7434fa718eea28529dab5bead6a3c3835e329d28c776aff1504",
+    "66097cfa851b592079c7709ac356b418fe9d3c560ea816d77095f3acb59d4273",
+    "a4cc87f857665486a18f3941ad1c0ee0f4ef213c774a1f6567c1dda6512aa7fb",
+    "c4d3a344bd1cbcc9d48d315d87bfcde4d46037bb1b16cf955384b939f73c1545",
+    "ceaa0387c31b1d0653dce0d35ae2ed55cf2a883ff6c581b0eb8fb8caeedb02e7",
+    "099fae07327c4f3a7f9001f78753f4e6ed8e88a4cad0fe76f3153b2d95fe0f17",
+    "5886ad6afd83d4f4850ac21595e3f86d8bff7da00a3151c1a84b1bfc8518ecd8",
+    "aa771957e533bf4b4e7950790adb7a571a62128a0756af53a1851288676e7887",
+    "77f6a0efbe41fbbe3613dda65bca0492c64de83a1c5266d10c792bfd0b8a5b11",
+    "e52e0b65f1c5cb3b1f323acbe2c793012b32594206cf024d08b1cd7b588d9f82",
+    "1d431471ae70ef7ad062dbb8d49262feddc08cd965aaf1f61796cd2d51a354ad",
+    "039c634a9ecd1b87747f0402eef79725435bcbf5b185b33035f9335d5c3265e5",
+    "c69e13c75db011da2ab300c2df71f3025f915c2026480d124c7b754064a947ed",
+    "d6e01c750db21aa983809913fdafc447e58505a09c59e83be7fdf5f2f1bc3039",
+    "9baa6a385eb37270d9cb25655361447d65a5ad2854d30b44b3a4bfee0903caad",
+    "aea6e720ffcf1b6737268371fcf7e5a0eb86b8eabca5b3af5ccef13f179ed100",
+    "23c9299f9c985fb5a3bfe4c224317eb9de70c1b1f3b6472c6ae147bb8cf9c4cc",
+    "5f8c780586d2794b9eb08dd18612bc51cb60cb3e7784e492198e521a0c3e2dad",
+    "70e2474a546d53590fad79925cdd6d7ea952f7c15f1319dfeac3e572eae078b7",
+    "a0dc1880058acfcb7d834abb45faf74bb1a01f90b563411cc82e47b651a71a12",
+    "b54e8909c90e017c5d445b1cb2c115abdf61ea3f906f47a134b0235911eef481",
+    "b31d94e7c7a1ea6fa694e53df796919c2ee72674fcf48a0add34113726fb05fa",
+    "d980ad86cd37a4e25726ed6e689254895e66744aa14d49d67dab1724da9c0622",
+    "7b23d12a50cde1b7d58a5767ca33dec437aaa52e71b46ec615ca1aab5cc54f77",
+    "4fb287515bb4abf2f894dfd559c026d6bcab48f31b877ca70319ad01863e32d6",
+    "3d62ad91f8e513d0a0dbed46675f3fb73724d6d90d0bfb58f410d4854ef702f6",
+    "364035f62d0bce282a4f3dddf1e70424e4f4e45d85cca38fbbc13faa51aab1aa",
+    "6abb044d54d02c6bf90235cd098d5fb1c6d6ddf269699bdf9219aedd7ea0e896"
+  ],
+  "validation_objective": "mean_accrued_wait_per_train_plus_360_times_incomplete_fraction",
+  "best_validation": {
+    "timesteps": 50000,
+    "selection_cost": 103.57393162393161,
+    "mean_delay": 61.219695189964106,
+    "incomplete_trains": 6.433333333333334,
+    "throughput": 8.758333333333333,
+    "avoidable_holds": 0.0
+  },
+  "checkpoint": "models/study_hold_010/best.zip",
+  "checkpoint_sha256": "37a06148330b88bb2f633ef0620a39e15f51cd5f1ab1df4618951fb43490b949",
+  "reload_masked_evaluation_reward": -43.25,
+  "reload_reward_std": 0.0,
+  "stage": "training",
+  "device": "cpu"
+}

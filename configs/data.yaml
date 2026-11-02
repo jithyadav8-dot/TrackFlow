@@ -1,0 +1,8 @@
+url: https://cdn.mbta.com/MBTA_GTFS.zip
+service_date: '2026-10-28'
+window_minutes: 240
+min_travel_minutes: 2
+max_travel_minutes: 30
+rail_route_types: [2, 100, 101, 102, 103, 106, 109]
+route_id_prefix: CR-
+fallback_seed: 42

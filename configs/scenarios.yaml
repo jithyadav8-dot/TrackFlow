@@ -1,0 +1,4 @@
+types: [normal, peak, disruption, imbalance, saturation]
+validation: {count: 30, seed_start: 10000}
+test: {count: 100, seed_start: 20000}
+training_seed_range: [100000, 2000000000]

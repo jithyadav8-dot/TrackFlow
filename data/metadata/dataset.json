@@ -1,0 +1,287 @@
+{
+  "source_url": "https://cdn.mbta.com/MBTA_GTFS.zip",
+  "retrieved_at": "2026-10-28T17:30:25.211383+00:00",
+  "sha256": "fdbbe7903ee7519edf3728df9ba65da18e17cb193545169daaf0763d1e44131c",
+  "attribution": "Massachusetts Bay Transportation Authority (MBTA)",
+  "source_type": "public_gtfs_timetable",
+  "station_pair": [
+    "place-bbsta",
+    "place-sstat"
+  ],
+  "window_start_minute": 920,
+  "score": [
+    52,
+    21,
+    68,
+    -238
+  ],
+  "candidate_windows": 4798,
+  "ranking": [
+    {
+      "pair": [
+        "place-bbsta",
+        "place-sstat"
+      ],
+      "start_minute": 920,
+      "score": [
+        52,
+        21,
+        68,
+        -238
+      ]
+    },
+    {
+      "pair": [
+        "place-bbsta",
+        "place-sstat"
+      ],
+      "start_minute": 965,
+      "score": [
+        50,
+        23,
+        62,
+        -235
+      ]
+    },
+    {
+      "pair": [
+        "place-bbsta",
+        "place-sstat"
+      ],
+      "start_minute": 955,
+      "score": [
+        50,
+        22,
+        62,
+        -237
+      ]
+    },
+    {
+      "pair": [
+        "place-bbsta",
+        "place-sstat"
+      ],
+      "start_minute": 362,
+      "score": [
+        50,
+        22,
+        53,
+        -228
+      ]
+    },
+    {
+      "pair": [
+        "place-bbsta",
+        "place-sstat"
+      ],
+      "start_minute": 406,
+      "score": [
+        50,
+        22,
+        53,
+        -237
+      ]
+    },
+    {
+      "pair": [
+        "place-bbsta",
+        "place-sstat"
+      ],
+      "start_minute": 373,
+      "score": [
+        50,
+        22,
+        52,
+        -239
+      ]
+    },
+    {
+      "pair": [
+        "place-bbsta",
+        "place-sstat"
+      ],
+      "start_minute": 925,
+      "score": [
+        50,
+        21,
+        65,
+        -233
+      ]
+    },
+    {
+      "pair": [
+        "place-bbsta",
+        "place-sstat"
+      ],
+      "start_minute": 947,
+      "score": [
+        50,
+        21,
+        65,
+        -233
+      ]
+    },
+    {
+      "pair": [
+        "place-bbsta",
+        "place-sstat"
+      ],
+      "start_minute": 877,
+      "score": [
+        50,
+        20,
+        64,
+        -239
+      ]
+    },
+    {
+      "pair": [
+        "place-bbsta",
+        "place-sstat"
+      ],
+      "start_minute": 966,
+      "score": [
+        49,
+        23,
+        60,
+        -234
+      ]
+    },
+    {
+      "pair": [
+        "place-bbsta",
+        "place-sstat"
+      ],
+      "start_minute": 960,
+      "score": [
+        49,
+        22,
+        61,
+        -235
+      ]
+    },
+    {
+      "pair": [
+        "place-bbsta",
+        "place-sstat"
+      ],
+      "start_minute": 410,
+      "score": [
+        49,
+        22,
+        51,
+        -233
+      ]
+    },
+    {
+      "pair": [
+        "place-bbsta",
+        "place-sstat"
+      ],
+      "start_minute": 417,
+      "score": [
+        49,
+        22,
+        50,
+        -233
+      ]
+    },
+    {
+      "pair": [
+        "place-bbsta",
+        "place-sstat"
+      ],
+      "start_minute": 932,
+      "score": [
+        49,
+        21,
+        64,
+        -226
+      ]
+    },
+    {
+      "pair": [
+        "place-bbsta",
+        "place-sstat"
+      ],
+      "start_minute": 948,
+      "score": [
+        49,
+        21,
+        63,
+        -232
+      ]
+    },
+    {
+      "pair": [
+        "place-bbsta",
+        "place-sstat"
+      ],
+      "start_minute": 379,
+      "score": [
+        49,
+        21,
+        51,
+        -233
+      ]
+    },
+    {
+      "pair": [
+        "place-bbsta",
+        "place-sstat"
+      ],
+      "start_minute": 321,
+      "score": [
+        49,
+        20,
+        47,
+        -233
+      ]
+    },
+    {
+      "pair": [
+        "place-bbsta",
+        "place-sstat"
+      ],
+      "start_minute": 895,
+      "score": [
+        49,
+        19,
+        66,
+        -233
+      ]
+    },
+    {
+      "pair": [
+        "place-bbsta",
+        "place-sstat"
+      ],
+      "start_minute": 883,
+      "score": [
+        49,
+        19,
+        65,
+        -237
+      ]
+    },
+    {
+      "pair": [
+        "place-bbsta",
+        "place-sstat"
+      ],
+      "start_minute": 880,
+      "score": [
+        49,
+        19,
+        63,
+        -236
+      ]
+    }
+  ],
+  "service_date": "2026-10-28",
+  "processed_sha256": "84f2dc9c0f74005deffcbd635ca7efeac91e947cdc2917fcde19e8321be82444",
+  "train_count": 52,
+  "priority_assumption": "GTFS: all local (1); synthetic: seeded 20% express (2)",
+  "infrastructure": "Hypothetical single-track section; NOT verified MBTA infrastructure",
+  "time_rounding": "Service seconds and positive traversal durations rounded up to minutes"
+}

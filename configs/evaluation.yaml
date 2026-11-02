@@ -1,0 +1,4 @@
+bootstrap_seed: 31415
+bootstrap_samples: 2000
+confidence: 0.95
+selection_objective: mean_accrued_wait_per_train_plus_360_times_incomplete_fraction

@@ -1,0 +1,7 @@
+{
+  "source_url": "https://cdn.mbta.com/MBTA_GTFS.zip",
+  "retrieved_at": "2026-10-28T17:30:25.211383+00:00",
+  "sha256": "fdbbe7903ee7519edf3728df9ba65da18e17cb193545169daaf0763d1e44131c",
+  "attribution": "Massachusetts Bay Transportation Authority (MBTA)",
+  "source_type": "public_gtfs_timetable"
+}

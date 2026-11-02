@@ -1,0 +1,2161 @@
+controller,baseline,scenario_id,kind,metric,difference_rl_minus_baseline,improvement_percent
+PPO seed 42,FCFS,normal-10000,normal,throughput,0.25,2.857142857142857
+PPO seed 42,FCFS,peak-10001,peak,throughput,0.75,9.375
+PPO seed 42,FCFS,disruption-10002,disruption,throughput,0.25,3.0303030303030303
+PPO seed 42,FCFS,imbalance-10003,imbalance,throughput,0.75,9.67741935483871
+PPO seed 42,FCFS,saturation-10004,saturation,throughput,0.25,2.857142857142857
+PPO seed 42,FCFS,normal-10005,normal,throughput,0.25,2.857142857142857
+PPO seed 42,FCFS,peak-10006,peak,throughput,1.75,21.21212121212121
+PPO seed 42,FCFS,disruption-10007,disruption,throughput,0.25,3.0303030303030303
+PPO seed 42,FCFS,imbalance-10008,imbalance,throughput,0.25,2.9411764705882355
+PPO seed 42,FCFS,saturation-10009,saturation,throughput,0.75,9.090909090909092
+PPO seed 42,FCFS,normal-10010,normal,throughput,0.25,3.0303030303030303
+PPO seed 42,FCFS,peak-10011,peak,throughput,0.75,9.090909090909092
+PPO seed 42,FCFS,disruption-10012,disruption,throughput,0.5,5.882352941176471
+PPO seed 42,FCFS,imbalance-10013,imbalance,throughput,0.0,0.0
+PPO seed 42,FCFS,saturation-10014,saturation,throughput,0.25,3.0303030303030303
+PPO seed 42,FCFS,normal-10015,normal,throughput,-0.25,-2.7777777777777777
+PPO seed 42,FCFS,peak-10016,peak,throughput,1.0,12.5
+PPO seed 42,FCFS,disruption-10017,disruption,throughput,0.25,2.9411764705882355
+PPO seed 42,FCFS,imbalance-10018,imbalance,throughput,-0.5,-5.882352941176471
+PPO seed 42,FCFS,saturation-10019,saturation,throughput,0.25,2.9411764705882355
+PPO seed 42,FCFS,normal-10020,normal,throughput,0.5,5.714285714285714
+PPO seed 42,FCFS,peak-10021,peak,throughput,1.25,15.625
+PPO seed 42,FCFS,disruption-10022,disruption,throughput,0.25,3.0303030303030303
+PPO seed 42,FCFS,imbalance-10023,imbalance,throughput,0.0,0.0
+PPO seed 42,FCFS,saturation-10024,saturation,throughput,0.0,0.0
+PPO seed 42,FCFS,normal-10025,normal,throughput,0.25,2.857142857142857
+PPO seed 42,FCFS,peak-10026,peak,throughput,1.0,12.903225806451612
+PPO seed 42,FCFS,disruption-10027,disruption,throughput,0.0,0.0
+PPO seed 42,FCFS,imbalance-10028,imbalance,throughput,-0.75,-8.333333333333334
+PPO seed 42,FCFS,saturation-10029,saturation,throughput,0.25,2.9411764705882355
+PPO seed 42,FCFS,normal-10000,normal,mean_delay,-4.019607843137258,7.006151742993855
+PPO seed 42,FCFS,peak-10001,peak,mean_delay,-19.58,20.210569777043766
+PPO seed 42,FCFS,disruption-10002,disruption,mean_delay,-4.5714285714285765,7.260940032414919
+PPO seed 42,FCFS,imbalance-10003,imbalance,mean_delay,-6.400000000000006,8.847110865358038
+PPO seed 42,FCFS,saturation-10004,saturation,mean_delay,-5.0192307692307665,8.427510494026473
+PPO seed 42,FCFS,normal-10005,normal,mean_delay,-4.384615384615387,7.485226526592255
+PPO seed 42,FCFS,peak-10006,peak,mean_delay,-27.276573426573435,25.87815760229554
+PPO seed 42,FCFS,disruption-10007,disruption,mean_delay,-3.240000000000002,5.280312907431555
+PPO seed 42,FCFS,imbalance-10008,imbalance,mean_delay,-6.580000000000005,10.138674884437604
+PPO seed 42,FCFS,saturation-10009,saturation,mean_delay,-6.081960784313722,9.781217086384242
+PPO seed 42,FCFS,normal-10010,normal,mean_delay,-3.8039215686274446,5.748148148148139
+PPO seed 42,FCFS,peak-10011,peak,mean_delay,-17.287058823529406,17.00812556427529
+PPO seed 42,FCFS,disruption-10012,disruption,mean_delay,-5.196078431372548,8.806912595546692
+PPO seed 42,FCFS,imbalance-10013,imbalance,mean_delay,0.0,-0.0
+PPO seed 42,FCFS,saturation-10014,saturation,mean_delay,-4.408163265306129,6.390532544378708
+PPO seed 42,FCFS,normal-10015,normal,mean_delay,-4.21153846153846,6.82668329177057
+PPO seed 42,FCFS,peak-10016,peak,mean_delay,-24.711538461538467,22.77561148528891
+PPO seed 42,FCFS,disruption-10017,disruption,mean_delay,-4.66196078431372,7.6548615582743
+PPO seed 42,FCFS,imbalance-10018,imbalance,mean_delay,2.9399999999999977,-4.845088991430451
+PPO seed 42,FCFS,saturation-10019,saturation,mean_delay,-3.6600000000000037,5.972584856396872
+PPO seed 42,FCFS,normal-10020,normal,mean_delay,-5.5,9.584450402144771
+PPO seed 42,FCFS,peak-10021,peak,mean_delay,-22.91025641025641,21.545695683626715
+PPO seed 42,FCFS,disruption-10022,disruption,mean_delay,-5.714285714285715,8.544400366188588
+PPO seed 42,FCFS,imbalance-10023,imbalance,mean_delay,2.775510204081641,-4.228855721393048
+PPO seed 42,FCFS,saturation-10024,saturation,mean_delay,-3.6078431372549034,5.91259640102828
+PPO seed 42,FCFS,normal-10025,normal,mean_delay,-3.384615384615387,5.911991938192815
+PPO seed 42,FCFS,peak-10026,peak,mean_delay,-20.0,19.124115509657678
+PPO seed 42,FCFS,disruption-10027,disruption,mean_delay,-3.6923076923076934,7.1829405162738516
+PPO seed 42,FCFS,imbalance-10028,imbalance,mean_delay,4.549019607843142,-7.738492328218822
+PPO seed 42,FCFS,saturation-10029,saturation,mean_delay,-6.03846153846154,9.432261940522682
+PPO seed 42,FCFS,normal-10000,normal,p95_delay,15.0,-13.513513513513514
+PPO seed 42,FCFS,peak-10001,peak,p95_delay,46.0,-24.618678084024623
+PPO seed 42,FCFS,disruption-10002,disruption,p95_delay,19.80000000000001,-16.751269035533007
+PPO seed 42,FCFS,imbalance-10003,imbalance,p95_delay,61.099999999999994,-49.6344435418359
+PPO seed 42,FCFS,saturation-10004,saturation,p95_delay,11.0,-10.237319683573757
+PPO seed 42,FCFS,normal-10005,normal,p95_delay,11.449999999999989,-10.315315315315305
+PPO seed 42,FCFS,peak-10006,peak,p95_delay,44.70000000000002,-23.427672955974856
+PPO seed 42,FCFS,disruption-10007,disruption,p95_delay,16.09999999999998,-13.355454168394841
+PPO seed 42,FCFS,imbalance-10008,imbalance,p95_delay,65.19999999999995,-54.53785027185274
+PPO seed 42,FCFS,saturation-10009,saturation,p95_delay,10.900000000000006,-9.151973131822002
+PPO seed 42,FCFS,normal-10010,normal,p95_delay,23.0,-19.574468085106382
+PPO seed 42,FCFS,peak-10011,peak,p95_delay,64.30000000000001,-34.53276047261011
+PPO seed 42,FCFS,disruption-10012,disruption,p95_delay,13.400000000000006,-12.061206120612066
+PPO seed 42,FCFS,imbalance-10013,imbalance,p95_delay,77.64999999999992,-70.9456372772955
+PPO seed 42,FCFS,saturation-10014,saturation,p95_delay,23.200000000000017,-19.01639344262297
+PPO seed 42,FCFS,normal-10015,normal,p95_delay,18.89999999999999,-17.830188679245275
+PPO seed 42,FCFS,peak-10016,peak,p95_delay,47.79999999999998,-25.3782851075126
+PPO seed 42,FCFS,disruption-10017,disruption,p95_delay,21.149999999999977,-17.848101265822766
+PPO seed 42,FCFS,imbalance-10018,imbalance,p95_delay,88.74999999999999,-75.49978732454274
+PPO seed 42,FCFS,saturation-10019,saturation,p95_delay,11.450000000000003,-9.862187769164516
+PPO seed 42,FCFS,normal-10020,normal,p95_delay,13.549999999999997,-13.168124392614187
+PPO seed 42,FCFS,peak-10021,peak,p95_delay,66.35,-36.45604395604395
+PPO seed 42,FCFS,disruption-10022,disruption,p95_delay,15.0,-11.737089201877936
+PPO seed 42,FCFS,imbalance-10023,imbalance,p95_delay,50.19999999999999,-39.34169278996865
+PPO seed 42,FCFS,saturation-10024,saturation,p95_delay,24.0,-20.869565217391305
+PPO seed 42,FCFS,normal-10025,normal,p95_delay,23.0,-23.601847101077478
+PPO seed 42,FCFS,peak-10026,peak,p95_delay,61.89999999999998,-33.50473612990527
+PPO seed 42,FCFS,disruption-10027,disruption,p95_delay,21.44999999999999,-22.34374999999999
+PPO seed 42,FCFS,imbalance-10028,imbalance,p95_delay,70.5,-64.0909090909091
+PPO seed 42,FCFS,saturation-10029,saturation,p95_delay,11.0,-9.734513274336283
+PPO seed 42,FCFS,normal-10000,normal,incomplete_trains,0.0,-0.0
+PPO seed 42,FCFS,peak-10001,peak,incomplete_trains,0.0,-0.0
+PPO seed 42,FCFS,disruption-10002,disruption,incomplete_trains,0.0,-0.0
+PPO seed 42,FCFS,imbalance-10003,imbalance,incomplete_trains,0.0,-0.0
+PPO seed 42,FCFS,saturation-10004,saturation,incomplete_trains,0.0,
+PPO seed 42,FCFS,normal-10005,normal,incomplete_trains,0.0,
+PPO seed 42,FCFS,peak-10006,peak,incomplete_trains,-3.0,11.538461538461538
+PPO seed 42,FCFS,disruption-10007,disruption,incomplete_trains,0.0,-0.0
+PPO seed 42,FCFS,imbalance-10008,imbalance,incomplete_trains,0.0,-0.0
+PPO seed 42,FCFS,saturation-10009,saturation,incomplete_trains,-1.0,50.0
+PPO seed 42,FCFS,normal-10010,normal,incomplete_trains,0.0,-0.0
+PPO seed 42,FCFS,peak-10011,peak,incomplete_trains,-1.0,3.5714285714285716
+PPO seed 42,FCFS,disruption-10012,disruption,incomplete_trains,-1.0,50.0
+PPO seed 42,FCFS,imbalance-10013,imbalance,incomplete_trains,0.0,
+PPO seed 42,FCFS,saturation-10014,saturation,incomplete_trains,0.0,-0.0
+PPO seed 42,FCFS,normal-10015,normal,incomplete_trains,0.0,
+PPO seed 42,FCFS,peak-10016,peak,incomplete_trains,0.0,-0.0
+PPO seed 42,FCFS,disruption-10017,disruption,incomplete_trains,1.0,-100.0
+PPO seed 42,FCFS,imbalance-10018,imbalance,incomplete_trains,0.0,-0.0
+PPO seed 42,FCFS,saturation-10019,saturation,incomplete_trains,0.0,-0.0
+PPO seed 42,FCFS,normal-10020,normal,incomplete_trains,0.0,
+PPO seed 42,FCFS,peak-10021,peak,incomplete_trains,-1.0,3.7037037037037037
+PPO seed 42,FCFS,disruption-10022,disruption,incomplete_trains,0.0,-0.0
+PPO seed 42,FCFS,imbalance-10023,imbalance,incomplete_trains,0.0,-0.0
+PPO seed 42,FCFS,saturation-10024,saturation,incomplete_trains,0.0,-0.0
+PPO seed 42,FCFS,normal-10025,normal,incomplete_trains,0.0,
+PPO seed 42,FCFS,peak-10026,peak,incomplete_trains,0.0,-0.0
+PPO seed 42,FCFS,disruption-10027,disruption,incomplete_trains,0.0,
+PPO seed 42,FCFS,imbalance-10028,imbalance,incomplete_trains,0.0,-0.0
+PPO seed 42,FCFS,saturation-10029,saturation,incomplete_trains,0.0,
+PPO seed 42,FCFS,normal-10000,normal,selection_cost,-3.846153846153854,5.880623346074695
+PPO seed 42,FCFS,peak-10001,peak,selection_cost,-6.666666666666657,2.6764115497452226
+PPO seed 42,FCFS,disruption-10002,disruption,selection_cost,-4.307692307692307,4.945904173106645
+PPO seed 42,FCFS,imbalance-10003,imbalance,selection_cost,-6.096153846153854,6.915357766143115
+PPO seed 42,FCFS,saturation-10004,saturation,selection_cost,-5.0192307692307665,8.427510494026473
+PPO seed 42,FCFS,normal-10005,normal,selection_cost,-4.384615384615387,7.485226526592255
+PPO seed 42,FCFS,peak-10006,peak,selection_cost,-29.65384615384616,12.09917874143433
+PPO seed 42,FCFS,disruption-10007,disruption,selection_cost,-3.0576923076923066,3.951292246520873
+PPO seed 42,FCFS,imbalance-10008,imbalance,selection_cost,-6.07692307692308,7.511290705966251
+PPO seed 42,FCFS,saturation-10009,saturation,selection_cost,-14.0,17.847511645011032
+PPO seed 42,FCFS,normal-10010,normal,selection_cost,-3.711538461538453,5.003889032927134
+PPO seed 42,FCFS,peak-10011,peak,selection_cost,-11.320512820512818,4.429395535490342
+PPO seed 42,FCFS,disruption-10012,disruption,selection_cost,-13.11538461538462,17.43799539759653
+PPO seed 42,FCFS,imbalance-10013,imbalance,selection_cost,0.0,-0.0
+PPO seed 42,FCFS,saturation-10014,saturation,selection_cost,-4.057692307692307,4.3541064795707785
+PPO seed 42,FCFS,normal-10015,normal,selection_cost,-4.21153846153846,6.82668329177057
+PPO seed 42,FCFS,peak-10016,peak,selection_cost,-10.384615384615387,4.203425012973534
+PPO seed 42,FCFS,disruption-10017,disruption,selection_cost,3.538461538461533,-5.128205128205121
+PPO seed 42,FCFS,imbalance-10018,imbalance,selection_cost,2.8461538461538396,-3.700925231307818
+PPO seed 42,FCFS,saturation-10019,saturation,selection_cost,-3.442307692307679,4.436183395291185
+PPO seed 42,FCFS,normal-10020,normal,selection_cost,-5.5,9.584450402144771
+PPO seed 42,FCFS,peak-10021,peak,selection_cost,-15.628205128205138,6.194105691056914
+PPO seed 42,FCFS,disruption-10022,disruption,selection_cost,-5.384615384615387,5.923418658768777
+PPO seed 42,FCFS,imbalance-10023,imbalance,selection_cost,2.615384615384613,-2.9172029172029146
+PPO seed 42,FCFS,saturation-10024,saturation,selection_cost,-3.32692307692308,4.820284201727505
+PPO seed 42,FCFS,normal-10025,normal,selection_cost,-3.384615384615387,5.911991938192815
+PPO seed 42,FCFS,peak-10026,peak,selection_cost,-7.961538461538453,3.0814270828164507
+PPO seed 42,FCFS,disruption-10027,disruption,selection_cost,-3.6923076923076934,7.1829405162738516
+PPO seed 42,FCFS,imbalance-10028,imbalance,selection_cost,4.596153846153854,-6.88165850849411
+PPO seed 42,FCFS,saturation-10029,saturation,selection_cost,-6.03846153846154,9.432261940522682
+PPO seed 42,FCFS,normal-10000,normal,utilization,-0.012499999999999956,-1.7857142857142796
+PPO seed 42,FCFS,peak-10001,peak,utilization,-0.02499999999999991,-3.409090909090897
+PPO seed 42,FCFS,disruption-10002,disruption,utilization,-0.008333333333333304,-1.1560693641618456
+PPO seed 42,FCFS,imbalance-10003,imbalance,utilization,-0.02083333333333326,-2.8735632183907946
+PPO seed 42,FCFS,saturation-10004,saturation,utilization,-0.012500000000000067,-1.75438596491229
+PPO seed 42,FCFS,normal-10005,normal,utilization,-0.012499999999999956,-1.7857142857142796
+PPO seed 42,FCFS,peak-10006,peak,utilization,-0.04999999999999993,-6.896551724137922
+PPO seed 42,FCFS,disruption-10007,disruption,utilization,-0.008333333333333304,-1.1627906976744145
+PPO seed 42,FCFS,imbalance-10008,imbalance,utilization,-0.008333333333333415,-1.1834319526627333
+PPO seed 42,FCFS,saturation-10009,saturation,utilization,-0.025000000000000022,-3.448275862068969
+PPO seed 42,FCFS,normal-10010,normal,utilization,-0.012499999999999956,-1.7441860465116217
+PPO seed 42,FCFS,peak-10011,peak,utilization,-0.02083333333333326,-2.8735632183907946
+PPO seed 42,FCFS,disruption-10012,disruption,utilization,-0.02083333333333337,-2.9069767441860517
+PPO seed 42,FCFS,imbalance-10013,imbalance,utilization,0.0,0.0
+PPO seed 42,FCFS,saturation-10014,saturation,utilization,-0.008333333333333304,-1.1627906976744145
+PPO seed 42,FCFS,normal-10015,normal,utilization,0.0,0.0
+PPO seed 42,FCFS,peak-10016,peak,utilization,-0.04166666666666674,-5.617977528089898
+PPO seed 42,FCFS,disruption-10017,disruption,utilization,0.0,0.0
+PPO seed 42,FCFS,imbalance-10018,imbalance,utilization,0.016666666666666607,2.325581395348829
+PPO seed 42,FCFS,saturation-10019,saturation,utilization,-0.01666666666666672,-2.339181286549715
+PPO seed 42,FCFS,normal-10020,normal,utilization,-0.01666666666666672,-2.3529411764705954
+PPO seed 42,FCFS,peak-10021,peak,utilization,-0.04166666666666674,-5.649717514124304
+PPO seed 42,FCFS,disruption-10022,disruption,utilization,-0.012499999999999956,-1.7045454545454486
+PPO seed 42,FCFS,imbalance-10023,imbalance,utilization,0.0,0.0
+PPO seed 42,FCFS,saturation-10024,saturation,utilization,0.0,0.0
+PPO seed 42,FCFS,normal-10025,normal,utilization,-0.008333333333333304,-1.1904761904761862
+PPO seed 42,FCFS,peak-10026,peak,utilization,-0.029166666666666674,-3.932584269662922
+PPO seed 42,FCFS,disruption-10027,disruption,utilization,0.0,0.0
+PPO seed 42,FCFS,imbalance-10028,imbalance,utilization,0.025000000000000022,3.5714285714285747
+PPO seed 42,FCFS,saturation-10029,saturation,utilization,-0.008333333333333304,-1.2048192771084294
+PPO seed 42,Fixed Priority,normal-10000,normal,throughput,0.25,2.857142857142857
+PPO seed 42,Fixed Priority,peak-10001,peak,throughput,0.75,9.375
+PPO seed 42,Fixed Priority,disruption-10002,disruption,throughput,0.25,3.0303030303030303
+PPO seed 42,Fixed Priority,imbalance-10003,imbalance,throughput,0.75,9.67741935483871
+PPO seed 42,Fixed Priority,saturation-10004,saturation,throughput,0.25,2.857142857142857
+PPO seed 42,Fixed Priority,normal-10005,normal,throughput,0.25,2.857142857142857
+PPO seed 42,Fixed Priority,peak-10006,peak,throughput,1.75,21.21212121212121
+PPO seed 42,Fixed Priority,disruption-10007,disruption,throughput,0.25,3.0303030303030303
+PPO seed 42,Fixed Priority,imbalance-10008,imbalance,throughput,0.25,2.9411764705882355
+PPO seed 42,Fixed Priority,saturation-10009,saturation,throughput,0.75,9.090909090909092
+PPO seed 42,Fixed Priority,normal-10010,normal,throughput,0.25,3.0303030303030303
+PPO seed 42,Fixed Priority,peak-10011,peak,throughput,0.75,9.090909090909092
+PPO seed 42,Fixed Priority,disruption-10012,disruption,throughput,0.5,5.882352941176471
+PPO seed 42,Fixed Priority,imbalance-10013,imbalance,throughput,0.0,0.0
+PPO seed 42,Fixed Priority,saturation-10014,saturation,throughput,0.25,3.0303030303030303
+PPO seed 42,Fixed Priority,normal-10015,normal,throughput,-0.25,-2.7777777777777777
+PPO seed 42,Fixed Priority,peak-10016,peak,throughput,1.0,12.5
+PPO seed 42,Fixed Priority,disruption-10017,disruption,throughput,0.25,2.9411764705882355
+PPO seed 42,Fixed Priority,imbalance-10018,imbalance,throughput,-0.5,-5.882352941176471
+PPO seed 42,Fixed Priority,saturation-10019,saturation,throughput,0.25,2.9411764705882355
+PPO seed 42,Fixed Priority,normal-10020,normal,throughput,0.5,5.714285714285714
+PPO seed 42,Fixed Priority,peak-10021,peak,throughput,1.25,15.625
+PPO seed 42,Fixed Priority,disruption-10022,disruption,throughput,0.25,3.0303030303030303
+PPO seed 42,Fixed Priority,imbalance-10023,imbalance,throughput,0.0,0.0
+PPO seed 42,Fixed Priority,saturation-10024,saturation,throughput,0.0,0.0
+PPO seed 42,Fixed Priority,normal-10025,normal,throughput,0.25,2.857142857142857
+PPO seed 42,Fixed Priority,peak-10026,peak,throughput,1.0,12.903225806451612
+PPO seed 42,Fixed Priority,disruption-10027,disruption,throughput,0.0,0.0
+PPO seed 42,Fixed Priority,imbalance-10028,imbalance,throughput,-0.75,-8.333333333333334
+PPO seed 42,Fixed Priority,saturation-10029,saturation,throughput,0.25,2.9411764705882355
+PPO seed 42,Fixed Priority,normal-10000,normal,mean_delay,-4.019607843137258,7.006151742993855
+PPO seed 42,Fixed Priority,peak-10001,peak,mean_delay,-19.58,20.210569777043766
+PPO seed 42,Fixed Priority,disruption-10002,disruption,mean_delay,-4.5714285714285765,7.260940032414919
+PPO seed 42,Fixed Priority,imbalance-10003,imbalance,mean_delay,-6.400000000000006,8.847110865358038
+PPO seed 42,Fixed Priority,saturation-10004,saturation,mean_delay,-5.0192307692307665,8.427510494026473
+PPO seed 42,Fixed Priority,normal-10005,normal,mean_delay,-4.384615384615387,7.485226526592255
+PPO seed 42,Fixed Priority,peak-10006,peak,mean_delay,-27.276573426573435,25.87815760229554
+PPO seed 42,Fixed Priority,disruption-10007,disruption,mean_delay,-3.240000000000002,5.280312907431555
+PPO seed 42,Fixed Priority,imbalance-10008,imbalance,mean_delay,-6.580000000000005,10.138674884437604
+PPO seed 42,Fixed Priority,saturation-10009,saturation,mean_delay,-6.081960784313722,9.781217086384242
+PPO seed 42,Fixed Priority,normal-10010,normal,mean_delay,-3.8039215686274446,5.748148148148139
+PPO seed 42,Fixed Priority,peak-10011,peak,mean_delay,-17.287058823529406,17.00812556427529
+PPO seed 42,Fixed Priority,disruption-10012,disruption,mean_delay,-5.196078431372548,8.806912595546692
+PPO seed 42,Fixed Priority,imbalance-10013,imbalance,mean_delay,0.0,-0.0
+PPO seed 42,Fixed Priority,saturation-10014,saturation,mean_delay,-4.408163265306129,6.390532544378708
+PPO seed 42,Fixed Priority,normal-10015,normal,mean_delay,-4.21153846153846,6.82668329177057
+PPO seed 42,Fixed Priority,peak-10016,peak,mean_delay,-24.711538461538467,22.77561148528891
+PPO seed 42,Fixed Priority,disruption-10017,disruption,mean_delay,-4.66196078431372,7.6548615582743
+PPO seed 42,Fixed Priority,imbalance-10018,imbalance,mean_delay,2.9399999999999977,-4.845088991430451
+PPO seed 42,Fixed Priority,saturation-10019,saturation,mean_delay,-3.6600000000000037,5.972584856396872
+PPO seed 42,Fixed Priority,normal-10020,normal,mean_delay,-5.5,9.584450402144771
+PPO seed 42,Fixed Priority,peak-10021,peak,mean_delay,-22.91025641025641,21.545695683626715
+PPO seed 42,Fixed Priority,disruption-10022,disruption,mean_delay,-5.714285714285715,8.544400366188588
+PPO seed 42,Fixed Priority,imbalance-10023,imbalance,mean_delay,2.775510204081641,-4.228855721393048
+PPO seed 42,Fixed Priority,saturation-10024,saturation,mean_delay,-3.6078431372549034,5.91259640102828
+PPO seed 42,Fixed Priority,normal-10025,normal,mean_delay,-3.384615384615387,5.911991938192815
+PPO seed 42,Fixed Priority,peak-10026,peak,mean_delay,-20.0,19.124115509657678
+PPO seed 42,Fixed Priority,disruption-10027,disruption,mean_delay,-3.6923076923076934,7.1829405162738516
+PPO seed 42,Fixed Priority,imbalance-10028,imbalance,mean_delay,4.549019607843142,-7.738492328218822
+PPO seed 42,Fixed Priority,saturation-10029,saturation,mean_delay,-6.03846153846154,9.432261940522682
+PPO seed 42,Fixed Priority,normal-10000,normal,p95_delay,15.0,-13.513513513513514
+PPO seed 42,Fixed Priority,peak-10001,peak,p95_delay,46.0,-24.618678084024623
+PPO seed 42,Fixed Priority,disruption-10002,disruption,p95_delay,19.80000000000001,-16.751269035533007
+PPO seed 42,Fixed Priority,imbalance-10003,imbalance,p95_delay,61.099999999999994,-49.6344435418359
+PPO seed 42,Fixed Priority,saturation-10004,saturation,p95_delay,11.0,-10.237319683573757
+PPO seed 42,Fixed Priority,normal-10005,normal,p95_delay,11.449999999999989,-10.315315315315305
+PPO seed 42,Fixed Priority,peak-10006,peak,p95_delay,44.70000000000002,-23.427672955974856
+PPO seed 42,Fixed Priority,disruption-10007,disruption,p95_delay,16.09999999999998,-13.355454168394841
+PPO seed 42,Fixed Priority,imbalance-10008,imbalance,p95_delay,65.19999999999995,-54.53785027185274
+PPO seed 42,Fixed Priority,saturation-10009,saturation,p95_delay,10.900000000000006,-9.151973131822002
+PPO seed 42,Fixed Priority,normal-10010,normal,p95_delay,23.0,-19.574468085106382
+PPO seed 42,Fixed Priority,peak-10011,peak,p95_delay,64.30000000000001,-34.53276047261011
+PPO seed 42,Fixed Priority,disruption-10012,disruption,p95_delay,13.400000000000006,-12.061206120612066
+PPO seed 42,Fixed Priority,imbalance-10013,imbalance,p95_delay,77.64999999999992,-70.9456372772955
+PPO seed 42,Fixed Priority,saturation-10014,saturation,p95_delay,23.200000000000017,-19.01639344262297
+PPO seed 42,Fixed Priority,normal-10015,normal,p95_delay,18.89999999999999,-17.830188679245275
+PPO seed 42,Fixed Priority,peak-10016,peak,p95_delay,47.79999999999998,-25.3782851075126
+PPO seed 42,Fixed Priority,disruption-10017,disruption,p95_delay,21.149999999999977,-17.848101265822766
+PPO seed 42,Fixed Priority,imbalance-10018,imbalance,p95_delay,88.74999999999999,-75.49978732454274
+PPO seed 42,Fixed Priority,saturation-10019,saturation,p95_delay,11.450000000000003,-9.862187769164516
+PPO seed 42,Fixed Priority,normal-10020,normal,p95_delay,13.549999999999997,-13.168124392614187
+PPO seed 42,Fixed Priority,peak-10021,peak,p95_delay,66.35,-36.45604395604395
+PPO seed 42,Fixed Priority,disruption-10022,disruption,p95_delay,15.0,-11.737089201877936
+PPO seed 42,Fixed Priority,imbalance-10023,imbalance,p95_delay,50.19999999999999,-39.34169278996865
+PPO seed 42,Fixed Priority,saturation-10024,saturation,p95_delay,24.0,-20.869565217391305
+PPO seed 42,Fixed Priority,normal-10025,normal,p95_delay,23.0,-23.601847101077478
+PPO seed 42,Fixed Priority,peak-10026,peak,p95_delay,61.89999999999998,-33.50473612990527
+PPO seed 42,Fixed Priority,disruption-10027,disruption,p95_delay,21.44999999999999,-22.34374999999999
+PPO seed 42,Fixed Priority,imbalance-10028,imbalance,p95_delay,70.5,-64.0909090909091
+PPO seed 42,Fixed Priority,saturation-10029,saturation,p95_delay,11.0,-9.734513274336283
+PPO seed 42,Fixed Priority,normal-10000,normal,incomplete_trains,0.0,-0.0
+PPO seed 42,Fixed Priority,peak-10001,peak,incomplete_trains,0.0,-0.0
+PPO seed 42,Fixed Priority,disruption-10002,disruption,incomplete_trains,0.0,-0.0
+PPO seed 42,Fixed Priority,imbalance-10003,imbalance,incomplete_trains,0.0,-0.0
+PPO seed 42,Fixed Priority,saturation-10004,saturation,incomplete_trains,0.0,
+PPO seed 42,Fixed Priority,normal-10005,normal,incomplete_trains,0.0,
+PPO seed 42,Fixed Priority,peak-10006,peak,incomplete_trains,-3.0,11.538461538461538
+PPO seed 42,Fixed Priority,disruption-10007,disruption,incomplete_trains,0.0,-0.0
+PPO seed 42,Fixed Priority,imbalance-10008,imbalance,incomplete_trains,0.0,-0.0
+PPO seed 42,Fixed Priority,saturation-10009,saturation,incomplete_trains,-1.0,50.0
+PPO seed 42,Fixed Priority,normal-10010,normal,incomplete_trains,0.0,-0.0
+PPO seed 42,Fixed Priority,peak-10011,peak,incomplete_trains,-1.0,3.5714285714285716
+PPO seed 42,Fixed Priority,disruption-10012,disruption,incomplete_trains,-1.0,50.0
+PPO seed 42,Fixed Priority,imbalance-10013,imbalance,incomplete_trains,0.0,
+PPO seed 42,Fixed Priority,saturation-10014,saturation,incomplete_trains,0.0,-0.0
+PPO seed 42,Fixed Priority,normal-10015,normal,incomplete_trains,0.0,
+PPO seed 42,Fixed Priority,peak-10016,peak,incomplete_trains,0.0,-0.0
+PPO seed 42,Fixed Priority,disruption-10017,disruption,incomplete_trains,1.0,-100.0
+PPO seed 42,Fixed Priority,imbalance-10018,imbalance,incomplete_trains,0.0,-0.0
+PPO seed 42,Fixed Priority,saturation-10019,saturation,incomplete_trains,0.0,-0.0
+PPO seed 42,Fixed Priority,normal-10020,normal,incomplete_trains,0.0,
+PPO seed 42,Fixed Priority,peak-10021,peak,incomplete_trains,-1.0,3.7037037037037037
+PPO seed 42,Fixed Priority,disruption-10022,disruption,incomplete_trains,0.0,-0.0
+PPO seed 42,Fixed Priority,imbalance-10023,imbalance,incomplete_trains,0.0,-0.0
+PPO seed 42,Fixed Priority,saturation-10024,saturation,incomplete_trains,0.0,-0.0
+PPO seed 42,Fixed Priority,normal-10025,normal,incomplete_trains,0.0,
+PPO seed 42,Fixed Priority,peak-10026,peak,incomplete_trains,0.0,-0.0
+PPO seed 42,Fixed Priority,disruption-10027,disruption,incomplete_trains,0.0,
+PPO seed 42,Fixed Priority,imbalance-10028,imbalance,incomplete_trains,0.0,-0.0
+PPO seed 42,Fixed Priority,saturation-10029,saturation,incomplete_trains,0.0,
+PPO seed 42,Fixed Priority,normal-10000,normal,selection_cost,-3.846153846153854,5.880623346074695
+PPO seed 42,Fixed Priority,peak-10001,peak,selection_cost,-6.666666666666657,2.6764115497452226
+PPO seed 42,Fixed Priority,disruption-10002,disruption,selection_cost,-4.307692307692307,4.945904173106645
+PPO seed 42,Fixed Priority,imbalance-10003,imbalance,selection_cost,-6.096153846153854,6.915357766143115
+PPO seed 42,Fixed Priority,saturation-10004,saturation,selection_cost,-5.0192307692307665,8.427510494026473
+PPO seed 42,Fixed Priority,normal-10005,normal,selection_cost,-4.384615384615387,7.485226526592255
+PPO seed 42,Fixed Priority,peak-10006,peak,selection_cost,-29.65384615384616,12.09917874143433
+PPO seed 42,Fixed Priority,disruption-10007,disruption,selection_cost,-3.0576923076923066,3.951292246520873
+PPO seed 42,Fixed Priority,imbalance-10008,imbalance,selection_cost,-6.07692307692308,7.511290705966251
+PPO seed 42,Fixed Priority,saturation-10009,saturation,selection_cost,-14.0,17.847511645011032
+PPO seed 42,Fixed Priority,normal-10010,normal,selection_cost,-3.711538461538453,5.003889032927134
+PPO seed 42,Fixed Priority,peak-10011,peak,selection_cost,-11.320512820512818,4.429395535490342
+PPO seed 42,Fixed Priority,disruption-10012,disruption,selection_cost,-13.11538461538462,17.43799539759653
+PPO seed 42,Fixed Priority,imbalance-10013,imbalance,selection_cost,0.0,-0.0
+PPO seed 42,Fixed Priority,saturation-10014,saturation,selection_cost,-4.057692307692307,4.3541064795707785
+PPO seed 42,Fixed Priority,normal-10015,normal,selection_cost,-4.21153846153846,6.82668329177057
+PPO seed 42,Fixed Priority,peak-10016,peak,selection_cost,-10.384615384615387,4.203425012973534
+PPO seed 42,Fixed Priority,disruption-10017,disruption,selection_cost,3.538461538461533,-5.128205128205121
+PPO seed 42,Fixed Priority,imbalance-10018,imbalance,selection_cost,2.8461538461538396,-3.700925231307818
+PPO seed 42,Fixed Priority,saturation-10019,saturation,selection_cost,-3.442307692307679,4.436183395291185
+PPO seed 42,Fixed Priority,normal-10020,normal,selection_cost,-5.5,9.584450402144771
+PPO seed 42,Fixed Priority,peak-10021,peak,selection_cost,-15.628205128205138,6.194105691056914
+PPO seed 42,Fixed Priority,disruption-10022,disruption,selection_cost,-5.384615384615387,5.923418658768777
+PPO seed 42,Fixed Priority,imbalance-10023,imbalance,selection_cost,2.615384615384613,-2.9172029172029146
+PPO seed 42,Fixed Priority,saturation-10024,saturation,selection_cost,-3.32692307692308,4.820284201727505
+PPO seed 42,Fixed Priority,normal-10025,normal,selection_cost,-3.384615384615387,5.911991938192815
+PPO seed 42,Fixed Priority,peak-10026,peak,selection_cost,-7.961538461538453,3.0814270828164507
+PPO seed 42,Fixed Priority,disruption-10027,disruption,selection_cost,-3.6923076923076934,7.1829405162738516
+PPO seed 42,Fixed Priority,imbalance-10028,imbalance,selection_cost,4.596153846153854,-6.88165850849411
+PPO seed 42,Fixed Priority,saturation-10029,saturation,selection_cost,-6.03846153846154,9.432261940522682
+PPO seed 42,Fixed Priority,normal-10000,normal,utilization,-0.012499999999999956,-1.7857142857142796
+PPO seed 42,Fixed Priority,peak-10001,peak,utilization,-0.02499999999999991,-3.409090909090897
+PPO seed 42,Fixed Priority,disruption-10002,disruption,utilization,-0.008333333333333304,-1.1560693641618456
+PPO seed 42,Fixed Priority,imbalance-10003,imbalance,utilization,-0.02083333333333326,-2.8735632183907946
+PPO seed 42,Fixed Priority,saturation-10004,saturation,utilization,-0.012500000000000067,-1.75438596491229
+PPO seed 42,Fixed Priority,normal-10005,normal,utilization,-0.012499999999999956,-1.7857142857142796
+PPO seed 42,Fixed Priority,peak-10006,peak,utilization,-0.04999999999999993,-6.896551724137922
+PPO seed 42,Fixed Priority,disruption-10007,disruption,utilization,-0.008333333333333304,-1.1627906976744145
+PPO seed 42,Fixed Priority,imbalance-10008,imbalance,utilization,-0.008333333333333415,-1.1834319526627333
+PPO seed 42,Fixed Priority,saturation-10009,saturation,utilization,-0.025000000000000022,-3.448275862068969
+PPO seed 42,Fixed Priority,normal-10010,normal,utilization,-0.012499999999999956,-1.7441860465116217
+PPO seed 42,Fixed Priority,peak-10011,peak,utilization,-0.02083333333333326,-2.8735632183907946
+PPO seed 42,Fixed Priority,disruption-10012,disruption,utilization,-0.02083333333333337,-2.9069767441860517
+PPO seed 42,Fixed Priority,imbalance-10013,imbalance,utilization,0.0,0.0
+PPO seed 42,Fixed Priority,saturation-10014,saturation,utilization,-0.008333333333333304,-1.1627906976744145
+PPO seed 42,Fixed Priority,normal-10015,normal,utilization,0.0,0.0
+PPO seed 42,Fixed Priority,peak-10016,peak,utilization,-0.04166666666666674,-5.617977528089898
+PPO seed 42,Fixed Priority,disruption-10017,disruption,utilization,0.0,0.0
+PPO seed 42,Fixed Priority,imbalance-10018,imbalance,utilization,0.016666666666666607,2.325581395348829
+PPO seed 42,Fixed Priority,saturation-10019,saturation,utilization,-0.01666666666666672,-2.339181286549715
+PPO seed 42,Fixed Priority,normal-10020,normal,utilization,-0.01666666666666672,-2.3529411764705954
+PPO seed 42,Fixed Priority,peak-10021,peak,utilization,-0.04166666666666674,-5.649717514124304
+PPO seed 42,Fixed Priority,disruption-10022,disruption,utilization,-0.012499999999999956,-1.7045454545454486
+PPO seed 42,Fixed Priority,imbalance-10023,imbalance,utilization,0.0,0.0
+PPO seed 42,Fixed Priority,saturation-10024,saturation,utilization,0.0,0.0
+PPO seed 42,Fixed Priority,normal-10025,normal,utilization,-0.008333333333333304,-1.1904761904761862
+PPO seed 42,Fixed Priority,peak-10026,peak,utilization,-0.029166666666666674,-3.932584269662922
+PPO seed 42,Fixed Priority,disruption-10027,disruption,utilization,0.0,0.0
+PPO seed 42,Fixed Priority,imbalance-10028,imbalance,utilization,0.025000000000000022,3.5714285714285747
+PPO seed 42,Fixed Priority,saturation-10029,saturation,utilization,-0.008333333333333304,-1.2048192771084294
+PPO seed 42,Longest Waiting,normal-10000,normal,throughput,0.25,2.857142857142857
+PPO seed 42,Longest Waiting,peak-10001,peak,throughput,0.75,9.375
+PPO seed 42,Longest Waiting,disruption-10002,disruption,throughput,0.25,3.0303030303030303
+PPO seed 42,Longest Waiting,imbalance-10003,imbalance,throughput,0.75,9.67741935483871
+PPO seed 42,Longest Waiting,saturation-10004,saturation,throughput,0.25,2.857142857142857
+PPO seed 42,Longest Waiting,normal-10005,normal,throughput,0.25,2.857142857142857
+PPO seed 42,Longest Waiting,peak-10006,peak,throughput,1.75,21.21212121212121
+PPO seed 42,Longest Waiting,disruption-10007,disruption,throughput,0.25,3.0303030303030303
+PPO seed 42,Longest Waiting,imbalance-10008,imbalance,throughput,0.25,2.9411764705882355
+PPO seed 42,Longest Waiting,saturation-10009,saturation,throughput,0.75,9.090909090909092
+PPO seed 42,Longest Waiting,normal-10010,normal,throughput,0.25,3.0303030303030303
+PPO seed 42,Longest Waiting,peak-10011,peak,throughput,0.75,9.090909090909092
+PPO seed 42,Longest Waiting,disruption-10012,disruption,throughput,0.5,5.882352941176471
+PPO seed 42,Longest Waiting,imbalance-10013,imbalance,throughput,0.0,0.0
+PPO seed 42,Longest Waiting,saturation-10014,saturation,throughput,0.25,3.0303030303030303
+PPO seed 42,Longest Waiting,normal-10015,normal,throughput,-0.25,-2.7777777777777777
+PPO seed 42,Longest Waiting,peak-10016,peak,throughput,1.0,12.5
+PPO seed 42,Longest Waiting,disruption-10017,disruption,throughput,0.25,2.9411764705882355
+PPO seed 42,Longest Waiting,imbalance-10018,imbalance,throughput,-0.5,-5.882352941176471
+PPO seed 42,Longest Waiting,saturation-10019,saturation,throughput,0.25,2.9411764705882355
+PPO seed 42,Longest Waiting,normal-10020,normal,throughput,0.5,5.714285714285714
+PPO seed 42,Longest Waiting,peak-10021,peak,throughput,1.25,15.625
+PPO seed 42,Longest Waiting,disruption-10022,disruption,throughput,0.25,3.0303030303030303
+PPO seed 42,Longest Waiting,imbalance-10023,imbalance,throughput,0.0,0.0
+PPO seed 42,Longest Waiting,saturation-10024,saturation,throughput,0.0,0.0
+PPO seed 42,Longest Waiting,normal-10025,normal,throughput,0.25,2.857142857142857
+PPO seed 42,Longest Waiting,peak-10026,peak,throughput,1.0,12.903225806451612
+PPO seed 42,Longest Waiting,disruption-10027,disruption,throughput,0.0,0.0
+PPO seed 42,Longest Waiting,imbalance-10028,imbalance,throughput,-0.75,-8.333333333333334
+PPO seed 42,Longest Waiting,saturation-10029,saturation,throughput,0.25,2.9411764705882355
+PPO seed 42,Longest Waiting,normal-10000,normal,mean_delay,-4.019607843137258,7.006151742993855
+PPO seed 42,Longest Waiting,peak-10001,peak,mean_delay,-19.58,20.210569777043766
+PPO seed 42,Longest Waiting,disruption-10002,disruption,mean_delay,-4.5714285714285765,7.260940032414919
+PPO seed 42,Longest Waiting,imbalance-10003,imbalance,mean_delay,-6.400000000000006,8.847110865358038
+PPO seed 42,Longest Waiting,saturation-10004,saturation,mean_delay,-5.0192307692307665,8.427510494026473
+PPO seed 42,Longest Waiting,normal-10005,normal,mean_delay,-4.384615384615387,7.485226526592255
+PPO seed 42,Longest Waiting,peak-10006,peak,mean_delay,-27.276573426573435,25.87815760229554
+PPO seed 42,Longest Waiting,disruption-10007,disruption,mean_delay,-3.240000000000002,5.280312907431555
+PPO seed 42,Longest Waiting,imbalance-10008,imbalance,mean_delay,-6.580000000000005,10.138674884437604
+PPO seed 42,Longest Waiting,saturation-10009,saturation,mean_delay,-6.081960784313722,9.781217086384242
+PPO seed 42,Longest Waiting,normal-10010,normal,mean_delay,-3.8039215686274446,5.748148148148139
+PPO seed 42,Longest Waiting,peak-10011,peak,mean_delay,-17.287058823529406,17.00812556427529
+PPO seed 42,Longest Waiting,disruption-10012,disruption,mean_delay,-5.196078431372548,8.806912595546692
+PPO seed 42,Longest Waiting,imbalance-10013,imbalance,mean_delay,0.0,-0.0
+PPO seed 42,Longest Waiting,saturation-10014,saturation,mean_delay,-4.408163265306129,6.390532544378708
+PPO seed 42,Longest Waiting,normal-10015,normal,mean_delay,-4.21153846153846,6.82668329177057
+PPO seed 42,Longest Waiting,peak-10016,peak,mean_delay,-24.711538461538467,22.77561148528891
+PPO seed 42,Longest Waiting,disruption-10017,disruption,mean_delay,-4.66196078431372,7.6548615582743
+PPO seed 42,Longest Waiting,imbalance-10018,imbalance,mean_delay,2.9399999999999977,-4.845088991430451
+PPO seed 42,Longest Waiting,saturation-10019,saturation,mean_delay,-3.6600000000000037,5.972584856396872
+PPO seed 42,Longest Waiting,normal-10020,normal,mean_delay,-5.5,9.584450402144771
+PPO seed 42,Longest Waiting,peak-10021,peak,mean_delay,-22.91025641025641,21.545695683626715
+PPO seed 42,Longest Waiting,disruption-10022,disruption,mean_delay,-5.714285714285715,8.544400366188588
+PPO seed 42,Longest Waiting,imbalance-10023,imbalance,mean_delay,2.775510204081641,-4.228855721393048
+PPO seed 42,Longest Waiting,saturation-10024,saturation,mean_delay,-3.6078431372549034,5.91259640102828
+PPO seed 42,Longest Waiting,normal-10025,normal,mean_delay,-3.384615384615387,5.911991938192815
+PPO seed 42,Longest Waiting,peak-10026,peak,mean_delay,-20.0,19.124115509657678
+PPO seed 42,Longest Waiting,disruption-10027,disruption,mean_delay,-3.6923076923076934,7.1829405162738516
+PPO seed 42,Longest Waiting,imbalance-10028,imbalance,mean_delay,4.549019607843142,-7.738492328218822
+PPO seed 42,Longest Waiting,saturation-10029,saturation,mean_delay,-6.03846153846154,9.432261940522682
+PPO seed 42,Longest Waiting,normal-10000,normal,p95_delay,15.0,-13.513513513513514
+PPO seed 42,Longest Waiting,peak-10001,peak,p95_delay,46.0,-24.618678084024623
+PPO seed 42,Longest Waiting,disruption-10002,disruption,p95_delay,19.80000000000001,-16.751269035533007
+PPO seed 42,Longest Waiting,imbalance-10003,imbalance,p95_delay,61.099999999999994,-49.6344435418359
+PPO seed 42,Longest Waiting,saturation-10004,saturation,p95_delay,11.0,-10.237319683573757
+PPO seed 42,Longest Waiting,normal-10005,normal,p95_delay,11.449999999999989,-10.315315315315305
+PPO seed 42,Longest Waiting,peak-10006,peak,p95_delay,44.70000000000002,-23.427672955974856
+PPO seed 42,Longest Waiting,disruption-10007,disruption,p95_delay,16.09999999999998,-13.355454168394841
+PPO seed 42,Longest Waiting,imbalance-10008,imbalance,p95_delay,65.19999999999995,-54.53785027185274
+PPO seed 42,Longest Waiting,saturation-10009,saturation,p95_delay,10.900000000000006,-9.151973131822002
+PPO seed 42,Longest Waiting,normal-10010,normal,p95_delay,23.0,-19.574468085106382
+PPO seed 42,Longest Waiting,peak-10011,peak,p95_delay,64.30000000000001,-34.53276047261011
+PPO seed 42,Longest Waiting,disruption-10012,disruption,p95_delay,13.400000000000006,-12.061206120612066
+PPO seed 42,Longest Waiting,imbalance-10013,imbalance,p95_delay,77.64999999999992,-70.9456372772955
+PPO seed 42,Longest Waiting,saturation-10014,saturation,p95_delay,23.200000000000017,-19.01639344262297
+PPO seed 42,Longest Waiting,normal-10015,normal,p95_delay,18.89999999999999,-17.830188679245275
+PPO seed 42,Longest Waiting,peak-10016,peak,p95_delay,47.79999999999998,-25.3782851075126
+PPO seed 42,Longest Waiting,disruption-10017,disruption,p95_delay,21.149999999999977,-17.848101265822766
+PPO seed 42,Longest Waiting,imbalance-10018,imbalance,p95_delay,88.74999999999999,-75.49978732454274
+PPO seed 42,Longest Waiting,saturation-10019,saturation,p95_delay,11.450000000000003,-9.862187769164516
+PPO seed 42,Longest Waiting,normal-10020,normal,p95_delay,13.549999999999997,-13.168124392614187
+PPO seed 42,Longest Waiting,peak-10021,peak,p95_delay,66.35,-36.45604395604395
+PPO seed 42,Longest Waiting,disruption-10022,disruption,p95_delay,15.0,-11.737089201877936
+PPO seed 42,Longest Waiting,imbalance-10023,imbalance,p95_delay,50.19999999999999,-39.34169278996865
+PPO seed 42,Longest Waiting,saturation-10024,saturation,p95_delay,24.0,-20.869565217391305
+PPO seed 42,Longest Waiting,normal-10025,normal,p95_delay,23.0,-23.601847101077478
+PPO seed 42,Longest Waiting,peak-10026,peak,p95_delay,61.89999999999998,-33.50473612990527
+PPO seed 42,Longest Waiting,disruption-10027,disruption,p95_delay,21.44999999999999,-22.34374999999999
+PPO seed 42,Longest Waiting,imbalance-10028,imbalance,p95_delay,70.5,-64.0909090909091
+PPO seed 42,Longest Waiting,saturation-10029,saturation,p95_delay,11.0,-9.734513274336283
+PPO seed 42,Longest Waiting,normal-10000,normal,incomplete_trains,0.0,-0.0
+PPO seed 42,Longest Waiting,peak-10001,peak,incomplete_trains,0.0,-0.0
+PPO seed 42,Longest Waiting,disruption-10002,disruption,incomplete_trains,0.0,-0.0
+PPO seed 42,Longest Waiting,imbalance-10003,imbalance,incomplete_trains,0.0,-0.0
+PPO seed 42,Longest Waiting,saturation-10004,saturation,incomplete_trains,0.0,
+PPO seed 42,Longest Waiting,normal-10005,normal,incomplete_trains,0.0,
+PPO seed 42,Longest Waiting,peak-10006,peak,incomplete_trains,-3.0,11.538461538461538
+PPO seed 42,Longest Waiting,disruption-10007,disruption,incomplete_trains,0.0,-0.0
+PPO seed 42,Longest Waiting,imbalance-10008,imbalance,incomplete_trains,0.0,-0.0
+PPO seed 42,Longest Waiting,saturation-10009,saturation,incomplete_trains,-1.0,50.0
+PPO seed 42,Longest Waiting,normal-10010,normal,incomplete_trains,0.0,-0.0
+PPO seed 42,Longest Waiting,peak-10011,peak,incomplete_trains,-1.0,3.5714285714285716
+PPO seed 42,Longest Waiting,disruption-10012,disruption,incomplete_trains,-1.0,50.0
+PPO seed 42,Longest Waiting,imbalance-10013,imbalance,incomplete_trains,0.0,
+PPO seed 42,Longest Waiting,saturation-10014,saturation,incomplete_trains,0.0,-0.0
+PPO seed 42,Longest Waiting,normal-10015,normal,incomplete_trains,0.0,
+PPO seed 42,Longest Waiting,peak-10016,peak,incomplete_trains,0.0,-0.0
+PPO seed 42,Longest Waiting,disruption-10017,disruption,incomplete_trains,1.0,-100.0
+PPO seed 42,Longest Waiting,imbalance-10018,imbalance,incomplete_trains,0.0,-0.0
+PPO seed 42,Longest Waiting,saturation-10019,saturation,incomplete_trains,0.0,-0.0
+PPO seed 42,Longest Waiting,normal-10020,normal,incomplete_trains,0.0,
+PPO seed 42,Longest Waiting,peak-10021,peak,incomplete_trains,-1.0,3.7037037037037037
+PPO seed 42,Longest Waiting,disruption-10022,disruption,incomplete_trains,0.0,-0.0
+PPO seed 42,Longest Waiting,imbalance-10023,imbalance,incomplete_trains,0.0,-0.0
+PPO seed 42,Longest Waiting,saturation-10024,saturation,incomplete_trains,0.0,-0.0
+PPO seed 42,Longest Waiting,normal-10025,normal,incomplete_trains,0.0,
+PPO seed 42,Longest Waiting,peak-10026,peak,incomplete_trains,0.0,-0.0
+PPO seed 42,Longest Waiting,disruption-10027,disruption,incomplete_trains,0.0,
+PPO seed 42,Longest Waiting,imbalance-10028,imbalance,incomplete_trains,0.0,-0.0
+PPO seed 42,Longest Waiting,saturation-10029,saturation,incomplete_trains,0.0,
+PPO seed 42,Longest Waiting,normal-10000,normal,selection_cost,-3.846153846153854,5.880623346074695
+PPO seed 42,Longest Waiting,peak-10001,peak,selection_cost,-6.666666666666657,2.6764115497452226
+PPO seed 42,Longest Waiting,disruption-10002,disruption,selection_cost,-4.307692307692307,4.945904173106645
+PPO seed 42,Longest Waiting,imbalance-10003,imbalance,selection_cost,-6.096153846153854,6.915357766143115
+PPO seed 42,Longest Waiting,saturation-10004,saturation,selection_cost,-5.0192307692307665,8.427510494026473
+PPO seed 42,Longest Waiting,normal-10005,normal,selection_cost,-4.384615384615387,7.485226526592255
+PPO seed 42,Longest Waiting,peak-10006,peak,selection_cost,-29.65384615384616,12.09917874143433
+PPO seed 42,Longest Waiting,disruption-10007,disruption,selection_cost,-3.0576923076923066,3.951292246520873
+PPO seed 42,Longest Waiting,imbalance-10008,imbalance,selection_cost,-6.07692307692308,7.511290705966251
+PPO seed 42,Longest Waiting,saturation-10009,saturation,selection_cost,-14.0,17.847511645011032
+PPO seed 42,Longest Waiting,normal-10010,normal,selection_cost,-3.711538461538453,5.003889032927134
+PPO seed 42,Longest Waiting,peak-10011,peak,selection_cost,-11.320512820512818,4.429395535490342
+PPO seed 42,Longest Waiting,disruption-10012,disruption,selection_cost,-13.11538461538462,17.43799539759653
+PPO seed 42,Longest Waiting,imbalance-10013,imbalance,selection_cost,0.0,-0.0
+PPO seed 42,Longest Waiting,saturation-10014,saturation,selection_cost,-4.057692307692307,4.3541064795707785
+PPO seed 42,Longest Waiting,normal-10015,normal,selection_cost,-4.21153846153846,6.82668329177057
+PPO seed 42,Longest Waiting,peak-10016,peak,selection_cost,-10.384615384615387,4.203425012973534
+PPO seed 42,Longest Waiting,disruption-10017,disruption,selection_cost,3.538461538461533,-5.128205128205121
+PPO seed 42,Longest Waiting,imbalance-10018,imbalance,selection_cost,2.8461538461538396,-3.700925231307818
+PPO seed 42,Longest Waiting,saturation-10019,saturation,selection_cost,-3.442307692307679,4.436183395291185
+PPO seed 42,Longest Waiting,normal-10020,normal,selection_cost,-5.5,9.584450402144771
+PPO seed 42,Longest Waiting,peak-10021,peak,selection_cost,-15.628205128205138,6.194105691056914
+PPO seed 42,Longest Waiting,disruption-10022,disruption,selection_cost,-5.384615384615387,5.923418658768777
+PPO seed 42,Longest Waiting,imbalance-10023,imbalance,selection_cost,2.615384615384613,-2.9172029172029146
+PPO seed 42,Longest Waiting,saturation-10024,saturation,selection_cost,-3.32692307692308,4.820284201727505
+PPO seed 42,Longest Waiting,normal-10025,normal,selection_cost,-3.384615384615387,5.911991938192815
+PPO seed 42,Longest Waiting,peak-10026,peak,selection_cost,-7.961538461538453,3.0814270828164507
+PPO seed 42,Longest Waiting,disruption-10027,disruption,selection_cost,-3.6923076923076934,7.1829405162738516
+PPO seed 42,Longest Waiting,imbalance-10028,imbalance,selection_cost,4.596153846153854,-6.88165850849411
+PPO seed 42,Longest Waiting,saturation-10029,saturation,selection_cost,-6.03846153846154,9.432261940522682
+PPO seed 42,Longest Waiting,normal-10000,normal,utilization,-0.012499999999999956,-1.7857142857142796
+PPO seed 42,Longest Waiting,peak-10001,peak,utilization,-0.02499999999999991,-3.409090909090897
+PPO seed 42,Longest Waiting,disruption-10002,disruption,utilization,-0.008333333333333304,-1.1560693641618456
+PPO seed 42,Longest Waiting,imbalance-10003,imbalance,utilization,-0.02083333333333326,-2.8735632183907946
+PPO seed 42,Longest Waiting,saturation-10004,saturation,utilization,-0.012500000000000067,-1.75438596491229
+PPO seed 42,Longest Waiting,normal-10005,normal,utilization,-0.012499999999999956,-1.7857142857142796
+PPO seed 42,Longest Waiting,peak-10006,peak,utilization,-0.04999999999999993,-6.896551724137922
+PPO seed 42,Longest Waiting,disruption-10007,disruption,utilization,-0.008333333333333304,-1.1627906976744145
+PPO seed 42,Longest Waiting,imbalance-10008,imbalance,utilization,-0.008333333333333415,-1.1834319526627333
+PPO seed 42,Longest Waiting,saturation-10009,saturation,utilization,-0.025000000000000022,-3.448275862068969
+PPO seed 42,Longest Waiting,normal-10010,normal,utilization,-0.012499999999999956,-1.7441860465116217
+PPO seed 42,Longest Waiting,peak-10011,peak,utilization,-0.02083333333333326,-2.8735632183907946
+PPO seed 42,Longest Waiting,disruption-10012,disruption,utilization,-0.02083333333333337,-2.9069767441860517
+PPO seed 42,Longest Waiting,imbalance-10013,imbalance,utilization,0.0,0.0
+PPO seed 42,Longest Waiting,saturation-10014,saturation,utilization,-0.008333333333333304,-1.1627906976744145
+PPO seed 42,Longest Waiting,normal-10015,normal,utilization,0.0,0.0
+PPO seed 42,Longest Waiting,peak-10016,peak,utilization,-0.04166666666666674,-5.617977528089898
+PPO seed 42,Longest Waiting,disruption-10017,disruption,utilization,0.0,0.0
+PPO seed 42,Longest Waiting,imbalance-10018,imbalance,utilization,0.016666666666666607,2.325581395348829
+PPO seed 42,Longest Waiting,saturation-10019,saturation,utilization,-0.01666666666666672,-2.339181286549715
+PPO seed 42,Longest Waiting,normal-10020,normal,utilization,-0.01666666666666672,-2.3529411764705954
+PPO seed 42,Longest Waiting,peak-10021,peak,utilization,-0.04166666666666674,-5.649717514124304
+PPO seed 42,Longest Waiting,disruption-10022,disruption,utilization,-0.012499999999999956,-1.7045454545454486
+PPO seed 42,Longest Waiting,imbalance-10023,imbalance,utilization,0.0,0.0
+PPO seed 42,Longest Waiting,saturation-10024,saturation,utilization,0.0,0.0
+PPO seed 42,Longest Waiting,normal-10025,normal,utilization,-0.008333333333333304,-1.1904761904761862
+PPO seed 42,Longest Waiting,peak-10026,peak,utilization,-0.029166666666666674,-3.932584269662922
+PPO seed 42,Longest Waiting,disruption-10027,disruption,utilization,0.0,0.0
+PPO seed 42,Longest Waiting,imbalance-10028,imbalance,utilization,0.025000000000000022,3.5714285714285747
+PPO seed 42,Longest Waiting,saturation-10029,saturation,utilization,-0.008333333333333304,-1.2048192771084294
+PPO seed 42,Work Conserving,normal-10000,normal,throughput,0.0,0.0
+PPO seed 42,Work Conserving,peak-10001,peak,throughput,0.0,0.0
+PPO seed 42,Work Conserving,disruption-10002,disruption,throughput,0.0,0.0
+PPO seed 42,Work Conserving,imbalance-10003,imbalance,throughput,0.0,0.0
+PPO seed 42,Work Conserving,saturation-10004,saturation,throughput,0.0,0.0
+PPO seed 42,Work Conserving,normal-10005,normal,throughput,0.0,0.0
+PPO seed 42,Work Conserving,peak-10006,peak,throughput,0.0,0.0
+PPO seed 42,Work Conserving,disruption-10007,disruption,throughput,0.0,0.0
+PPO seed 42,Work Conserving,imbalance-10008,imbalance,throughput,0.0,0.0
+PPO seed 42,Work Conserving,saturation-10009,saturation,throughput,0.25,2.857142857142857
+PPO seed 42,Work Conserving,normal-10010,normal,throughput,0.0,0.0
+PPO seed 42,Work Conserving,peak-10011,peak,throughput,0.0,0.0
+PPO seed 42,Work Conserving,disruption-10012,disruption,throughput,0.0,0.0
+PPO seed 42,Work Conserving,imbalance-10013,imbalance,throughput,-0.25,-2.857142857142857
+PPO seed 42,Work Conserving,saturation-10014,saturation,throughput,0.0,0.0
+PPO seed 42,Work Conserving,normal-10015,normal,throughput,0.0,0.0
+PPO seed 42,Work Conserving,peak-10016,peak,throughput,0.0,0.0
+PPO seed 42,Work Conserving,disruption-10017,disruption,throughput,0.0,0.0
+PPO seed 42,Work Conserving,imbalance-10018,imbalance,throughput,0.0,0.0
+PPO seed 42,Work Conserving,saturation-10019,saturation,throughput,0.25,2.9411764705882355
+PPO seed 42,Work Conserving,normal-10020,normal,throughput,0.0,0.0
+PPO seed 42,Work Conserving,peak-10021,peak,throughput,0.0,0.0
+PPO seed 42,Work Conserving,disruption-10022,disruption,throughput,0.0,0.0
+PPO seed 42,Work Conserving,imbalance-10023,imbalance,throughput,0.25,3.125
+PPO seed 42,Work Conserving,saturation-10024,saturation,throughput,0.0,0.0
+PPO seed 42,Work Conserving,normal-10025,normal,throughput,0.0,0.0
+PPO seed 42,Work Conserving,peak-10026,peak,throughput,0.0,0.0
+PPO seed 42,Work Conserving,disruption-10027,disruption,throughput,0.0,0.0
+PPO seed 42,Work Conserving,imbalance-10028,imbalance,throughput,0.0,0.0
+PPO seed 42,Work Conserving,saturation-10029,saturation,throughput,0.0,0.0
+PPO seed 42,Work Conserving,normal-10000,normal,mean_delay,-0.5686274509803937,1.0545454545454573
+PPO seed 42,Work Conserving,peak-10001,peak,mean_delay,2.3999999999999915,-3.204272363150856
+PPO seed 42,Work Conserving,disruption-10002,disruption,mean_delay,0.46938775510204067,-0.8104298801973219
+PPO seed 42,Work Conserving,imbalance-10003,imbalance,mean_delay,3.470612244897957,-5.555700751388431
+PPO seed 42,Work Conserving,saturation-10004,saturation,mean_delay,-0.1730769230769198,0.3163444639718745
+PPO seed 42,Work Conserving,normal-10005,normal,mean_delay,0.4230769230769269,-0.7868383404864163
+PPO seed 42,Work Conserving,peak-10006,peak,mean_delay,5.3999999999999915,-7.4249999999999865
+PPO seed 42,Work Conserving,disruption-10007,disruption,mean_delay,1.6506122448979568,-2.923021322732197
+PPO seed 42,Work Conserving,imbalance-10008,imbalance,mean_delay,0.8999999999999986,-1.5673981191222546
+PPO seed 42,Work Conserving,saturation-10009,saturation,mean_delay,1.2380392156862783,-2.2567247825123555
+PPO seed 42,Work Conserving,normal-10010,normal,mean_delay,0.019607843137258385,-0.03144654088050873
+PPO seed 42,Work Conserving,peak-10011,peak,mean_delay,11.132941176470595,-15.204781721484014
+PPO seed 42,Work Conserving,disruption-10012,disruption,mean_delay,0.6839215686274542,-1.2875029529884305
+PPO seed 42,Work Conserving,imbalance-10013,imbalance,mean_delay,0.6538461538461533,-1.0831474992035672
+PPO seed 42,Work Conserving,saturation-10014,saturation,mean_delay,0.46938775510203357,-0.7322508755173398
+PPO seed 42,Work Conserving,normal-10015,normal,mean_delay,-1.3461538461538467,2.2883295194508015
+PPO seed 42,Work Conserving,peak-10016,peak,mean_delay,4.59615384615384,-5.803788246721701
+PPO seed 42,Work Conserving,disruption-10017,disruption,mean_delay,-0.759999999999998,1.33333333333333
+PPO seed 42,Work Conserving,imbalance-10018,imbalance,mean_delay,-0.9200000000000088,1.425472575147209
+PPO seed 42,Work Conserving,saturation-10019,saturation,mean_delay,-1.1400000000000006,1.9400953029271624
+PPO seed 42,Work Conserving,normal-10020,normal,mean_delay,-0.5769230769230731,1.099706744868028
+PPO seed 42,Work Conserving,peak-10021,peak,mean_delay,14.893665158371036,-21.733245295477047
+PPO seed 42,Work Conserving,disruption-10022,disruption,mean_delay,0.9387755102040813,-1.5587936292782103
+PPO seed 42,Work Conserving,imbalance-10023,imbalance,mean_delay,-0.5918367346938709,0.8577343981070592
+PPO seed 42,Work Conserving,saturation-10024,saturation,mean_delay,-0.8039215686274517,1.380936342202763
+PPO seed 42,Work Conserving,normal-10025,normal,mean_delay,-0.8846153846153868,1.6157358623112088
+PPO seed 42,Work Conserving,peak-10026,peak,mean_delay,13.840000000000003,-19.564602770709648
+PPO seed 42,Work Conserving,disruption-10027,disruption,mean_delay,-0.3461538461538467,0.7202881152460996
+PPO seed 42,Work Conserving,imbalance-10028,imbalance,mean_delay,-2.882352941176471,4.352976014213799
+PPO seed 42,Work Conserving,saturation-10029,saturation,mean_delay,0.2307692307692335,-0.39960039960040433
+PPO seed 42,Work Conserving,normal-10000,normal,p95_delay,-14.0,10.0
+PPO seed 42,Work Conserving,peak-10001,peak,p95_delay,-2.450000000000017,1.0412239694007723
+PPO seed 42,Work Conserving,disruption-10002,disruption,p95_delay,-16.0,10.38961038961039
+PPO seed 42,Work Conserving,imbalance-10003,imbalance,p95_delay,-21.19999999999999,10.321324245374875
+PPO seed 42,Work Conserving,saturation-10004,saturation,p95_delay,-14.550000000000011,10.939849624060159
+PPO seed 42,Work Conserving,normal-10005,normal,p95_delay,-9.550000000000011,7.234848484848493
+PPO seed 42,Work Conserving,peak-10006,peak,p95_delay,-10.800000000000011,4.384896467722294
+PPO seed 42,Work Conserving,disruption-10007,disruption,p95_delay,-16.349999999999994,10.686274509803921
+PPO seed 42,Work Conserving,imbalance-10008,imbalance,p95_delay,-12.0,6.099110546378655
+PPO seed 42,Work Conserving,saturation-10009,saturation,p95_delay,-9.099999999999994,6.542056074766351
+PPO seed 42,Work Conserving,normal-10010,normal,p95_delay,-14.0,9.06148867313916
+PPO seed 42,Work Conserving,peak-10011,peak,p95_delay,-24.5,8.909090909090908
+PPO seed 42,Work Conserving,disruption-10012,disruption,p95_delay,-19.05000000000001,13.270637408568449
+PPO seed 42,Work Conserving,imbalance-10013,imbalance,p95_delay,-25.0,11.786892975011792
+PPO seed 42,Work Conserving,saturation-10014,saturation,p95_delay,-7.0,4.599211563731932
+PPO seed 42,Work Conserving,normal-10015,normal,p95_delay,-13.899999999999991,10.014409221902012
+PPO seed 42,Work Conserving,peak-10016,peak,p95_delay,-4.899999999999977,2.0327732835511214
+PPO seed 42,Work Conserving,disruption-10017,disruption,p95_delay,-5.850000000000023,4.020618556701047
+PPO seed 42,Work Conserving,imbalance-10018,imbalance,p95_delay,-49.99999999999997,19.508388607101047
+PPO seed 42,Work Conserving,saturation-10019,saturation,p95_delay,-18.000000000000014,12.366884232222612
+PPO seed 42,Work Conserving,normal-10020,normal,p95_delay,-12.349999999999994,9.588509316770184
+PPO seed 42,Work Conserving,peak-10021,peak,p95_delay,-26.650000000000006,9.690909090909093
+PPO seed 42,Work Conserving,disruption-10022,disruption,p95_delay,-14.0,8.928571428571429
+PPO seed 42,Work Conserving,imbalance-10023,imbalance,p95_delay,-76.0,29.944838455476756
+PPO seed 42,Work Conserving,saturation-10024,saturation,p95_delay,-9.0,6.081081081081081
+PPO seed 42,Work Conserving,normal-10025,normal,p95_delay,-11.900000000000006,8.991310918020405
+PPO seed 42,Work Conserving,peak-10026,peak,p95_delay,-32.55000000000001,11.658309455587396
+PPO seed 42,Work Conserving,disruption-10027,disruption,p95_delay,-13.900000000000006,10.582413399314811
+PPO seed 42,Work Conserving,imbalance-10028,imbalance,p95_delay,-42.0,18.876404494382022
+PPO seed 42,Work Conserving,saturation-10029,saturation,p95_delay,-13.449999999999989,9.785376500545645
+PPO seed 42,Work Conserving,normal-10000,normal,incomplete_trains,0.0,-0.0
+PPO seed 42,Work Conserving,peak-10001,peak,incomplete_trains,0.0,-0.0
+PPO seed 42,Work Conserving,disruption-10002,disruption,incomplete_trains,0.0,-0.0
+PPO seed 42,Work Conserving,imbalance-10003,imbalance,incomplete_trains,-1.0,33.333333333333336
+PPO seed 42,Work Conserving,saturation-10004,saturation,incomplete_trains,0.0,
+PPO seed 42,Work Conserving,normal-10005,normal,incomplete_trains,0.0,
+PPO seed 42,Work Conserving,peak-10006,peak,incomplete_trains,0.0,-0.0
+PPO seed 42,Work Conserving,disruption-10007,disruption,incomplete_trains,-1.0,33.333333333333336
+PPO seed 42,Work Conserving,imbalance-10008,imbalance,incomplete_trains,0.0,-0.0
+PPO seed 42,Work Conserving,saturation-10009,saturation,incomplete_trains,-1.0,50.0
+PPO seed 42,Work Conserving,normal-10010,normal,incomplete_trains,0.0,-0.0
+PPO seed 42,Work Conserving,peak-10011,peak,incomplete_trains,-1.0,3.5714285714285716
+PPO seed 42,Work Conserving,disruption-10012,disruption,incomplete_trains,-1.0,50.0
+PPO seed 42,Work Conserving,imbalance-10013,imbalance,incomplete_trains,0.0,
+PPO seed 42,Work Conserving,saturation-10014,saturation,incomplete_trains,0.0,-0.0
+PPO seed 42,Work Conserving,normal-10015,normal,incomplete_trains,0.0,
+PPO seed 42,Work Conserving,peak-10016,peak,incomplete_trains,0.0,-0.0
+PPO seed 42,Work Conserving,disruption-10017,disruption,incomplete_trains,1.0,-100.0
+PPO seed 42,Work Conserving,imbalance-10018,imbalance,incomplete_trains,0.0,-0.0
+PPO seed 42,Work Conserving,saturation-10019,saturation,incomplete_trains,0.0,-0.0
+PPO seed 42,Work Conserving,normal-10020,normal,incomplete_trains,0.0,
+PPO seed 42,Work Conserving,peak-10021,peak,incomplete_trains,-1.0,3.7037037037037037
+PPO seed 42,Work Conserving,disruption-10022,disruption,incomplete_trains,0.0,-0.0
+PPO seed 42,Work Conserving,imbalance-10023,imbalance,incomplete_trains,0.0,-0.0
+PPO seed 42,Work Conserving,saturation-10024,saturation,incomplete_trains,0.0,-0.0
+PPO seed 42,Work Conserving,normal-10025,normal,incomplete_trains,0.0,
+PPO seed 42,Work Conserving,peak-10026,peak,incomplete_trains,0.0,-0.0
+PPO seed 42,Work Conserving,disruption-10027,disruption,incomplete_trains,0.0,
+PPO seed 42,Work Conserving,imbalance-10028,imbalance,incomplete_trains,0.0,-0.0
+PPO seed 42,Work Conserving,saturation-10029,saturation,incomplete_trains,0.0,
+PPO seed 42,Work Conserving,normal-10000,normal,selection_cost,-0.4615384615384599,0.7441860465116253
+PPO seed 42,Work Conserving,peak-10001,peak,selection_cost,-0.1794871794871824,0.07398404058553203
+PPO seed 42,Work Conserving,disruption-10002,disruption,selection_cost,-0.173076923076934,0.20862308762170997
+PPO seed 42,Work Conserving,imbalance-10003,imbalance,selection_cost,-6.269230769230774,7.097757456999787
+PPO seed 42,Work Conserving,saturation-10004,saturation,selection_cost,-0.1730769230769198,0.3163444639718745
+PPO seed 42,Work Conserving,normal-10005,normal,selection_cost,0.4230769230769269,-0.7868383404864163
+PPO seed 42,Work Conserving,peak-10006,peak,selection_cost,0.3205128205128176,-0.14899576852017268
+PPO seed 42,Work Conserving,disruption-10007,disruption,selection_cost,-7.307692307692307,8.95170789163722
+PPO seed 42,Work Conserving,imbalance-10008,imbalance,selection_cost,1.0769230769230802,-1.4602346805736681
+PPO seed 42,Work Conserving,saturation-10009,saturation,selection_cost,-7.192307692307693,10.04026845637584
+PPO seed 42,Work Conserving,normal-10010,normal,selection_cost,0.03846153846154721,-0.054614964500285496
+PPO seed 42,Work Conserving,peak-10011,peak,selection_cost,-5.0,2.005966464355519
+PPO seed 42,Work Conserving,disruption-10012,disruption,selection_cost,-7.692307692307686,11.022320198401756
+PPO seed 42,Work Conserving,imbalance-10013,imbalance,selection_cost,0.6538461538461533,-1.0831474992035672
+PPO seed 42,Work Conserving,saturation-10014,saturation,selection_cost,0.211538461538467,-0.23788927335640753
+PPO seed 42,Work Conserving,normal-10015,normal,selection_cost,-1.3461538461538467,2.2883295194508015
+PPO seed 42,Work Conserving,peak-10016,peak,selection_cost,-0.346153846153868,0.14604857467410454
+PPO seed 42,Work Conserving,disruption-10017,disruption,selection_cost,7.365384615384613,-11.301268810858657
+PPO seed 42,Work Conserving,imbalance-10018,imbalance,selection_cost,-1.0576923076923066,1.308900523560208
+PPO seed 42,Work Conserving,saturation-10019,saturation,selection_cost,-1.2115384615384528,1.6075529471803915
+PPO seed 42,Work Conserving,normal-10020,normal,selection_cost,-0.5769230769230731,1.099706744868028
+PPO seed 42,Work Conserving,peak-10021,peak,selection_cost,-4.564102564102569,1.891906254982199
+PPO seed 42,Work Conserving,disruption-10022,disruption,selection_cost,0.423076923076934,-0.49717514124295076
+PPO seed 42,Work Conserving,imbalance-10023,imbalance,selection_cost,-2.9807692307692264,3.1294165152432822
+PPO seed 42,Work Conserving,saturation-10024,saturation,selection_cost,-0.5769230769230802,0.8705745792222916
+PPO seed 42,Work Conserving,normal-10025,normal,selection_cost,-0.8846153846153868,1.6157358623112088
+PPO seed 42,Work Conserving,peak-10026,peak,selection_cost,0.6153846153846132,-0.24635598439745346
+PPO seed 42,Work Conserving,disruption-10027,disruption,selection_cost,-0.3461538461538467,0.7202881152460996
+PPO seed 42,Work Conserving,imbalance-10028,imbalance,selection_cost,-2.6923076923076934,3.634475597092421
+PPO seed 42,Work Conserving,saturation-10029,saturation,selection_cost,0.2307692307692335,-0.39960039960040433
+PPO seed 42,Work Conserving,normal-10000,normal,utilization,0.0,0.0
+PPO seed 42,Work Conserving,peak-10001,peak,utilization,0.0,0.0
+PPO seed 42,Work Conserving,disruption-10002,disruption,utilization,0.0,0.0
+PPO seed 42,Work Conserving,imbalance-10003,imbalance,utilization,0.0,0.0
+PPO seed 42,Work Conserving,saturation-10004,saturation,utilization,-0.004166666666666763,-0.5917159763313745
+PPO seed 42,Work Conserving,normal-10005,normal,utilization,0.0,0.0
+PPO seed 42,Work Conserving,peak-10006,peak,utilization,0.0,0.0
+PPO seed 42,Work Conserving,disruption-10007,disruption,utilization,0.0,0.0
+PPO seed 42,Work Conserving,imbalance-10008,imbalance,utilization,0.0,0.0
+PPO seed 42,Work Conserving,saturation-10009,saturation,utilization,-0.008333333333333415,-1.1764705882353055
+PPO seed 42,Work Conserving,normal-10010,normal,utilization,0.0,0.0
+PPO seed 42,Work Conserving,peak-10011,peak,utilization,0.0,0.0
+PPO seed 42,Work Conserving,disruption-10012,disruption,utilization,0.0,0.0
+PPO seed 42,Work Conserving,imbalance-10013,imbalance,utilization,0.004166666666666652,0.588235294117645
+PPO seed 42,Work Conserving,saturation-10014,saturation,utilization,0.0,0.0
+PPO seed 42,Work Conserving,normal-10015,normal,utilization,0.0,0.0
+PPO seed 42,Work Conserving,peak-10016,peak,utilization,0.0,0.0
+PPO seed 42,Work Conserving,disruption-10017,disruption,utilization,0.0,0.0
+PPO seed 42,Work Conserving,imbalance-10018,imbalance,utilization,0.0,0.0
+PPO seed 42,Work Conserving,saturation-10019,saturation,utilization,-0.008333333333333415,-1.1834319526627333
+PPO seed 42,Work Conserving,normal-10020,normal,utilization,0.0,0.0
+PPO seed 42,Work Conserving,peak-10021,peak,utilization,0.0,0.0
+PPO seed 42,Work Conserving,disruption-10022,disruption,utilization,0.0,0.0
+PPO seed 42,Work Conserving,imbalance-10023,imbalance,utilization,-0.01666666666666672,-2.247191011235962
+PPO seed 42,Work Conserving,saturation-10024,saturation,utilization,0.0,0.0
+PPO seed 42,Work Conserving,normal-10025,normal,utilization,0.0,0.0
+PPO seed 42,Work Conserving,peak-10026,peak,utilization,0.0,0.0
+PPO seed 42,Work Conserving,disruption-10027,disruption,utilization,0.0,0.0
+PPO seed 42,Work Conserving,imbalance-10028,imbalance,utilization,0.0,0.0
+PPO seed 42,Work Conserving,saturation-10029,saturation,utilization,0.0,0.0
+PPO seed 123,FCFS,normal-10000,normal,throughput,0.25,2.857142857142857
+PPO seed 123,FCFS,peak-10001,peak,throughput,0.75,9.375
+PPO seed 123,FCFS,disruption-10002,disruption,throughput,0.25,3.0303030303030303
+PPO seed 123,FCFS,imbalance-10003,imbalance,throughput,0.75,9.67741935483871
+PPO seed 123,FCFS,saturation-10004,saturation,throughput,0.25,2.857142857142857
+PPO seed 123,FCFS,normal-10005,normal,throughput,0.25,2.857142857142857
+PPO seed 123,FCFS,peak-10006,peak,throughput,1.75,21.21212121212121
+PPO seed 123,FCFS,disruption-10007,disruption,throughput,0.25,3.0303030303030303
+PPO seed 123,FCFS,imbalance-10008,imbalance,throughput,0.25,2.9411764705882355
+PPO seed 123,FCFS,saturation-10009,saturation,throughput,0.75,9.090909090909092
+PPO seed 123,FCFS,normal-10010,normal,throughput,0.25,3.0303030303030303
+PPO seed 123,FCFS,peak-10011,peak,throughput,0.75,9.090909090909092
+PPO seed 123,FCFS,disruption-10012,disruption,throughput,0.5,5.882352941176471
+PPO seed 123,FCFS,imbalance-10013,imbalance,throughput,0.0,0.0
+PPO seed 123,FCFS,saturation-10014,saturation,throughput,0.25,3.0303030303030303
+PPO seed 123,FCFS,normal-10015,normal,throughput,-0.25,-2.7777777777777777
+PPO seed 123,FCFS,peak-10016,peak,throughput,1.0,12.5
+PPO seed 123,FCFS,disruption-10017,disruption,throughput,0.25,2.9411764705882355
+PPO seed 123,FCFS,imbalance-10018,imbalance,throughput,0.0,0.0
+PPO seed 123,FCFS,saturation-10019,saturation,throughput,0.25,2.9411764705882355
+PPO seed 123,FCFS,normal-10020,normal,throughput,0.5,5.714285714285714
+PPO seed 123,FCFS,peak-10021,peak,throughput,1.25,15.625
+PPO seed 123,FCFS,disruption-10022,disruption,throughput,0.25,3.0303030303030303
+PPO seed 123,FCFS,imbalance-10023,imbalance,throughput,0.0,0.0
+PPO seed 123,FCFS,saturation-10024,saturation,throughput,0.0,0.0
+PPO seed 123,FCFS,normal-10025,normal,throughput,0.25,2.857142857142857
+PPO seed 123,FCFS,peak-10026,peak,throughput,1.0,12.903225806451612
+PPO seed 123,FCFS,disruption-10027,disruption,throughput,0.0,0.0
+PPO seed 123,FCFS,imbalance-10028,imbalance,throughput,-0.75,-8.333333333333334
+PPO seed 123,FCFS,saturation-10029,saturation,throughput,0.25,2.9411764705882355
+PPO seed 123,FCFS,normal-10000,normal,mean_delay,-4.019607843137258,7.006151742993855
+PPO seed 123,FCFS,peak-10001,peak,mean_delay,-14.703529411764706,15.177053480351677
+PPO seed 123,FCFS,disruption-10002,disruption,mean_delay,-4.5714285714285765,7.260940032414919
+PPO seed 123,FCFS,imbalance-10003,imbalance,mean_delay,-6.260000000000005,8.653580315178331
+PPO seed 123,FCFS,saturation-10004,saturation,mean_delay,-5.0192307692307665,8.427510494026473
+PPO seed 123,FCFS,normal-10005,normal,mean_delay,-4.384615384615387,7.485226526592255
+PPO seed 123,FCFS,peak-10006,peak,mean_delay,-27.276573426573435,25.87815760229554
+PPO seed 123,FCFS,disruption-10007,disruption,mean_delay,-3.240000000000002,5.280312907431555
+PPO seed 123,FCFS,imbalance-10008,imbalance,mean_delay,-6.580000000000005,10.138674884437604
+PPO seed 123,FCFS,saturation-10009,saturation,mean_delay,-6.081960784313722,9.781217086384242
+PPO seed 123,FCFS,normal-10010,normal,mean_delay,-3.8039215686274446,5.748148148148139
+PPO seed 123,FCFS,peak-10011,peak,mean_delay,-17.287058823529406,17.00812556427529
+PPO seed 123,FCFS,disruption-10012,disruption,mean_delay,-5.196078431372548,8.806912595546692
+PPO seed 123,FCFS,imbalance-10013,imbalance,mean_delay,0.0,-0.0
+PPO seed 123,FCFS,saturation-10014,saturation,mean_delay,-4.408163265306129,6.390532544378708
+PPO seed 123,FCFS,normal-10015,normal,mean_delay,-4.21153846153846,6.82668329177057
+PPO seed 123,FCFS,peak-10016,peak,mean_delay,-22.384615384615387,20.630981921304503
+PPO seed 123,FCFS,disruption-10017,disruption,mean_delay,-4.66196078431372,7.6548615582743
+PPO seed 123,FCFS,imbalance-10018,imbalance,mean_delay,-0.4799999999999969,0.7910349373763956
+PPO seed 123,FCFS,saturation-10019,saturation,mean_delay,-3.6600000000000037,5.972584856396872
+PPO seed 123,FCFS,normal-10020,normal,mean_delay,-5.5,9.584450402144771
+PPO seed 123,FCFS,peak-10021,peak,mean_delay,-22.91025641025641,21.545695683626715
+PPO seed 123,FCFS,disruption-10022,disruption,mean_delay,-5.714285714285715,8.544400366188588
+PPO seed 123,FCFS,imbalance-10023,imbalance,mean_delay,2.7959183673469425,-4.259950248756224
+PPO seed 123,FCFS,saturation-10024,saturation,mean_delay,-3.6078431372549034,5.91259640102828
+PPO seed 123,FCFS,normal-10025,normal,mean_delay,-3.384615384615387,5.911991938192815
+PPO seed 123,FCFS,peak-10026,peak,mean_delay,-20.0,19.124115509657678
+PPO seed 123,FCFS,disruption-10027,disruption,mean_delay,-3.6923076923076934,7.1829405162738516
+PPO seed 123,FCFS,imbalance-10028,imbalance,mean_delay,4.549019607843142,-7.738492328218822
+PPO seed 123,FCFS,saturation-10029,saturation,mean_delay,-6.03846153846154,9.432261940522682
+PPO seed 123,FCFS,normal-10000,normal,p95_delay,15.0,-13.513513513513514
+PPO seed 123,FCFS,peak-10001,peak,p95_delay,42.650000000000034,-22.82579609312285
+PPO seed 123,FCFS,disruption-10002,disruption,p95_delay,19.80000000000001,-16.751269035533007
+PPO seed 123,FCFS,imbalance-10003,imbalance,p95_delay,61.099999999999994,-49.6344435418359
+PPO seed 123,FCFS,saturation-10004,saturation,p95_delay,11.0,-10.237319683573757
+PPO seed 123,FCFS,normal-10005,normal,p95_delay,11.449999999999989,-10.315315315315305
+PPO seed 123,FCFS,peak-10006,peak,p95_delay,44.70000000000002,-23.427672955974856
+PPO seed 123,FCFS,disruption-10007,disruption,p95_delay,16.09999999999998,-13.355454168394841
+PPO seed 123,FCFS,imbalance-10008,imbalance,p95_delay,65.19999999999995,-54.53785027185274
+PPO seed 123,FCFS,saturation-10009,saturation,p95_delay,10.900000000000006,-9.151973131822002
+PPO seed 123,FCFS,normal-10010,normal,p95_delay,23.0,-19.574468085106382
+PPO seed 123,FCFS,peak-10011,peak,p95_delay,64.30000000000001,-34.53276047261011
+PPO seed 123,FCFS,disruption-10012,disruption,p95_delay,13.400000000000006,-12.061206120612066
+PPO seed 123,FCFS,imbalance-10013,imbalance,p95_delay,77.64999999999992,-70.9456372772955
+PPO seed 123,FCFS,saturation-10014,saturation,p95_delay,23.200000000000017,-19.01639344262297
+PPO seed 123,FCFS,normal-10015,normal,p95_delay,18.89999999999999,-17.830188679245275
+PPO seed 123,FCFS,peak-10016,peak,p95_delay,45.44999999999999,-24.13060791080435
+PPO seed 123,FCFS,disruption-10017,disruption,p95_delay,21.149999999999977,-17.848101265822766
+PPO seed 123,FCFS,imbalance-10018,imbalance,p95_delay,20.09999999999998,-17.099106763079522
+PPO seed 123,FCFS,saturation-10019,saturation,p95_delay,11.450000000000003,-9.862187769164516
+PPO seed 123,FCFS,normal-10020,normal,p95_delay,13.549999999999997,-13.168124392614187
+PPO seed 123,FCFS,peak-10021,peak,p95_delay,66.35,-36.45604395604395
+PPO seed 123,FCFS,disruption-10022,disruption,p95_delay,15.0,-11.737089201877936
+PPO seed 123,FCFS,imbalance-10023,imbalance,p95_delay,50.19999999999999,-39.34169278996865
+PPO seed 123,FCFS,saturation-10024,saturation,p95_delay,24.0,-20.869565217391305
+PPO seed 123,FCFS,normal-10025,normal,p95_delay,23.0,-23.601847101077478
+PPO seed 123,FCFS,peak-10026,peak,p95_delay,61.89999999999998,-33.50473612990527
+PPO seed 123,FCFS,disruption-10027,disruption,p95_delay,21.44999999999999,-22.34374999999999
+PPO seed 123,FCFS,imbalance-10028,imbalance,p95_delay,70.5,-64.0909090909091
+PPO seed 123,FCFS,saturation-10029,saturation,p95_delay,11.0,-9.734513274336283
+PPO seed 123,FCFS,normal-10000,normal,incomplete_trains,0.0,-0.0
+PPO seed 123,FCFS,peak-10001,peak,incomplete_trains,-1.0,3.5714285714285716
+PPO seed 123,FCFS,disruption-10002,disruption,incomplete_trains,0.0,-0.0
+PPO seed 123,FCFS,imbalance-10003,imbalance,incomplete_trains,0.0,-0.0
+PPO seed 123,FCFS,saturation-10004,saturation,incomplete_trains,0.0,
+PPO seed 123,FCFS,normal-10005,normal,incomplete_trains,0.0,
+PPO seed 123,FCFS,peak-10006,peak,incomplete_trains,-3.0,11.538461538461538
+PPO seed 123,FCFS,disruption-10007,disruption,incomplete_trains,0.0,-0.0
+PPO seed 123,FCFS,imbalance-10008,imbalance,incomplete_trains,0.0,-0.0
+PPO seed 123,FCFS,saturation-10009,saturation,incomplete_trains,-1.0,50.0
+PPO seed 123,FCFS,normal-10010,normal,incomplete_trains,0.0,-0.0
+PPO seed 123,FCFS,peak-10011,peak,incomplete_trains,-1.0,3.5714285714285716
+PPO seed 123,FCFS,disruption-10012,disruption,incomplete_trains,-1.0,50.0
+PPO seed 123,FCFS,imbalance-10013,imbalance,incomplete_trains,0.0,
+PPO seed 123,FCFS,saturation-10014,saturation,incomplete_trains,0.0,-0.0
+PPO seed 123,FCFS,normal-10015,normal,incomplete_trains,0.0,
+PPO seed 123,FCFS,peak-10016,peak,incomplete_trains,0.0,-0.0
+PPO seed 123,FCFS,disruption-10017,disruption,incomplete_trains,1.0,-100.0
+PPO seed 123,FCFS,imbalance-10018,imbalance,incomplete_trains,0.0,-0.0
+PPO seed 123,FCFS,saturation-10019,saturation,incomplete_trains,0.0,-0.0
+PPO seed 123,FCFS,normal-10020,normal,incomplete_trains,0.0,
+PPO seed 123,FCFS,peak-10021,peak,incomplete_trains,-1.0,3.7037037037037037
+PPO seed 123,FCFS,disruption-10022,disruption,incomplete_trains,0.0,-0.0
+PPO seed 123,FCFS,imbalance-10023,imbalance,incomplete_trains,0.0,-0.0
+PPO seed 123,FCFS,saturation-10024,saturation,incomplete_trains,0.0,-0.0
+PPO seed 123,FCFS,normal-10025,normal,incomplete_trains,0.0,
+PPO seed 123,FCFS,peak-10026,peak,incomplete_trains,0.0,-0.0
+PPO seed 123,FCFS,disruption-10027,disruption,incomplete_trains,0.0,
+PPO seed 123,FCFS,imbalance-10028,imbalance,incomplete_trains,0.0,-0.0
+PPO seed 123,FCFS,saturation-10029,saturation,incomplete_trains,0.0,
+PPO seed 123,FCFS,normal-10000,normal,selection_cost,-3.846153846153854,5.880623346074695
+PPO seed 123,FCFS,peak-10001,peak,selection_cost,-11.705128205128204,4.69916104791806
+PPO seed 123,FCFS,disruption-10002,disruption,selection_cost,-4.307692307692307,4.945904173106645
+PPO seed 123,FCFS,imbalance-10003,imbalance,selection_cost,-5.961538461538467,6.762652705061087
+PPO seed 123,FCFS,saturation-10004,saturation,selection_cost,-5.0192307692307665,8.427510494026473
+PPO seed 123,FCFS,normal-10005,normal,selection_cost,-4.384615384615387,7.485226526592255
+PPO seed 123,FCFS,peak-10006,peak,selection_cost,-29.65384615384616,12.09917874143433
+PPO seed 123,FCFS,disruption-10007,disruption,selection_cost,-3.0576923076923066,3.951292246520873
+PPO seed 123,FCFS,imbalance-10008,imbalance,selection_cost,-6.07692307692308,7.511290705966251
+PPO seed 123,FCFS,saturation-10009,saturation,selection_cost,-14.0,17.847511645011032
+PPO seed 123,FCFS,normal-10010,normal,selection_cost,-3.711538461538453,5.003889032927134
+PPO seed 123,FCFS,peak-10011,peak,selection_cost,-11.320512820512818,4.429395535490342
+PPO seed 123,FCFS,disruption-10012,disruption,selection_cost,-13.11538461538462,17.43799539759653
+PPO seed 123,FCFS,imbalance-10013,imbalance,selection_cost,0.0,-0.0
+PPO seed 123,FCFS,saturation-10014,saturation,selection_cost,-4.057692307692307,4.3541064795707785
+PPO seed 123,FCFS,normal-10015,normal,selection_cost,-4.21153846153846,6.82668329177057
+PPO seed 123,FCFS,peak-10016,peak,selection_cost,-10.5,4.250129735339907
+PPO seed 123,FCFS,disruption-10017,disruption,selection_cost,3.538461538461533,-5.128205128205121
+PPO seed 123,FCFS,imbalance-10018,imbalance,selection_cost,-0.4423076923076934,0.575143785946488
+PPO seed 123,FCFS,saturation-10019,saturation,selection_cost,-3.442307692307679,4.436183395291185
+PPO seed 123,FCFS,normal-10020,normal,selection_cost,-5.5,9.584450402144771
+PPO seed 123,FCFS,peak-10021,peak,selection_cost,-15.628205128205138,6.194105691056914
+PPO seed 123,FCFS,disruption-10022,disruption,selection_cost,-5.384615384615387,5.923418658768777
+PPO seed 123,FCFS,imbalance-10023,imbalance,selection_cost,2.6346153846153726,-2.938652938652925
+PPO seed 123,FCFS,saturation-10024,saturation,selection_cost,-3.32692307692308,4.820284201727505
+PPO seed 123,FCFS,normal-10025,normal,selection_cost,-3.384615384615387,5.911991938192815
+PPO seed 123,FCFS,peak-10026,peak,selection_cost,-7.961538461538453,3.0814270828164507
+PPO seed 123,FCFS,disruption-10027,disruption,selection_cost,-3.6923076923076934,7.1829405162738516
+PPO seed 123,FCFS,imbalance-10028,imbalance,selection_cost,4.596153846153854,-6.88165850849411
+PPO seed 123,FCFS,saturation-10029,saturation,selection_cost,-6.03846153846154,9.432261940522682
+PPO seed 123,FCFS,normal-10000,normal,utilization,-0.012499999999999956,-1.7857142857142796
+PPO seed 123,FCFS,peak-10001,peak,utilization,-0.02499999999999991,-3.409090909090897
+PPO seed 123,FCFS,disruption-10002,disruption,utilization,-0.008333333333333304,-1.1560693641618456
+PPO seed 123,FCFS,imbalance-10003,imbalance,utilization,-0.02083333333333326,-2.8735632183907946
+PPO seed 123,FCFS,saturation-10004,saturation,utilization,-0.012500000000000067,-1.75438596491229
+PPO seed 123,FCFS,normal-10005,normal,utilization,-0.012499999999999956,-1.7857142857142796
+PPO seed 123,FCFS,peak-10006,peak,utilization,-0.04999999999999993,-6.896551724137922
+PPO seed 123,FCFS,disruption-10007,disruption,utilization,-0.008333333333333304,-1.1627906976744145
+PPO seed 123,FCFS,imbalance-10008,imbalance,utilization,-0.008333333333333415,-1.1834319526627333
+PPO seed 123,FCFS,saturation-10009,saturation,utilization,-0.025000000000000022,-3.448275862068969
+PPO seed 123,FCFS,normal-10010,normal,utilization,-0.012499999999999956,-1.7441860465116217
+PPO seed 123,FCFS,peak-10011,peak,utilization,-0.02083333333333326,-2.8735632183907946
+PPO seed 123,FCFS,disruption-10012,disruption,utilization,-0.02083333333333337,-2.9069767441860517
+PPO seed 123,FCFS,imbalance-10013,imbalance,utilization,0.0,0.0
+PPO seed 123,FCFS,saturation-10014,saturation,utilization,-0.008333333333333304,-1.1627906976744145
+PPO seed 123,FCFS,normal-10015,normal,utilization,0.0,0.0
+PPO seed 123,FCFS,peak-10016,peak,utilization,-0.04166666666666674,-5.617977528089898
+PPO seed 123,FCFS,disruption-10017,disruption,utilization,0.0,0.0
+PPO seed 123,FCFS,imbalance-10018,imbalance,utilization,0.0,0.0
+PPO seed 123,FCFS,saturation-10019,saturation,utilization,-0.01666666666666672,-2.339181286549715
+PPO seed 123,FCFS,normal-10020,normal,utilization,-0.01666666666666672,-2.3529411764705954
+PPO seed 123,FCFS,peak-10021,peak,utilization,-0.04166666666666674,-5.649717514124304
+PPO seed 123,FCFS,disruption-10022,disruption,utilization,-0.012499999999999956,-1.7045454545454486
+PPO seed 123,FCFS,imbalance-10023,imbalance,utilization,0.0,0.0
+PPO seed 123,FCFS,saturation-10024,saturation,utilization,0.0,0.0
+PPO seed 123,FCFS,normal-10025,normal,utilization,-0.008333333333333304,-1.1904761904761862
+PPO seed 123,FCFS,peak-10026,peak,utilization,-0.029166666666666674,-3.932584269662922
+PPO seed 123,FCFS,disruption-10027,disruption,utilization,0.0,0.0
+PPO seed 123,FCFS,imbalance-10028,imbalance,utilization,0.025000000000000022,3.5714285714285747
+PPO seed 123,FCFS,saturation-10029,saturation,utilization,-0.008333333333333304,-1.2048192771084294
+PPO seed 123,Fixed Priority,normal-10000,normal,throughput,0.25,2.857142857142857
+PPO seed 123,Fixed Priority,peak-10001,peak,throughput,0.75,9.375
+PPO seed 123,Fixed Priority,disruption-10002,disruption,throughput,0.25,3.0303030303030303
+PPO seed 123,Fixed Priority,imbalance-10003,imbalance,throughput,0.75,9.67741935483871
+PPO seed 123,Fixed Priority,saturation-10004,saturation,throughput,0.25,2.857142857142857
+PPO seed 123,Fixed Priority,normal-10005,normal,throughput,0.25,2.857142857142857
+PPO seed 123,Fixed Priority,peak-10006,peak,throughput,1.75,21.21212121212121
+PPO seed 123,Fixed Priority,disruption-10007,disruption,throughput,0.25,3.0303030303030303
+PPO seed 123,Fixed Priority,imbalance-10008,imbalance,throughput,0.25,2.9411764705882355
+PPO seed 123,Fixed Priority,saturation-10009,saturation,throughput,0.75,9.090909090909092
+PPO seed 123,Fixed Priority,normal-10010,normal,throughput,0.25,3.0303030303030303
+PPO seed 123,Fixed Priority,peak-10011,peak,throughput,0.75,9.090909090909092
+PPO seed 123,Fixed Priority,disruption-10012,disruption,throughput,0.5,5.882352941176471
+PPO seed 123,Fixed Priority,imbalance-10013,imbalance,throughput,0.0,0.0
+PPO seed 123,Fixed Priority,saturation-10014,saturation,throughput,0.25,3.0303030303030303
+PPO seed 123,Fixed Priority,normal-10015,normal,throughput,-0.25,-2.7777777777777777
+PPO seed 123,Fixed Priority,peak-10016,peak,throughput,1.0,12.5
+PPO seed 123,Fixed Priority,disruption-10017,disruption,throughput,0.25,2.9411764705882355
+PPO seed 123,Fixed Priority,imbalance-10018,imbalance,throughput,0.0,0.0
+PPO seed 123,Fixed Priority,saturation-10019,saturation,throughput,0.25,2.9411764705882355
+PPO seed 123,Fixed Priority,normal-10020,normal,throughput,0.5,5.714285714285714
+PPO seed 123,Fixed Priority,peak-10021,peak,throughput,1.25,15.625
+PPO seed 123,Fixed Priority,disruption-10022,disruption,throughput,0.25,3.0303030303030303
+PPO seed 123,Fixed Priority,imbalance-10023,imbalance,throughput,0.0,0.0
+PPO seed 123,Fixed Priority,saturation-10024,saturation,throughput,0.0,0.0
+PPO seed 123,Fixed Priority,normal-10025,normal,throughput,0.25,2.857142857142857
+PPO seed 123,Fixed Priority,peak-10026,peak,throughput,1.0,12.903225806451612
+PPO seed 123,Fixed Priority,disruption-10027,disruption,throughput,0.0,0.0
+PPO seed 123,Fixed Priority,imbalance-10028,imbalance,throughput,-0.75,-8.333333333333334
+PPO seed 123,Fixed Priority,saturation-10029,saturation,throughput,0.25,2.9411764705882355
+PPO seed 123,Fixed Priority,normal-10000,normal,mean_delay,-4.019607843137258,7.006151742993855
+PPO seed 123,Fixed Priority,peak-10001,peak,mean_delay,-14.703529411764706,15.177053480351677
+PPO seed 123,Fixed Priority,disruption-10002,disruption,mean_delay,-4.5714285714285765,7.260940032414919
+PPO seed 123,Fixed Priority,imbalance-10003,imbalance,mean_delay,-6.260000000000005,8.653580315178331
+PPO seed 123,Fixed Priority,saturation-10004,saturation,mean_delay,-5.0192307692307665,8.427510494026473
+PPO seed 123,Fixed Priority,normal-10005,normal,mean_delay,-4.384615384615387,7.485226526592255
+PPO seed 123,Fixed Priority,peak-10006,peak,mean_delay,-27.276573426573435,25.87815760229554
+PPO seed 123,Fixed Priority,disruption-10007,disruption,mean_delay,-3.240000000000002,5.280312907431555
+PPO seed 123,Fixed Priority,imbalance-10008,imbalance,mean_delay,-6.580000000000005,10.138674884437604
+PPO seed 123,Fixed Priority,saturation-10009,saturation,mean_delay,-6.081960784313722,9.781217086384242
+PPO seed 123,Fixed Priority,normal-10010,normal,mean_delay,-3.8039215686274446,5.748148148148139
+PPO seed 123,Fixed Priority,peak-10011,peak,mean_delay,-17.287058823529406,17.00812556427529
+PPO seed 123,Fixed Priority,disruption-10012,disruption,mean_delay,-5.196078431372548,8.806912595546692
+PPO seed 123,Fixed Priority,imbalance-10013,imbalance,mean_delay,0.0,-0.0
+PPO seed 123,Fixed Priority,saturation-10014,saturation,mean_delay,-4.408163265306129,6.390532544378708
+PPO seed 123,Fixed Priority,normal-10015,normal,mean_delay,-4.21153846153846,6.82668329177057
+PPO seed 123,Fixed Priority,peak-10016,peak,mean_delay,-22.384615384615387,20.630981921304503
+PPO seed 123,Fixed Priority,disruption-10017,disruption,mean_delay,-4.66196078431372,7.6548615582743
+PPO seed 123,Fixed Priority,imbalance-10018,imbalance,mean_delay,-0.4799999999999969,0.7910349373763956
+PPO seed 123,Fixed Priority,saturation-10019,saturation,mean_delay,-3.6600000000000037,5.972584856396872
+PPO seed 123,Fixed Priority,normal-10020,normal,mean_delay,-5.5,9.584450402144771
+PPO seed 123,Fixed Priority,peak-10021,peak,mean_delay,-22.91025641025641,21.545695683626715
+PPO seed 123,Fixed Priority,disruption-10022,disruption,mean_delay,-5.714285714285715,8.544400366188588
+PPO seed 123,Fixed Priority,imbalance-10023,imbalance,mean_delay,2.7959183673469425,-4.259950248756224
+PPO seed 123,Fixed Priority,saturation-10024,saturation,mean_delay,-3.6078431372549034,5.91259640102828
+PPO seed 123,Fixed Priority,normal-10025,normal,mean_delay,-3.384615384615387,5.911991938192815
+PPO seed 123,Fixed Priority,peak-10026,peak,mean_delay,-20.0,19.124115509657678
+PPO seed 123,Fixed Priority,disruption-10027,disruption,mean_delay,-3.6923076923076934,7.1829405162738516
+PPO seed 123,Fixed Priority,imbalance-10028,imbalance,mean_delay,4.549019607843142,-7.738492328218822
+PPO seed 123,Fixed Priority,saturation-10029,saturation,mean_delay,-6.03846153846154,9.432261940522682
+PPO seed 123,Fixed Priority,normal-10000,normal,p95_delay,15.0,-13.513513513513514
+PPO seed 123,Fixed Priority,peak-10001,peak,p95_delay,42.650000000000034,-22.82579609312285
+PPO seed 123,Fixed Priority,disruption-10002,disruption,p95_delay,19.80000000000001,-16.751269035533007
+PPO seed 123,Fixed Priority,imbalance-10003,imbalance,p95_delay,61.099999999999994,-49.6344435418359
+PPO seed 123,Fixed Priority,saturation-10004,saturation,p95_delay,11.0,-10.237319683573757
+PPO seed 123,Fixed Priority,normal-10005,normal,p95_delay,11.449999999999989,-10.315315315315305
+PPO seed 123,Fixed Priority,peak-10006,peak,p95_delay,44.70000000000002,-23.427672955974856
+PPO seed 123,Fixed Priority,disruption-10007,disruption,p95_delay,16.09999999999998,-13.355454168394841
+PPO seed 123,Fixed Priority,imbalance-10008,imbalance,p95_delay,65.19999999999995,-54.53785027185274
+PPO seed 123,Fixed Priority,saturation-10009,saturation,p95_delay,10.900000000000006,-9.151973131822002
+PPO seed 123,Fixed Priority,normal-10010,normal,p95_delay,23.0,-19.574468085106382
+PPO seed 123,Fixed Priority,peak-10011,peak,p95_delay,64.30000000000001,-34.53276047261011
+PPO seed 123,Fixed Priority,disruption-10012,disruption,p95_delay,13.400000000000006,-12.061206120612066
+PPO seed 123,Fixed Priority,imbalance-10013,imbalance,p95_delay,77.64999999999992,-70.9456372772955
+PPO seed 123,Fixed Priority,saturation-10014,saturation,p95_delay,23.200000000000017,-19.01639344262297
+PPO seed 123,Fixed Priority,normal-10015,normal,p95_delay,18.89999999999999,-17.830188679245275
+PPO seed 123,Fixed Priority,peak-10016,peak,p95_delay,45.44999999999999,-24.13060791080435
+PPO seed 123,Fixed Priority,disruption-10017,disruption,p95_delay,21.149999999999977,-17.848101265822766
+PPO seed 123,Fixed Priority,imbalance-10018,imbalance,p95_delay,20.09999999999998,-17.099106763079522
+PPO seed 123,Fixed Priority,saturation-10019,saturation,p95_delay,11.450000000000003,-9.862187769164516
+PPO seed 123,Fixed Priority,normal-10020,normal,p95_delay,13.549999999999997,-13.168124392614187
+PPO seed 123,Fixed Priority,peak-10021,peak,p95_delay,66.35,-36.45604395604395
+PPO seed 123,Fixed Priority,disruption-10022,disruption,p95_delay,15.0,-11.737089201877936
+PPO seed 123,Fixed Priority,imbalance-10023,imbalance,p95_delay,50.19999999999999,-39.34169278996865
+PPO seed 123,Fixed Priority,saturation-10024,saturation,p95_delay,24.0,-20.869565217391305
+PPO seed 123,Fixed Priority,normal-10025,normal,p95_delay,23.0,-23.601847101077478
+PPO seed 123,Fixed Priority,peak-10026,peak,p95_delay,61.89999999999998,-33.50473612990527
+PPO seed 123,Fixed Priority,disruption-10027,disruption,p95_delay,21.44999999999999,-22.34374999999999
+PPO seed 123,Fixed Priority,imbalance-10028,imbalance,p95_delay,70.5,-64.0909090909091
+PPO seed 123,Fixed Priority,saturation-10029,saturation,p95_delay,11.0,-9.734513274336283
+PPO seed 123,Fixed Priority,normal-10000,normal,incomplete_trains,0.0,-0.0
+PPO seed 123,Fixed Priority,peak-10001,peak,incomplete_trains,-1.0,3.5714285714285716
+PPO seed 123,Fixed Priority,disruption-10002,disruption,incomplete_trains,0.0,-0.0
+PPO seed 123,Fixed Priority,imbalance-10003,imbalance,incomplete_trains,0.0,-0.0
+PPO seed 123,Fixed Priority,saturation-10004,saturation,incomplete_trains,0.0,
+PPO seed 123,Fixed Priority,normal-10005,normal,incomplete_trains,0.0,
+PPO seed 123,Fixed Priority,peak-10006,peak,incomplete_trains,-3.0,11.538461538461538
+PPO seed 123,Fixed Priority,disruption-10007,disruption,incomplete_trains,0.0,-0.0
+PPO seed 123,Fixed Priority,imbalance-10008,imbalance,incomplete_trains,0.0,-0.0
+PPO seed 123,Fixed Priority,saturation-10009,saturation,incomplete_trains,-1.0,50.0
+PPO seed 123,Fixed Priority,normal-10010,normal,incomplete_trains,0.0,-0.0
+PPO seed 123,Fixed Priority,peak-10011,peak,incomplete_trains,-1.0,3.5714285714285716
+PPO seed 123,Fixed Priority,disruption-10012,disruption,incomplete_trains,-1.0,50.0
+PPO seed 123,Fixed Priority,imbalance-10013,imbalance,incomplete_trains,0.0,
+PPO seed 123,Fixed Priority,saturation-10014,saturation,incomplete_trains,0.0,-0.0
+PPO seed 123,Fixed Priority,normal-10015,normal,incomplete_trains,0.0,
+PPO seed 123,Fixed Priority,peak-10016,peak,incomplete_trains,0.0,-0.0
+PPO seed 123,Fixed Priority,disruption-10017,disruption,incomplete_trains,1.0,-100.0
+PPO seed 123,Fixed Priority,imbalance-10018,imbalance,incomplete_trains,0.0,-0.0
+PPO seed 123,Fixed Priority,saturation-10019,saturation,incomplete_trains,0.0,-0.0
+PPO seed 123,Fixed Priority,normal-10020,normal,incomplete_trains,0.0,
+PPO seed 123,Fixed Priority,peak-10021,peak,incomplete_trains,-1.0,3.7037037037037037
+PPO seed 123,Fixed Priority,disruption-10022,disruption,incomplete_trains,0.0,-0.0
+PPO seed 123,Fixed Priority,imbalance-10023,imbalance,incomplete_trains,0.0,-0.0
+PPO seed 123,Fixed Priority,saturation-10024,saturation,incomplete_trains,0.0,-0.0
+PPO seed 123,Fixed Priority,normal-10025,normal,incomplete_trains,0.0,
+PPO seed 123,Fixed Priority,peak-10026,peak,incomplete_trains,0.0,-0.0
+PPO seed 123,Fixed Priority,disruption-10027,disruption,incomplete_trains,0.0,
+PPO seed 123,Fixed Priority,imbalance-10028,imbalance,incomplete_trains,0.0,-0.0
+PPO seed 123,Fixed Priority,saturation-10029,saturation,incomplete_trains,0.0,
+PPO seed 123,Fixed Priority,normal-10000,normal,selection_cost,-3.846153846153854,5.880623346074695
+PPO seed 123,Fixed Priority,peak-10001,peak,selection_cost,-11.705128205128204,4.69916104791806
+PPO seed 123,Fixed Priority,disruption-10002,disruption,selection_cost,-4.307692307692307,4.945904173106645
+PPO seed 123,Fixed Priority,imbalance-10003,imbalance,selection_cost,-5.961538461538467,6.762652705061087
+PPO seed 123,Fixed Priority,saturation-10004,saturation,selection_cost,-5.0192307692307665,8.427510494026473
+PPO seed 123,Fixed Priority,normal-10005,normal,selection_cost,-4.384615384615387,7.485226526592255
+PPO seed 123,Fixed Priority,peak-10006,peak,selection_cost,-29.65384615384616,12.09917874143433
+PPO seed 123,Fixed Priority,disruption-10007,disruption,selection_cost,-3.0576923076923066,3.951292246520873
+PPO seed 123,Fixed Priority,imbalance-10008,imbalance,selection_cost,-6.07692307692308,7.511290705966251
+PPO seed 123,Fixed Priority,saturation-10009,saturation,selection_cost,-14.0,17.847511645011032
+PPO seed 123,Fixed Priority,normal-10010,normal,selection_cost,-3.711538461538453,5.003889032927134
+PPO seed 123,Fixed Priority,peak-10011,peak,selection_cost,-11.320512820512818,4.429395535490342
+PPO seed 123,Fixed Priority,disruption-10012,disruption,selection_cost,-13.11538461538462,17.43799539759653
+PPO seed 123,Fixed Priority,imbalance-10013,imbalance,selection_cost,0.0,-0.0
+PPO seed 123,Fixed Priority,saturation-10014,saturation,selection_cost,-4.057692307692307,4.3541064795707785
+PPO seed 123,Fixed Priority,normal-10015,normal,selection_cost,-4.21153846153846,6.82668329177057
+PPO seed 123,Fixed Priority,peak-10016,peak,selection_cost,-10.5,4.250129735339907
+PPO seed 123,Fixed Priority,disruption-10017,disruption,selection_cost,3.538461538461533,-5.128205128205121
+PPO seed 123,Fixed Priority,imbalance-10018,imbalance,selection_cost,-0.4423076923076934,0.575143785946488
+PPO seed 123,Fixed Priority,saturation-10019,saturation,selection_cost,-3.442307692307679,4.436183395291185
+PPO seed 123,Fixed Priority,normal-10020,normal,selection_cost,-5.5,9.584450402144771
+PPO seed 123,Fixed Priority,peak-10021,peak,selection_cost,-15.628205128205138,6.194105691056914
+PPO seed 123,Fixed Priority,disruption-10022,disruption,selection_cost,-5.384615384615387,5.923418658768777
+PPO seed 123,Fixed Priority,imbalance-10023,imbalance,selection_cost,2.6346153846153726,-2.938652938652925
+PPO seed 123,Fixed Priority,saturation-10024,saturation,selection_cost,-3.32692307692308,4.820284201727505
+PPO seed 123,Fixed Priority,normal-10025,normal,selection_cost,-3.384615384615387,5.911991938192815
+PPO seed 123,Fixed Priority,peak-10026,peak,selection_cost,-7.961538461538453,3.0814270828164507
+PPO seed 123,Fixed Priority,disruption-10027,disruption,selection_cost,-3.6923076923076934,7.1829405162738516
+PPO seed 123,Fixed Priority,imbalance-10028,imbalance,selection_cost,4.596153846153854,-6.88165850849411
+PPO seed 123,Fixed Priority,saturation-10029,saturation,selection_cost,-6.03846153846154,9.432261940522682
+PPO seed 123,Fixed Priority,normal-10000,normal,utilization,-0.012499999999999956,-1.7857142857142796
+PPO seed 123,Fixed Priority,peak-10001,peak,utilization,-0.02499999999999991,-3.409090909090897
+PPO seed 123,Fixed Priority,disruption-10002,disruption,utilization,-0.008333333333333304,-1.1560693641618456
+PPO seed 123,Fixed Priority,imbalance-10003,imbalance,utilization,-0.02083333333333326,-2.8735632183907946
+PPO seed 123,Fixed Priority,saturation-10004,saturation,utilization,-0.012500000000000067,-1.75438596491229
+PPO seed 123,Fixed Priority,normal-10005,normal,utilization,-0.012499999999999956,-1.7857142857142796
+PPO seed 123,Fixed Priority,peak-10006,peak,utilization,-0.04999999999999993,-6.896551724137922
+PPO seed 123,Fixed Priority,disruption-10007,disruption,utilization,-0.008333333333333304,-1.1627906976744145
+PPO seed 123,Fixed Priority,imbalance-10008,imbalance,utilization,-0.008333333333333415,-1.1834319526627333
+PPO seed 123,Fixed Priority,saturation-10009,saturation,utilization,-0.025000000000000022,-3.448275862068969
+PPO seed 123,Fixed Priority,normal-10010,normal,utilization,-0.012499999999999956,-1.7441860465116217
+PPO seed 123,Fixed Priority,peak-10011,peak,utilization,-0.02083333333333326,-2.8735632183907946
+PPO seed 123,Fixed Priority,disruption-10012,disruption,utilization,-0.02083333333333337,-2.9069767441860517
+PPO seed 123,Fixed Priority,imbalance-10013,imbalance,utilization,0.0,0.0
+PPO seed 123,Fixed Priority,saturation-10014,saturation,utilization,-0.008333333333333304,-1.1627906976744145
+PPO seed 123,Fixed Priority,normal-10015,normal,utilization,0.0,0.0
+PPO seed 123,Fixed Priority,peak-10016,peak,utilization,-0.04166666666666674,-5.617977528089898
+PPO seed 123,Fixed Priority,disruption-10017,disruption,utilization,0.0,0.0
+PPO seed 123,Fixed Priority,imbalance-10018,imbalance,utilization,0.0,0.0
+PPO seed 123,Fixed Priority,saturation-10019,saturation,utilization,-0.01666666666666672,-2.339181286549715
+PPO seed 123,Fixed Priority,normal-10020,normal,utilization,-0.01666666666666672,-2.3529411764705954
+PPO seed 123,Fixed Priority,peak-10021,peak,utilization,-0.04166666666666674,-5.649717514124304
+PPO seed 123,Fixed Priority,disruption-10022,disruption,utilization,-0.012499999999999956,-1.7045454545454486
+PPO seed 123,Fixed Priority,imbalance-10023,imbalance,utilization,0.0,0.0
+PPO seed 123,Fixed Priority,saturation-10024,saturation,utilization,0.0,0.0
+PPO seed 123,Fixed Priority,normal-10025,normal,utilization,-0.008333333333333304,-1.1904761904761862
+PPO seed 123,Fixed Priority,peak-10026,peak,utilization,-0.029166666666666674,-3.932584269662922
+PPO seed 123,Fixed Priority,disruption-10027,disruption,utilization,0.0,0.0
+PPO seed 123,Fixed Priority,imbalance-10028,imbalance,utilization,0.025000000000000022,3.5714285714285747
+PPO seed 123,Fixed Priority,saturation-10029,saturation,utilization,-0.008333333333333304,-1.2048192771084294
+PPO seed 123,Longest Waiting,normal-10000,normal,throughput,0.25,2.857142857142857
+PPO seed 123,Longest Waiting,peak-10001,peak,throughput,0.75,9.375
+PPO seed 123,Longest Waiting,disruption-10002,disruption,throughput,0.25,3.0303030303030303
+PPO seed 123,Longest Waiting,imbalance-10003,imbalance,throughput,0.75,9.67741935483871
+PPO seed 123,Longest Waiting,saturation-10004,saturation,throughput,0.25,2.857142857142857
+PPO seed 123,Longest Waiting,normal-10005,normal,throughput,0.25,2.857142857142857
+PPO seed 123,Longest Waiting,peak-10006,peak,throughput,1.75,21.21212121212121
+PPO seed 123,Longest Waiting,disruption-10007,disruption,throughput,0.25,3.0303030303030303
+PPO seed 123,Longest Waiting,imbalance-10008,imbalance,throughput,0.25,2.9411764705882355
+PPO seed 123,Longest Waiting,saturation-10009,saturation,throughput,0.75,9.090909090909092
+PPO seed 123,Longest Waiting,normal-10010,normal,throughput,0.25,3.0303030303030303
+PPO seed 123,Longest Waiting,peak-10011,peak,throughput,0.75,9.090909090909092
+PPO seed 123,Longest Waiting,disruption-10012,disruption,throughput,0.5,5.882352941176471
+PPO seed 123,Longest Waiting,imbalance-10013,imbalance,throughput,0.0,0.0
+PPO seed 123,Longest Waiting,saturation-10014,saturation,throughput,0.25,3.0303030303030303
+PPO seed 123,Longest Waiting,normal-10015,normal,throughput,-0.25,-2.7777777777777777
+PPO seed 123,Longest Waiting,peak-10016,peak,throughput,1.0,12.5
+PPO seed 123,Longest Waiting,disruption-10017,disruption,throughput,0.25,2.9411764705882355
+PPO seed 123,Longest Waiting,imbalance-10018,imbalance,throughput,0.0,0.0
+PPO seed 123,Longest Waiting,saturation-10019,saturation,throughput,0.25,2.9411764705882355
+PPO seed 123,Longest Waiting,normal-10020,normal,throughput,0.5,5.714285714285714
+PPO seed 123,Longest Waiting,peak-10021,peak,throughput,1.25,15.625
+PPO seed 123,Longest Waiting,disruption-10022,disruption,throughput,0.25,3.0303030303030303
+PPO seed 123,Longest Waiting,imbalance-10023,imbalance,throughput,0.0,0.0
+PPO seed 123,Longest Waiting,saturation-10024,saturation,throughput,0.0,0.0
+PPO seed 123,Longest Waiting,normal-10025,normal,throughput,0.25,2.857142857142857
+PPO seed 123,Longest Waiting,peak-10026,peak,throughput,1.0,12.903225806451612
+PPO seed 123,Longest Waiting,disruption-10027,disruption,throughput,0.0,0.0
+PPO seed 123,Longest Waiting,imbalance-10028,imbalance,throughput,-0.75,-8.333333333333334
+PPO seed 123,Longest Waiting,saturation-10029,saturation,throughput,0.25,2.9411764705882355
+PPO seed 123,Longest Waiting,normal-10000,normal,mean_delay,-4.019607843137258,7.006151742993855
+PPO seed 123,Longest Waiting,peak-10001,peak,mean_delay,-14.703529411764706,15.177053480351677
+PPO seed 123,Longest Waiting,disruption-10002,disruption,mean_delay,-4.5714285714285765,7.260940032414919
+PPO seed 123,Longest Waiting,imbalance-10003,imbalance,mean_delay,-6.260000000000005,8.653580315178331
+PPO seed 123,Longest Waiting,saturation-10004,saturation,mean_delay,-5.0192307692307665,8.427510494026473
+PPO seed 123,Longest Waiting,normal-10005,normal,mean_delay,-4.384615384615387,7.485226526592255
+PPO seed 123,Longest Waiting,peak-10006,peak,mean_delay,-27.276573426573435,25.87815760229554
+PPO seed 123,Longest Waiting,disruption-10007,disruption,mean_delay,-3.240000000000002,5.280312907431555
+PPO seed 123,Longest Waiting,imbalance-10008,imbalance,mean_delay,-6.580000000000005,10.138674884437604
+PPO seed 123,Longest Waiting,saturation-10009,saturation,mean_delay,-6.081960784313722,9.781217086384242
+PPO seed 123,Longest Waiting,normal-10010,normal,mean_delay,-3.8039215686274446,5.748148148148139
+PPO seed 123,Longest Waiting,peak-10011,peak,mean_delay,-17.287058823529406,17.00812556427529
+PPO seed 123,Longest Waiting,disruption-10012,disruption,mean_delay,-5.196078431372548,8.806912595546692
+PPO seed 123,Longest Waiting,imbalance-10013,imbalance,mean_delay,0.0,-0.0
+PPO seed 123,Longest Waiting,saturation-10014,saturation,mean_delay,-4.408163265306129,6.390532544378708
+PPO seed 123,Longest Waiting,normal-10015,normal,mean_delay,-4.21153846153846,6.82668329177057
+PPO seed 123,Longest Waiting,peak-10016,peak,mean_delay,-22.384615384615387,20.630981921304503
+PPO seed 123,Longest Waiting,disruption-10017,disruption,mean_delay,-4.66196078431372,7.6548615582743
+PPO seed 123,Longest Waiting,imbalance-10018,imbalance,mean_delay,-0.4799999999999969,0.7910349373763956
+PPO seed 123,Longest Waiting,saturation-10019,saturation,mean_delay,-3.6600000000000037,5.972584856396872
+PPO seed 123,Longest Waiting,normal-10020,normal,mean_delay,-5.5,9.584450402144771
+PPO seed 123,Longest Waiting,peak-10021,peak,mean_delay,-22.91025641025641,21.545695683626715
+PPO seed 123,Longest Waiting,disruption-10022,disruption,mean_delay,-5.714285714285715,8.544400366188588
+PPO seed 123,Longest Waiting,imbalance-10023,imbalance,mean_delay,2.7959183673469425,-4.259950248756224
+PPO seed 123,Longest Waiting,saturation-10024,saturation,mean_delay,-3.6078431372549034,5.91259640102828
+PPO seed 123,Longest Waiting,normal-10025,normal,mean_delay,-3.384615384615387,5.911991938192815
+PPO seed 123,Longest Waiting,peak-10026,peak,mean_delay,-20.0,19.124115509657678
+PPO seed 123,Longest Waiting,disruption-10027,disruption,mean_delay,-3.6923076923076934,7.1829405162738516
+PPO seed 123,Longest Waiting,imbalance-10028,imbalance,mean_delay,4.549019607843142,-7.738492328218822
+PPO seed 123,Longest Waiting,saturation-10029,saturation,mean_delay,-6.03846153846154,9.432261940522682
+PPO seed 123,Longest Waiting,normal-10000,normal,p95_delay,15.0,-13.513513513513514
+PPO seed 123,Longest Waiting,peak-10001,peak,p95_delay,42.650000000000034,-22.82579609312285
+PPO seed 123,Longest Waiting,disruption-10002,disruption,p95_delay,19.80000000000001,-16.751269035533007
+PPO seed 123,Longest Waiting,imbalance-10003,imbalance,p95_delay,61.099999999999994,-49.6344435418359
+PPO seed 123,Longest Waiting,saturation-10004,saturation,p95_delay,11.0,-10.237319683573757
+PPO seed 123,Longest Waiting,normal-10005,normal,p95_delay,11.449999999999989,-10.315315315315305
+PPO seed 123,Longest Waiting,peak-10006,peak,p95_delay,44.70000000000002,-23.427672955974856
+PPO seed 123,Longest Waiting,disruption-10007,disruption,p95_delay,16.09999999999998,-13.355454168394841
+PPO seed 123,Longest Waiting,imbalance-10008,imbalance,p95_delay,65.19999999999995,-54.53785027185274
+PPO seed 123,Longest Waiting,saturation-10009,saturation,p95_delay,10.900000000000006,-9.151973131822002
+PPO seed 123,Longest Waiting,normal-10010,normal,p95_delay,23.0,-19.574468085106382
+PPO seed 123,Longest Waiting,peak-10011,peak,p95_delay,64.30000000000001,-34.53276047261011
+PPO seed 123,Longest Waiting,disruption-10012,disruption,p95_delay,13.400000000000006,-12.061206120612066
+PPO seed 123,Longest Waiting,imbalance-10013,imbalance,p95_delay,77.64999999999992,-70.9456372772955
+PPO seed 123,Longest Waiting,saturation-10014,saturation,p95_delay,23.200000000000017,-19.01639344262297
+PPO seed 123,Longest Waiting,normal-10015,normal,p95_delay,18.89999999999999,-17.830188679245275
+PPO seed 123,Longest Waiting,peak-10016,peak,p95_delay,45.44999999999999,-24.13060791080435
+PPO seed 123,Longest Waiting,disruption-10017,disruption,p95_delay,21.149999999999977,-17.848101265822766
+PPO seed 123,Longest Waiting,imbalance-10018,imbalance,p95_delay,20.09999999999998,-17.099106763079522
+PPO seed 123,Longest Waiting,saturation-10019,saturation,p95_delay,11.450000000000003,-9.862187769164516
+PPO seed 123,Longest Waiting,normal-10020,normal,p95_delay,13.549999999999997,-13.168124392614187
+PPO seed 123,Longest Waiting,peak-10021,peak,p95_delay,66.35,-36.45604395604395
+PPO seed 123,Longest Waiting,disruption-10022,disruption,p95_delay,15.0,-11.737089201877936
+PPO seed 123,Longest Waiting,imbalance-10023,imbalance,p95_delay,50.19999999999999,-39.34169278996865
+PPO seed 123,Longest Waiting,saturation-10024,saturation,p95_delay,24.0,-20.869565217391305
+PPO seed 123,Longest Waiting,normal-10025,normal,p95_delay,23.0,-23.601847101077478
+PPO seed 123,Longest Waiting,peak-10026,peak,p95_delay,61.89999999999998,-33.50473612990527
+PPO seed 123,Longest Waiting,disruption-10027,disruption,p95_delay,21.44999999999999,-22.34374999999999
+PPO seed 123,Longest Waiting,imbalance-10028,imbalance,p95_delay,70.5,-64.0909090909091
+PPO seed 123,Longest Waiting,saturation-10029,saturation,p95_delay,11.0,-9.734513274336283
+PPO seed 123,Longest Waiting,normal-10000,normal,incomplete_trains,0.0,-0.0
+PPO seed 123,Longest Waiting,peak-10001,peak,incomplete_trains,-1.0,3.5714285714285716
+PPO seed 123,Longest Waiting,disruption-10002,disruption,incomplete_trains,0.0,-0.0
+PPO seed 123,Longest Waiting,imbalance-10003,imbalance,incomplete_trains,0.0,-0.0
+PPO seed 123,Longest Waiting,saturation-10004,saturation,incomplete_trains,0.0,
+PPO seed 123,Longest Waiting,normal-10005,normal,incomplete_trains,0.0,
+PPO seed 123,Longest Waiting,peak-10006,peak,incomplete_trains,-3.0,11.538461538461538
+PPO seed 123,Longest Waiting,disruption-10007,disruption,incomplete_trains,0.0,-0.0
+PPO seed 123,Longest Waiting,imbalance-10008,imbalance,incomplete_trains,0.0,-0.0
+PPO seed 123,Longest Waiting,saturation-10009,saturation,incomplete_trains,-1.0,50.0
+PPO seed 123,Longest Waiting,normal-10010,normal,incomplete_trains,0.0,-0.0
+PPO seed 123,Longest Waiting,peak-10011,peak,incomplete_trains,-1.0,3.5714285714285716
+PPO seed 123,Longest Waiting,disruption-10012,disruption,incomplete_trains,-1.0,50.0
+PPO seed 123,Longest Waiting,imbalance-10013,imbalance,incomplete_trains,0.0,
+PPO seed 123,Longest Waiting,saturation-10014,saturation,incomplete_trains,0.0,-0.0
+PPO seed 123,Longest Waiting,normal-10015,normal,incomplete_trains,0.0,
+PPO seed 123,Longest Waiting,peak-10016,peak,incomplete_trains,0.0,-0.0
+PPO seed 123,Longest Waiting,disruption-10017,disruption,incomplete_trains,1.0,-100.0
+PPO seed 123,Longest Waiting,imbalance-10018,imbalance,incomplete_trains,0.0,-0.0
+PPO seed 123,Longest Waiting,saturation-10019,saturation,incomplete_trains,0.0,-0.0
+PPO seed 123,Longest Waiting,normal-10020,normal,incomplete_trains,0.0,
+PPO seed 123,Longest Waiting,peak-10021,peak,incomplete_trains,-1.0,3.7037037037037037
+PPO seed 123,Longest Waiting,disruption-10022,disruption,incomplete_trains,0.0,-0.0
+PPO seed 123,Longest Waiting,imbalance-10023,imbalance,incomplete_trains,0.0,-0.0
+PPO seed 123,Longest Waiting,saturation-10024,saturation,incomplete_trains,0.0,-0.0
+PPO seed 123,Longest Waiting,normal-10025,normal,incomplete_trains,0.0,
+PPO seed 123,Longest Waiting,peak-10026,peak,incomplete_trains,0.0,-0.0
+PPO seed 123,Longest Waiting,disruption-10027,disruption,incomplete_trains,0.0,
+PPO seed 123,Longest Waiting,imbalance-10028,imbalance,incomplete_trains,0.0,-0.0
+PPO seed 123,Longest Waiting,saturation-10029,saturation,incomplete_trains,0.0,
+PPO seed 123,Longest Waiting,normal-10000,normal,selection_cost,-3.846153846153854,5.880623346074695
+PPO seed 123,Longest Waiting,peak-10001,peak,selection_cost,-11.705128205128204,4.69916104791806
+PPO seed 123,Longest Waiting,disruption-10002,disruption,selection_cost,-4.307692307692307,4.945904173106645
+PPO seed 123,Longest Waiting,imbalance-10003,imbalance,selection_cost,-5.961538461538467,6.762652705061087
+PPO seed 123,Longest Waiting,saturation-10004,saturation,selection_cost,-5.0192307692307665,8.427510494026473
+PPO seed 123,Longest Waiting,normal-10005,normal,selection_cost,-4.384615384615387,7.485226526592255
+PPO seed 123,Longest Waiting,peak-10006,peak,selection_cost,-29.65384615384616,12.09917874143433
+PPO seed 123,Longest Waiting,disruption-10007,disruption,selection_cost,-3.0576923076923066,3.951292246520873
+PPO seed 123,Longest Waiting,imbalance-10008,imbalance,selection_cost,-6.07692307692308,7.511290705966251
+PPO seed 123,Longest Waiting,saturation-10009,saturation,selection_cost,-14.0,17.847511645011032
+PPO seed 123,Longest Waiting,normal-10010,normal,selection_cost,-3.711538461538453,5.003889032927134
+PPO seed 123,Longest Waiting,peak-10011,peak,selection_cost,-11.320512820512818,4.429395535490342
+PPO seed 123,Longest Waiting,disruption-10012,disruption,selection_cost,-13.11538461538462,17.43799539759653
+PPO seed 123,Longest Waiting,imbalance-10013,imbalance,selection_cost,0.0,-0.0
+PPO seed 123,Longest Waiting,saturation-10014,saturation,selection_cost,-4.057692307692307,4.3541064795707785
+PPO seed 123,Longest Waiting,normal-10015,normal,selection_cost,-4.21153846153846,6.82668329177057
+PPO seed 123,Longest Waiting,peak-10016,peak,selection_cost,-10.5,4.250129735339907
+PPO seed 123,Longest Waiting,disruption-10017,disruption,selection_cost,3.538461538461533,-5.128205128205121
+PPO seed 123,Longest Waiting,imbalance-10018,imbalance,selection_cost,-0.4423076923076934,0.575143785946488
+PPO seed 123,Longest Waiting,saturation-10019,saturation,selection_cost,-3.442307692307679,4.436183395291185
+PPO seed 123,Longest Waiting,normal-10020,normal,selection_cost,-5.5,9.584450402144771
+PPO seed 123,Longest Waiting,peak-10021,peak,selection_cost,-15.628205128205138,6.194105691056914
+PPO seed 123,Longest Waiting,disruption-10022,disruption,selection_cost,-5.384615384615387,5.923418658768777
+PPO seed 123,Longest Waiting,imbalance-10023,imbalance,selection_cost,2.6346153846153726,-2.938652938652925
+PPO seed 123,Longest Waiting,saturation-10024,saturation,selection_cost,-3.32692307692308,4.820284201727505
+PPO seed 123,Longest Waiting,normal-10025,normal,selection_cost,-3.384615384615387,5.911991938192815
+PPO seed 123,Longest Waiting,peak-10026,peak,selection_cost,-7.961538461538453,3.0814270828164507
+PPO seed 123,Longest Waiting,disruption-10027,disruption,selection_cost,-3.6923076923076934,7.1829405162738516
+PPO seed 123,Longest Waiting,imbalance-10028,imbalance,selection_cost,4.596153846153854,-6.88165850849411
+PPO seed 123,Longest Waiting,saturation-10029,saturation,selection_cost,-6.03846153846154,9.432261940522682
+PPO seed 123,Longest Waiting,normal-10000,normal,utilization,-0.012499999999999956,-1.7857142857142796
+PPO seed 123,Longest Waiting,peak-10001,peak,utilization,-0.02499999999999991,-3.409090909090897
+PPO seed 123,Longest Waiting,disruption-10002,disruption,utilization,-0.008333333333333304,-1.1560693641618456
+PPO seed 123,Longest Waiting,imbalance-10003,imbalance,utilization,-0.02083333333333326,-2.8735632183907946
+PPO seed 123,Longest Waiting,saturation-10004,saturation,utilization,-0.012500000000000067,-1.75438596491229
+PPO seed 123,Longest Waiting,normal-10005,normal,utilization,-0.012499999999999956,-1.7857142857142796
+PPO seed 123,Longest Waiting,peak-10006,peak,utilization,-0.04999999999999993,-6.896551724137922
+PPO seed 123,Longest Waiting,disruption-10007,disruption,utilization,-0.008333333333333304,-1.1627906976744145
+PPO seed 123,Longest Waiting,imbalance-10008,imbalance,utilization,-0.008333333333333415,-1.1834319526627333
+PPO seed 123,Longest Waiting,saturation-10009,saturation,utilization,-0.025000000000000022,-3.448275862068969
+PPO seed 123,Longest Waiting,normal-10010,normal,utilization,-0.012499999999999956,-1.7441860465116217
+PPO seed 123,Longest Waiting,peak-10011,peak,utilization,-0.02083333333333326,-2.8735632183907946
+PPO seed 123,Longest Waiting,disruption-10012,disruption,utilization,-0.02083333333333337,-2.9069767441860517
+PPO seed 123,Longest Waiting,imbalance-10013,imbalance,utilization,0.0,0.0
+PPO seed 123,Longest Waiting,saturation-10014,saturation,utilization,-0.008333333333333304,-1.1627906976744145
+PPO seed 123,Longest Waiting,normal-10015,normal,utilization,0.0,0.0
+PPO seed 123,Longest Waiting,peak-10016,peak,utilization,-0.04166666666666674,-5.617977528089898
+PPO seed 123,Longest Waiting,disruption-10017,disruption,utilization,0.0,0.0
+PPO seed 123,Longest Waiting,imbalance-10018,imbalance,utilization,0.0,0.0
+PPO seed 123,Longest Waiting,saturation-10019,saturation,utilization,-0.01666666666666672,-2.339181286549715
+PPO seed 123,Longest Waiting,normal-10020,normal,utilization,-0.01666666666666672,-2.3529411764705954
+PPO seed 123,Longest Waiting,peak-10021,peak,utilization,-0.04166666666666674,-5.649717514124304
+PPO seed 123,Longest Waiting,disruption-10022,disruption,utilization,-0.012499999999999956,-1.7045454545454486
+PPO seed 123,Longest Waiting,imbalance-10023,imbalance,utilization,0.0,0.0
+PPO seed 123,Longest Waiting,saturation-10024,saturation,utilization,0.0,0.0
+PPO seed 123,Longest Waiting,normal-10025,normal,utilization,-0.008333333333333304,-1.1904761904761862
+PPO seed 123,Longest Waiting,peak-10026,peak,utilization,-0.029166666666666674,-3.932584269662922
+PPO seed 123,Longest Waiting,disruption-10027,disruption,utilization,0.0,0.0
+PPO seed 123,Longest Waiting,imbalance-10028,imbalance,utilization,0.025000000000000022,3.5714285714285747
+PPO seed 123,Longest Waiting,saturation-10029,saturation,utilization,-0.008333333333333304,-1.2048192771084294
+PPO seed 123,Work Conserving,normal-10000,normal,throughput,0.0,0.0
+PPO seed 123,Work Conserving,peak-10001,peak,throughput,0.0,0.0
+PPO seed 123,Work Conserving,disruption-10002,disruption,throughput,0.0,0.0
+PPO seed 123,Work Conserving,imbalance-10003,imbalance,throughput,0.0,0.0
+PPO seed 123,Work Conserving,saturation-10004,saturation,throughput,0.0,0.0
+PPO seed 123,Work Conserving,normal-10005,normal,throughput,0.0,0.0
+PPO seed 123,Work Conserving,peak-10006,peak,throughput,0.0,0.0
+PPO seed 123,Work Conserving,disruption-10007,disruption,throughput,0.0,0.0
+PPO seed 123,Work Conserving,imbalance-10008,imbalance,throughput,0.0,0.0
+PPO seed 123,Work Conserving,saturation-10009,saturation,throughput,0.25,2.857142857142857
+PPO seed 123,Work Conserving,normal-10010,normal,throughput,0.0,0.0
+PPO seed 123,Work Conserving,peak-10011,peak,throughput,0.0,0.0
+PPO seed 123,Work Conserving,disruption-10012,disruption,throughput,0.0,0.0
+PPO seed 123,Work Conserving,imbalance-10013,imbalance,throughput,-0.25,-2.857142857142857
+PPO seed 123,Work Conserving,saturation-10014,saturation,throughput,0.0,0.0
+PPO seed 123,Work Conserving,normal-10015,normal,throughput,0.0,0.0
+PPO seed 123,Work Conserving,peak-10016,peak,throughput,0.0,0.0
+PPO seed 123,Work Conserving,disruption-10017,disruption,throughput,0.0,0.0
+PPO seed 123,Work Conserving,imbalance-10018,imbalance,throughput,0.5,6.25
+PPO seed 123,Work Conserving,saturation-10019,saturation,throughput,0.25,2.9411764705882355
+PPO seed 123,Work Conserving,normal-10020,normal,throughput,0.0,0.0
+PPO seed 123,Work Conserving,peak-10021,peak,throughput,0.0,0.0
+PPO seed 123,Work Conserving,disruption-10022,disruption,throughput,0.0,0.0
+PPO seed 123,Work Conserving,imbalance-10023,imbalance,throughput,0.25,3.125
+PPO seed 123,Work Conserving,saturation-10024,saturation,throughput,0.0,0.0
+PPO seed 123,Work Conserving,normal-10025,normal,throughput,0.0,0.0
+PPO seed 123,Work Conserving,peak-10026,peak,throughput,0.0,0.0
+PPO seed 123,Work Conserving,disruption-10027,disruption,throughput,0.0,0.0
+PPO seed 123,Work Conserving,imbalance-10028,imbalance,throughput,0.0,0.0
+PPO seed 123,Work Conserving,saturation-10029,saturation,throughput,0.0,0.0
+PPO seed 123,Work Conserving,normal-10000,normal,mean_delay,-0.5686274509803937,1.0545454545454573
+PPO seed 123,Work Conserving,peak-10001,peak,mean_delay,7.276470588235284,-9.714914002984356
+PPO seed 123,Work Conserving,disruption-10002,disruption,mean_delay,0.46938775510204067,-0.8104298801973219
+PPO seed 123,Work Conserving,imbalance-10003,imbalance,mean_delay,3.6106122448979576,-5.77981051943809
+PPO seed 123,Work Conserving,saturation-10004,saturation,mean_delay,-0.1730769230769198,0.3163444639718745
+PPO seed 123,Work Conserving,normal-10005,normal,mean_delay,0.4230769230769269,-0.7868383404864163
+PPO seed 123,Work Conserving,peak-10006,peak,mean_delay,5.3999999999999915,-7.4249999999999865
+PPO seed 123,Work Conserving,disruption-10007,disruption,mean_delay,1.6506122448979568,-2.923021322732197
+PPO seed 123,Work Conserving,imbalance-10008,imbalance,mean_delay,0.8999999999999986,-1.5673981191222546
+PPO seed 123,Work Conserving,saturation-10009,saturation,mean_delay,1.2380392156862783,-2.2567247825123555
+PPO seed 123,Work Conserving,normal-10010,normal,mean_delay,0.019607843137258385,-0.03144654088050873
+PPO seed 123,Work Conserving,peak-10011,peak,mean_delay,11.132941176470595,-15.204781721484014
+PPO seed 123,Work Conserving,disruption-10012,disruption,mean_delay,0.6839215686274542,-1.2875029529884305
+PPO seed 123,Work Conserving,imbalance-10013,imbalance,mean_delay,0.6538461538461533,-1.0831474992035672
+PPO seed 123,Work Conserving,saturation-10014,saturation,mean_delay,0.46938775510203357,-0.7322508755173398
+PPO seed 123,Work Conserving,normal-10015,normal,mean_delay,-1.3461538461538467,2.2883295194508015
+PPO seed 123,Work Conserving,peak-10016,peak,mean_delay,6.92307692307692,-8.742107819329767
+PPO seed 123,Work Conserving,disruption-10017,disruption,mean_delay,-0.759999999999998,1.33333333333333
+PPO seed 123,Work Conserving,imbalance-10018,imbalance,mean_delay,-4.340000000000003,6.724511930585688
+PPO seed 123,Work Conserving,saturation-10019,saturation,mean_delay,-1.1400000000000006,1.9400953029271624
+PPO seed 123,Work Conserving,normal-10020,normal,mean_delay,-0.5769230769230731,1.099706744868028
+PPO seed 123,Work Conserving,peak-10021,peak,mean_delay,14.893665158371036,-21.733245295477047
+PPO seed 123,Work Conserving,disruption-10022,disruption,mean_delay,0.9387755102040813,-1.5587936292782103
+PPO seed 123,Work Conserving,imbalance-10023,imbalance,mean_delay,-0.5714285714285694,0.8281573498964774
+PPO seed 123,Work Conserving,saturation-10024,saturation,mean_delay,-0.8039215686274517,1.380936342202763
+PPO seed 123,Work Conserving,normal-10025,normal,mean_delay,-0.8846153846153868,1.6157358623112088
+PPO seed 123,Work Conserving,peak-10026,peak,mean_delay,13.840000000000003,-19.564602770709648
+PPO seed 123,Work Conserving,disruption-10027,disruption,mean_delay,-0.3461538461538467,0.7202881152460996
+PPO seed 123,Work Conserving,imbalance-10028,imbalance,mean_delay,-2.882352941176471,4.352976014213799
+PPO seed 123,Work Conserving,saturation-10029,saturation,mean_delay,0.2307692307692335,-0.39960039960040433
+PPO seed 123,Work Conserving,normal-10000,normal,p95_delay,-14.0,10.0
+PPO seed 123,Work Conserving,peak-10001,peak,p95_delay,-5.799999999999983,2.4649383765405792
+PPO seed 123,Work Conserving,disruption-10002,disruption,p95_delay,-16.0,10.38961038961039
+PPO seed 123,Work Conserving,imbalance-10003,imbalance,p95_delay,-21.19999999999999,10.321324245374875
+PPO seed 123,Work Conserving,saturation-10004,saturation,p95_delay,-14.550000000000011,10.939849624060159
+PPO seed 123,Work Conserving,normal-10005,normal,p95_delay,-9.550000000000011,7.234848484848493
+PPO seed 123,Work Conserving,peak-10006,peak,p95_delay,-10.800000000000011,4.384896467722294
+PPO seed 123,Work Conserving,disruption-10007,disruption,p95_delay,-16.349999999999994,10.686274509803921
+PPO seed 123,Work Conserving,imbalance-10008,imbalance,p95_delay,-12.0,6.099110546378655
+PPO seed 123,Work Conserving,saturation-10009,saturation,p95_delay,-9.099999999999994,6.542056074766351
+PPO seed 123,Work Conserving,normal-10010,normal,p95_delay,-14.0,9.06148867313916
+PPO seed 123,Work Conserving,peak-10011,peak,p95_delay,-24.5,8.909090909090908
+PPO seed 123,Work Conserving,disruption-10012,disruption,p95_delay,-19.05000000000001,13.270637408568449
+PPO seed 123,Work Conserving,imbalance-10013,imbalance,p95_delay,-25.0,11.786892975011792
+PPO seed 123,Work Conserving,saturation-10014,saturation,p95_delay,-7.0,4.599211563731932
+PPO seed 123,Work Conserving,normal-10015,normal,p95_delay,-13.899999999999991,10.014409221902012
+PPO seed 123,Work Conserving,peak-10016,peak,p95_delay,-7.249999999999972,3.0076747562746204
+PPO seed 123,Work Conserving,disruption-10017,disruption,p95_delay,-5.850000000000023,4.020618556701047
+PPO seed 123,Work Conserving,imbalance-10018,imbalance,p95_delay,-118.64999999999998,46.293406164650804
+PPO seed 123,Work Conserving,saturation-10019,saturation,p95_delay,-18.000000000000014,12.366884232222612
+PPO seed 123,Work Conserving,normal-10020,normal,p95_delay,-12.349999999999994,9.588509316770184
+PPO seed 123,Work Conserving,peak-10021,peak,p95_delay,-26.650000000000006,9.690909090909093
+PPO seed 123,Work Conserving,disruption-10022,disruption,p95_delay,-14.0,8.928571428571429
+PPO seed 123,Work Conserving,imbalance-10023,imbalance,p95_delay,-76.0,29.944838455476756
+PPO seed 123,Work Conserving,saturation-10024,saturation,p95_delay,-9.0,6.081081081081081
+PPO seed 123,Work Conserving,normal-10025,normal,p95_delay,-11.900000000000006,8.991310918020405
+PPO seed 123,Work Conserving,peak-10026,peak,p95_delay,-32.55000000000001,11.658309455587396
+PPO seed 123,Work Conserving,disruption-10027,disruption,p95_delay,-13.900000000000006,10.582413399314811
+PPO seed 123,Work Conserving,imbalance-10028,imbalance,p95_delay,-42.0,18.876404494382022
+PPO seed 123,Work Conserving,saturation-10029,saturation,p95_delay,-13.449999999999989,9.785376500545645
+PPO seed 123,Work Conserving,normal-10000,normal,incomplete_trains,0.0,-0.0
+PPO seed 123,Work Conserving,peak-10001,peak,incomplete_trains,-1.0,3.5714285714285716
+PPO seed 123,Work Conserving,disruption-10002,disruption,incomplete_trains,0.0,-0.0
+PPO seed 123,Work Conserving,imbalance-10003,imbalance,incomplete_trains,-1.0,33.333333333333336
+PPO seed 123,Work Conserving,saturation-10004,saturation,incomplete_trains,0.0,
+PPO seed 123,Work Conserving,normal-10005,normal,incomplete_trains,0.0,
+PPO seed 123,Work Conserving,peak-10006,peak,incomplete_trains,0.0,-0.0
+PPO seed 123,Work Conserving,disruption-10007,disruption,incomplete_trains,-1.0,33.333333333333336
+PPO seed 123,Work Conserving,imbalance-10008,imbalance,incomplete_trains,0.0,-0.0
+PPO seed 123,Work Conserving,saturation-10009,saturation,incomplete_trains,-1.0,50.0
+PPO seed 123,Work Conserving,normal-10010,normal,incomplete_trains,0.0,-0.0
+PPO seed 123,Work Conserving,peak-10011,peak,incomplete_trains,-1.0,3.5714285714285716
+PPO seed 123,Work Conserving,disruption-10012,disruption,incomplete_trains,-1.0,50.0
+PPO seed 123,Work Conserving,imbalance-10013,imbalance,incomplete_trains,0.0,
+PPO seed 123,Work Conserving,saturation-10014,saturation,incomplete_trains,0.0,-0.0
+PPO seed 123,Work Conserving,normal-10015,normal,incomplete_trains,0.0,
+PPO seed 123,Work Conserving,peak-10016,peak,incomplete_trains,0.0,-0.0
+PPO seed 123,Work Conserving,disruption-10017,disruption,incomplete_trains,1.0,-100.0
+PPO seed 123,Work Conserving,imbalance-10018,imbalance,incomplete_trains,0.0,-0.0
+PPO seed 123,Work Conserving,saturation-10019,saturation,incomplete_trains,0.0,-0.0
+PPO seed 123,Work Conserving,normal-10020,normal,incomplete_trains,0.0,
+PPO seed 123,Work Conserving,peak-10021,peak,incomplete_trains,-1.0,3.7037037037037037
+PPO seed 123,Work Conserving,disruption-10022,disruption,incomplete_trains,0.0,-0.0
+PPO seed 123,Work Conserving,imbalance-10023,imbalance,incomplete_trains,0.0,-0.0
+PPO seed 123,Work Conserving,saturation-10024,saturation,incomplete_trains,0.0,-0.0
+PPO seed 123,Work Conserving,normal-10025,normal,incomplete_trains,0.0,
+PPO seed 123,Work Conserving,peak-10026,peak,incomplete_trains,0.0,-0.0
+PPO seed 123,Work Conserving,disruption-10027,disruption,incomplete_trains,0.0,
+PPO seed 123,Work Conserving,imbalance-10028,imbalance,incomplete_trains,0.0,-0.0
+PPO seed 123,Work Conserving,saturation-10029,saturation,incomplete_trains,0.0,
+PPO seed 123,Work Conserving,normal-10000,normal,selection_cost,-0.4615384615384599,0.7441860465116253
+PPO seed 123,Work Conserving,peak-10001,peak,selection_cost,-5.21794871794873,2.150821751307937
+PPO seed 123,Work Conserving,disruption-10002,disruption,selection_cost,-0.173076923076934,0.20862308762170997
+PPO seed 123,Work Conserving,imbalance-10003,imbalance,selection_cost,-6.134615384615387,6.945351622033532
+PPO seed 123,Work Conserving,saturation-10004,saturation,selection_cost,-0.1730769230769198,0.3163444639718745
+PPO seed 123,Work Conserving,normal-10005,normal,selection_cost,0.4230769230769269,-0.7868383404864163
+PPO seed 123,Work Conserving,peak-10006,peak,selection_cost,0.3205128205128176,-0.14899576852017268
+PPO seed 123,Work Conserving,disruption-10007,disruption,selection_cost,-7.307692307692307,8.95170789163722
+PPO seed 123,Work Conserving,imbalance-10008,imbalance,selection_cost,1.0769230769230802,-1.4602346805736681
+PPO seed 123,Work Conserving,saturation-10009,saturation,selection_cost,-7.192307692307693,10.04026845637584
+PPO seed 123,Work Conserving,normal-10010,normal,selection_cost,0.03846153846154721,-0.054614964500285496
+PPO seed 123,Work Conserving,peak-10011,peak,selection_cost,-5.0,2.005966464355519
+PPO seed 123,Work Conserving,disruption-10012,disruption,selection_cost,-7.692307692307686,11.022320198401756
+PPO seed 123,Work Conserving,imbalance-10013,imbalance,selection_cost,0.6538461538461533,-1.0831474992035672
+PPO seed 123,Work Conserving,saturation-10014,saturation,selection_cost,0.211538461538467,-0.23788927335640753
+PPO seed 123,Work Conserving,normal-10015,normal,selection_cost,-1.3461538461538467,2.2883295194508015
+PPO seed 123,Work Conserving,peak-10016,peak,selection_cost,-0.4615384615384812,0.19473143289880204
+PPO seed 123,Work Conserving,disruption-10017,disruption,selection_cost,7.365384615384613,-11.301268810858657
+PPO seed 123,Work Conserving,imbalance-10018,imbalance,selection_cost,-4.34615384615384,5.37839124226558
+PPO seed 123,Work Conserving,saturation-10019,saturation,selection_cost,-1.2115384615384528,1.6075529471803915
+PPO seed 123,Work Conserving,normal-10020,normal,selection_cost,-0.5769230769230731,1.099706744868028
+PPO seed 123,Work Conserving,peak-10021,peak,selection_cost,-4.564102564102569,1.891906254982199
+PPO seed 123,Work Conserving,disruption-10022,disruption,selection_cost,0.423076923076934,-0.49717514124295076
+PPO seed 123,Work Conserving,imbalance-10023,imbalance,selection_cost,-2.961538461538467,3.109226731273981
+PPO seed 123,Work Conserving,saturation-10024,saturation,selection_cost,-0.5769230769230802,0.8705745792222916
+PPO seed 123,Work Conserving,normal-10025,normal,selection_cost,-0.8846153846153868,1.6157358623112088
+PPO seed 123,Work Conserving,peak-10026,peak,selection_cost,0.6153846153846132,-0.24635598439745346
+PPO seed 123,Work Conserving,disruption-10027,disruption,selection_cost,-0.3461538461538467,0.7202881152460996
+PPO seed 123,Work Conserving,imbalance-10028,imbalance,selection_cost,-2.6923076923076934,3.634475597092421
+PPO seed 123,Work Conserving,saturation-10029,saturation,selection_cost,0.2307692307692335,-0.39960039960040433
+PPO seed 123,Work Conserving,normal-10000,normal,utilization,0.0,0.0
+PPO seed 123,Work Conserving,peak-10001,peak,utilization,0.0,0.0
+PPO seed 123,Work Conserving,disruption-10002,disruption,utilization,0.0,0.0
+PPO seed 123,Work Conserving,imbalance-10003,imbalance,utilization,0.0,0.0
+PPO seed 123,Work Conserving,saturation-10004,saturation,utilization,-0.004166666666666763,-0.5917159763313745
+PPO seed 123,Work Conserving,normal-10005,normal,utilization,0.0,0.0
+PPO seed 123,Work Conserving,peak-10006,peak,utilization,0.0,0.0
+PPO seed 123,Work Conserving,disruption-10007,disruption,utilization,0.0,0.0
+PPO seed 123,Work Conserving,imbalance-10008,imbalance,utilization,0.0,0.0
+PPO seed 123,Work Conserving,saturation-10009,saturation,utilization,-0.008333333333333415,-1.1764705882353055
+PPO seed 123,Work Conserving,normal-10010,normal,utilization,0.0,0.0
+PPO seed 123,Work Conserving,peak-10011,peak,utilization,0.0,0.0
+PPO seed 123,Work Conserving,disruption-10012,disruption,utilization,0.0,0.0
+PPO seed 123,Work Conserving,imbalance-10013,imbalance,utilization,0.004166666666666652,0.588235294117645
+PPO seed 123,Work Conserving,saturation-10014,saturation,utilization,0.0,0.0
+PPO seed 123,Work Conserving,normal-10015,normal,utilization,0.0,0.0
+PPO seed 123,Work Conserving,peak-10016,peak,utilization,0.0,0.0
+PPO seed 123,Work Conserving,disruption-10017,disruption,utilization,0.0,0.0
+PPO seed 123,Work Conserving,imbalance-10018,imbalance,utilization,-0.016666666666666607,-2.272727272727265
+PPO seed 123,Work Conserving,saturation-10019,saturation,utilization,-0.008333333333333415,-1.1834319526627333
+PPO seed 123,Work Conserving,normal-10020,normal,utilization,0.0,0.0
+PPO seed 123,Work Conserving,peak-10021,peak,utilization,0.0,0.0
+PPO seed 123,Work Conserving,disruption-10022,disruption,utilization,0.0,0.0
+PPO seed 123,Work Conserving,imbalance-10023,imbalance,utilization,-0.01666666666666672,-2.247191011235962
+PPO seed 123,Work Conserving,saturation-10024,saturation,utilization,0.0,0.0
+PPO seed 123,Work Conserving,normal-10025,normal,utilization,0.0,0.0
+PPO seed 123,Work Conserving,peak-10026,peak,utilization,0.0,0.0
+PPO seed 123,Work Conserving,disruption-10027,disruption,utilization,0.0,0.0
+PPO seed 123,Work Conserving,imbalance-10028,imbalance,utilization,0.0,0.0
+PPO seed 123,Work Conserving,saturation-10029,saturation,utilization,0.0,0.0
+PPO seed mean,FCFS,disruption-10002,disruption,throughput,0.25,3.0303030303030303
+PPO seed mean,FCFS,disruption-10007,disruption,throughput,0.25,3.0303030303030303
+PPO seed mean,FCFS,disruption-10012,disruption,throughput,0.5,5.882352941176471
+PPO seed mean,FCFS,disruption-10017,disruption,throughput,0.25,2.9411764705882355
+PPO seed mean,FCFS,disruption-10022,disruption,throughput,0.25,3.0303030303030303
+PPO seed mean,FCFS,disruption-10027,disruption,throughput,0.0,0.0
+PPO seed mean,FCFS,imbalance-10003,imbalance,throughput,0.75,9.67741935483871
+PPO seed mean,FCFS,imbalance-10008,imbalance,throughput,0.25,2.9411764705882355
+PPO seed mean,FCFS,imbalance-10013,imbalance,throughput,0.0,0.0
+PPO seed mean,FCFS,imbalance-10018,imbalance,throughput,-0.25,-2.9411764705882355
+PPO seed mean,FCFS,imbalance-10023,imbalance,throughput,0.0,0.0
+PPO seed mean,FCFS,imbalance-10028,imbalance,throughput,-0.75,-8.333333333333334
+PPO seed mean,FCFS,normal-10000,normal,throughput,0.25,2.857142857142857
+PPO seed mean,FCFS,normal-10005,normal,throughput,0.25,2.857142857142857
+PPO seed mean,FCFS,normal-10010,normal,throughput,0.25,3.0303030303030303
+PPO seed mean,FCFS,normal-10015,normal,throughput,-0.25,-2.7777777777777777
+PPO seed mean,FCFS,normal-10020,normal,throughput,0.5,5.714285714285714
+PPO seed mean,FCFS,normal-10025,normal,throughput,0.25,2.857142857142857
+PPO seed mean,FCFS,peak-10001,peak,throughput,0.75,9.375
+PPO seed mean,FCFS,peak-10006,peak,throughput,1.75,21.21212121212121
+PPO seed mean,FCFS,peak-10011,peak,throughput,0.75,9.090909090909092
+PPO seed mean,FCFS,peak-10016,peak,throughput,1.0,12.5
+PPO seed mean,FCFS,peak-10021,peak,throughput,1.25,15.625
+PPO seed mean,FCFS,peak-10026,peak,throughput,1.0,12.903225806451612
+PPO seed mean,FCFS,saturation-10004,saturation,throughput,0.25,2.857142857142857
+PPO seed mean,FCFS,saturation-10009,saturation,throughput,0.75,9.090909090909092
+PPO seed mean,FCFS,saturation-10014,saturation,throughput,0.25,3.0303030303030303
+PPO seed mean,FCFS,saturation-10019,saturation,throughput,0.25,2.9411764705882355
+PPO seed mean,FCFS,saturation-10024,saturation,throughput,0.0,0.0
+PPO seed mean,FCFS,saturation-10029,saturation,throughput,0.25,2.9411764705882355
+PPO seed mean,FCFS,disruption-10002,disruption,mean_delay,-4.5714285714285765,7.260940032414919
+PPO seed mean,FCFS,disruption-10007,disruption,mean_delay,-3.240000000000002,5.280312907431555
+PPO seed mean,FCFS,disruption-10012,disruption,mean_delay,-5.196078431372548,8.806912595546692
+PPO seed mean,FCFS,disruption-10017,disruption,mean_delay,-4.66196078431372,7.6548615582743
+PPO seed mean,FCFS,disruption-10022,disruption,mean_delay,-5.714285714285715,8.544400366188588
+PPO seed mean,FCFS,disruption-10027,disruption,mean_delay,-3.6923076923076934,7.1829405162738516
+PPO seed mean,FCFS,imbalance-10003,imbalance,mean_delay,-6.3300000000000125,8.750345590268195
+PPO seed mean,FCFS,imbalance-10008,imbalance,mean_delay,-6.580000000000005,10.138674884437604
+PPO seed mean,FCFS,imbalance-10013,imbalance,mean_delay,0.0,-0.0
+PPO seed mean,FCFS,imbalance-10018,imbalance,mean_delay,1.2299999999999969,-2.027027027027022
+PPO seed mean,FCFS,imbalance-10023,imbalance,mean_delay,2.785714285714292,-4.244402985074636
+PPO seed mean,FCFS,imbalance-10028,imbalance,mean_delay,4.549019607843142,-7.738492328218822
+PPO seed mean,FCFS,normal-10000,normal,mean_delay,-4.019607843137258,7.006151742993855
+PPO seed mean,FCFS,normal-10005,normal,mean_delay,-4.384615384615387,7.485226526592255
+PPO seed mean,FCFS,normal-10010,normal,mean_delay,-3.8039215686274446,5.748148148148139
+PPO seed mean,FCFS,normal-10015,normal,mean_delay,-4.21153846153846,6.82668329177057
+PPO seed mean,FCFS,normal-10020,normal,mean_delay,-5.5,9.584450402144771
+PPO seed mean,FCFS,normal-10025,normal,mean_delay,-3.384615384615387,5.911991938192815
+PPO seed mean,FCFS,peak-10001,peak,mean_delay,-17.141764705882352,17.69381162869772
+PPO seed mean,FCFS,peak-10006,peak,mean_delay,-27.276573426573435,25.87815760229554
+PPO seed mean,FCFS,peak-10011,peak,mean_delay,-17.287058823529406,17.00812556427529
+PPO seed mean,FCFS,peak-10016,peak,mean_delay,-23.548076923076934,21.70329670329671
+PPO seed mean,FCFS,peak-10021,peak,mean_delay,-22.91025641025641,21.545695683626715
+PPO seed mean,FCFS,peak-10026,peak,mean_delay,-20.0,19.124115509657678
+PPO seed mean,FCFS,saturation-10004,saturation,mean_delay,-5.0192307692307665,8.427510494026473
+PPO seed mean,FCFS,saturation-10009,saturation,mean_delay,-6.081960784313722,9.781217086384242
+PPO seed mean,FCFS,saturation-10014,saturation,mean_delay,-4.408163265306129,6.390532544378708
+PPO seed mean,FCFS,saturation-10019,saturation,mean_delay,-3.6600000000000037,5.972584856396872
+PPO seed mean,FCFS,saturation-10024,saturation,mean_delay,-3.6078431372549034,5.91259640102828
+PPO seed mean,FCFS,saturation-10029,saturation,mean_delay,-6.03846153846154,9.432261940522682
+PPO seed mean,FCFS,disruption-10002,disruption,p95_delay,19.80000000000001,-16.751269035533007
+PPO seed mean,FCFS,disruption-10007,disruption,p95_delay,16.09999999999998,-13.355454168394841
+PPO seed mean,FCFS,disruption-10012,disruption,p95_delay,13.400000000000006,-12.061206120612066
+PPO seed mean,FCFS,disruption-10017,disruption,p95_delay,21.149999999999977,-17.848101265822766
+PPO seed mean,FCFS,disruption-10022,disruption,p95_delay,15.0,-11.737089201877936
+PPO seed mean,FCFS,disruption-10027,disruption,p95_delay,21.44999999999999,-22.34374999999999
+PPO seed mean,FCFS,imbalance-10003,imbalance,p95_delay,61.099999999999994,-49.6344435418359
+PPO seed mean,FCFS,imbalance-10008,imbalance,p95_delay,65.19999999999995,-54.53785027185274
+PPO seed mean,FCFS,imbalance-10013,imbalance,p95_delay,77.64999999999992,-70.9456372772955
+PPO seed mean,FCFS,imbalance-10018,imbalance,p95_delay,54.42499999999997,-46.29944704381112
+PPO seed mean,FCFS,imbalance-10023,imbalance,p95_delay,50.19999999999999,-39.34169278996865
+PPO seed mean,FCFS,imbalance-10028,imbalance,p95_delay,70.5,-64.0909090909091
+PPO seed mean,FCFS,normal-10000,normal,p95_delay,15.0,-13.513513513513514
+PPO seed mean,FCFS,normal-10005,normal,p95_delay,11.449999999999989,-10.315315315315305
+PPO seed mean,FCFS,normal-10010,normal,p95_delay,23.0,-19.574468085106382
+PPO seed mean,FCFS,normal-10015,normal,p95_delay,18.89999999999999,-17.830188679245275
+PPO seed mean,FCFS,normal-10020,normal,p95_delay,13.549999999999997,-13.168124392614187
+PPO seed mean,FCFS,normal-10025,normal,p95_delay,23.0,-23.601847101077478
+PPO seed mean,FCFS,peak-10001,peak,p95_delay,44.32500000000002,-23.722237088573735
+PPO seed mean,FCFS,peak-10006,peak,p95_delay,44.70000000000002,-23.427672955974856
+PPO seed mean,FCFS,peak-10011,peak,p95_delay,64.30000000000001,-34.53276047261011
+PPO seed mean,FCFS,peak-10016,peak,p95_delay,46.62499999999997,-24.754446509158466
+PPO seed mean,FCFS,peak-10021,peak,p95_delay,66.35,-36.45604395604395
+PPO seed mean,FCFS,peak-10026,peak,p95_delay,61.89999999999998,-33.50473612990527
+PPO seed mean,FCFS,saturation-10004,saturation,p95_delay,11.0,-10.237319683573757
+PPO seed mean,FCFS,saturation-10009,saturation,p95_delay,10.900000000000006,-9.151973131822002
+PPO seed mean,FCFS,saturation-10014,saturation,p95_delay,23.200000000000017,-19.01639344262297
+PPO seed mean,FCFS,saturation-10019,saturation,p95_delay,11.450000000000003,-9.862187769164516
+PPO seed mean,FCFS,saturation-10024,saturation,p95_delay,24.0,-20.869565217391305
+PPO seed mean,FCFS,saturation-10029,saturation,p95_delay,11.0,-9.734513274336283
+PPO seed mean,FCFS,disruption-10002,disruption,incomplete_trains,0.0,-0.0
+PPO seed mean,FCFS,disruption-10007,disruption,incomplete_trains,0.0,-0.0
+PPO seed mean,FCFS,disruption-10012,disruption,incomplete_trains,-1.0,50.0
+PPO seed mean,FCFS,disruption-10017,disruption,incomplete_trains,1.0,-100.0
+PPO seed mean,FCFS,disruption-10022,disruption,incomplete_trains,0.0,-0.0
+PPO seed mean,FCFS,disruption-10027,disruption,incomplete_trains,0.0,
+PPO seed mean,FCFS,imbalance-10003,imbalance,incomplete_trains,0.0,-0.0
+PPO seed mean,FCFS,imbalance-10008,imbalance,incomplete_trains,0.0,-0.0
+PPO seed mean,FCFS,imbalance-10013,imbalance,incomplete_trains,0.0,
+PPO seed mean,FCFS,imbalance-10018,imbalance,incomplete_trains,0.0,-0.0
+PPO seed mean,FCFS,imbalance-10023,imbalance,incomplete_trains,0.0,-0.0
+PPO seed mean,FCFS,imbalance-10028,imbalance,incomplete_trains,0.0,-0.0
+PPO seed mean,FCFS,normal-10000,normal,incomplete_trains,0.0,-0.0
+PPO seed mean,FCFS,normal-10005,normal,incomplete_trains,0.0,
+PPO seed mean,FCFS,normal-10010,normal,incomplete_trains,0.0,-0.0
+PPO seed mean,FCFS,normal-10015,normal,incomplete_trains,0.0,
+PPO seed mean,FCFS,normal-10020,normal,incomplete_trains,0.0,
+PPO seed mean,FCFS,normal-10025,normal,incomplete_trains,0.0,
+PPO seed mean,FCFS,peak-10001,peak,incomplete_trains,-0.5,1.7857142857142858
+PPO seed mean,FCFS,peak-10006,peak,incomplete_trains,-3.0,11.538461538461538
+PPO seed mean,FCFS,peak-10011,peak,incomplete_trains,-1.0,3.5714285714285716
+PPO seed mean,FCFS,peak-10016,peak,incomplete_trains,0.0,-0.0
+PPO seed mean,FCFS,peak-10021,peak,incomplete_trains,-1.0,3.7037037037037037
+PPO seed mean,FCFS,peak-10026,peak,incomplete_trains,0.0,-0.0
+PPO seed mean,FCFS,saturation-10004,saturation,incomplete_trains,0.0,
+PPO seed mean,FCFS,saturation-10009,saturation,incomplete_trains,-1.0,50.0
+PPO seed mean,FCFS,saturation-10014,saturation,incomplete_trains,0.0,-0.0
+PPO seed mean,FCFS,saturation-10019,saturation,incomplete_trains,0.0,-0.0
+PPO seed mean,FCFS,saturation-10024,saturation,incomplete_trains,0.0,-0.0
+PPO seed mean,FCFS,saturation-10029,saturation,incomplete_trains,0.0,
+PPO seed mean,FCFS,disruption-10002,disruption,selection_cost,-4.307692307692307,4.945904173106645
+PPO seed mean,FCFS,disruption-10007,disruption,selection_cost,-3.0576923076923066,3.951292246520873
+PPO seed mean,FCFS,disruption-10012,disruption,selection_cost,-13.11538461538462,17.43799539759653
+PPO seed mean,FCFS,disruption-10017,disruption,selection_cost,3.538461538461533,-5.128205128205121
+PPO seed mean,FCFS,disruption-10022,disruption,selection_cost,-5.384615384615387,5.923418658768777
+PPO seed mean,FCFS,disruption-10027,disruption,selection_cost,-3.6923076923076934,7.1829405162738516
+PPO seed mean,FCFS,imbalance-10003,imbalance,selection_cost,-6.02884615384616,6.839005235602102
+PPO seed mean,FCFS,imbalance-10008,imbalance,selection_cost,-6.07692307692308,7.511290705966251
+PPO seed mean,FCFS,imbalance-10013,imbalance,selection_cost,0.0,-0.0
+PPO seed mean,FCFS,imbalance-10018,imbalance,selection_cost,1.201923076923066,-1.5628907226806559
+PPO seed mean,FCFS,imbalance-10023,imbalance,selection_cost,2.625,-2.9279279279279278
+PPO seed mean,FCFS,imbalance-10028,imbalance,selection_cost,4.596153846153854,-6.88165850849411
+PPO seed mean,FCFS,normal-10000,normal,selection_cost,-3.846153846153854,5.880623346074695
+PPO seed mean,FCFS,normal-10005,normal,selection_cost,-4.384615384615387,7.485226526592255
+PPO seed mean,FCFS,normal-10010,normal,selection_cost,-3.711538461538453,5.003889032927134
+PPO seed mean,FCFS,normal-10015,normal,selection_cost,-4.21153846153846,6.82668329177057
+PPO seed mean,FCFS,normal-10020,normal,selection_cost,-5.5,9.584450402144771
+PPO seed mean,FCFS,normal-10025,normal,selection_cost,-3.384615384615387,5.911991938192815
+PPO seed mean,FCFS,peak-10001,peak,selection_cost,-9.18589743589743,3.687786298831641
+PPO seed mean,FCFS,peak-10006,peak,selection_cost,-29.65384615384616,12.09917874143433
+PPO seed mean,FCFS,peak-10011,peak,selection_cost,-11.320512820512818,4.429395535490342
+PPO seed mean,FCFS,peak-10016,peak,selection_cost,-10.44230769230768,4.226777374156715
+PPO seed mean,FCFS,peak-10021,peak,selection_cost,-15.628205128205138,6.194105691056914
+PPO seed mean,FCFS,peak-10026,peak,selection_cost,-7.961538461538453,3.0814270828164507
+PPO seed mean,FCFS,saturation-10004,saturation,selection_cost,-5.0192307692307665,8.427510494026473
+PPO seed mean,FCFS,saturation-10009,saturation,selection_cost,-14.0,17.847511645011032
+PPO seed mean,FCFS,saturation-10014,saturation,selection_cost,-4.057692307692307,4.3541064795707785
+PPO seed mean,FCFS,saturation-10019,saturation,selection_cost,-3.442307692307679,4.436183395291185
+PPO seed mean,FCFS,saturation-10024,saturation,selection_cost,-3.32692307692308,4.820284201727505
+PPO seed mean,FCFS,saturation-10029,saturation,selection_cost,-6.03846153846154,9.432261940522682
+PPO seed mean,FCFS,disruption-10002,disruption,utilization,-0.008333333333333304,-1.1560693641618456
+PPO seed mean,FCFS,disruption-10007,disruption,utilization,-0.008333333333333304,-1.1627906976744145
+PPO seed mean,FCFS,disruption-10012,disruption,utilization,-0.02083333333333337,-2.9069767441860517
+PPO seed mean,FCFS,disruption-10017,disruption,utilization,0.0,0.0
+PPO seed mean,FCFS,disruption-10022,disruption,utilization,-0.012499999999999956,-1.7045454545454486
+PPO seed mean,FCFS,disruption-10027,disruption,utilization,0.0,0.0
+PPO seed mean,FCFS,imbalance-10003,imbalance,utilization,-0.02083333333333326,-2.8735632183907946
+PPO seed mean,FCFS,imbalance-10008,imbalance,utilization,-0.008333333333333415,-1.1834319526627333
+PPO seed mean,FCFS,imbalance-10013,imbalance,utilization,0.0,0.0
+PPO seed mean,FCFS,imbalance-10018,imbalance,utilization,0.008333333333333304,1.1627906976744145
+PPO seed mean,FCFS,imbalance-10023,imbalance,utilization,0.0,0.0
+PPO seed mean,FCFS,imbalance-10028,imbalance,utilization,0.025000000000000022,3.5714285714285747
+PPO seed mean,FCFS,normal-10000,normal,utilization,-0.012499999999999956,-1.7857142857142796
+PPO seed mean,FCFS,normal-10005,normal,utilization,-0.012499999999999956,-1.7857142857142796
+PPO seed mean,FCFS,normal-10010,normal,utilization,-0.012499999999999956,-1.7441860465116217
+PPO seed mean,FCFS,normal-10015,normal,utilization,0.0,0.0
+PPO seed mean,FCFS,normal-10020,normal,utilization,-0.01666666666666672,-2.3529411764705954
+PPO seed mean,FCFS,normal-10025,normal,utilization,-0.008333333333333304,-1.1904761904761862
+PPO seed mean,FCFS,peak-10001,peak,utilization,-0.02499999999999991,-3.409090909090897
+PPO seed mean,FCFS,peak-10006,peak,utilization,-0.04999999999999993,-6.896551724137922
+PPO seed mean,FCFS,peak-10011,peak,utilization,-0.02083333333333326,-2.8735632183907946
+PPO seed mean,FCFS,peak-10016,peak,utilization,-0.04166666666666674,-5.617977528089898
+PPO seed mean,FCFS,peak-10021,peak,utilization,-0.04166666666666674,-5.649717514124304
+PPO seed mean,FCFS,peak-10026,peak,utilization,-0.029166666666666674,-3.932584269662922
+PPO seed mean,FCFS,saturation-10004,saturation,utilization,-0.012500000000000067,-1.75438596491229
+PPO seed mean,FCFS,saturation-10009,saturation,utilization,-0.025000000000000022,-3.448275862068969
+PPO seed mean,FCFS,saturation-10014,saturation,utilization,-0.008333333333333304,-1.1627906976744145
+PPO seed mean,FCFS,saturation-10019,saturation,utilization,-0.01666666666666672,-2.339181286549715
+PPO seed mean,FCFS,saturation-10024,saturation,utilization,0.0,0.0
+PPO seed mean,FCFS,saturation-10029,saturation,utilization,-0.008333333333333304,-1.2048192771084294
+PPO seed mean,Fixed Priority,disruption-10002,disruption,throughput,0.25,3.0303030303030303
+PPO seed mean,Fixed Priority,disruption-10007,disruption,throughput,0.25,3.0303030303030303
+PPO seed mean,Fixed Priority,disruption-10012,disruption,throughput,0.5,5.882352941176471
+PPO seed mean,Fixed Priority,disruption-10017,disruption,throughput,0.25,2.9411764705882355
+PPO seed mean,Fixed Priority,disruption-10022,disruption,throughput,0.25,3.0303030303030303
+PPO seed mean,Fixed Priority,disruption-10027,disruption,throughput,0.0,0.0
+PPO seed mean,Fixed Priority,imbalance-10003,imbalance,throughput,0.75,9.67741935483871
+PPO seed mean,Fixed Priority,imbalance-10008,imbalance,throughput,0.25,2.9411764705882355
+PPO seed mean,Fixed Priority,imbalance-10013,imbalance,throughput,0.0,0.0
+PPO seed mean,Fixed Priority,imbalance-10018,imbalance,throughput,-0.25,-2.9411764705882355
+PPO seed mean,Fixed Priority,imbalance-10023,imbalance,throughput,0.0,0.0
+PPO seed mean,Fixed Priority,imbalance-10028,imbalance,throughput,-0.75,-8.333333333333334
+PPO seed mean,Fixed Priority,normal-10000,normal,throughput,0.25,2.857142857142857
+PPO seed mean,Fixed Priority,normal-10005,normal,throughput,0.25,2.857142857142857
+PPO seed mean,Fixed Priority,normal-10010,normal,throughput,0.25,3.0303030303030303
+PPO seed mean,Fixed Priority,normal-10015,normal,throughput,-0.25,-2.7777777777777777
+PPO seed mean,Fixed Priority,normal-10020,normal,throughput,0.5,5.714285714285714
+PPO seed mean,Fixed Priority,normal-10025,normal,throughput,0.25,2.857142857142857
+PPO seed mean,Fixed Priority,peak-10001,peak,throughput,0.75,9.375
+PPO seed mean,Fixed Priority,peak-10006,peak,throughput,1.75,21.21212121212121
+PPO seed mean,Fixed Priority,peak-10011,peak,throughput,0.75,9.090909090909092
+PPO seed mean,Fixed Priority,peak-10016,peak,throughput,1.0,12.5
+PPO seed mean,Fixed Priority,peak-10021,peak,throughput,1.25,15.625
+PPO seed mean,Fixed Priority,peak-10026,peak,throughput,1.0,12.903225806451612
+PPO seed mean,Fixed Priority,saturation-10004,saturation,throughput,0.25,2.857142857142857
+PPO seed mean,Fixed Priority,saturation-10009,saturation,throughput,0.75,9.090909090909092
+PPO seed mean,Fixed Priority,saturation-10014,saturation,throughput,0.25,3.0303030303030303
+PPO seed mean,Fixed Priority,saturation-10019,saturation,throughput,0.25,2.9411764705882355
+PPO seed mean,Fixed Priority,saturation-10024,saturation,throughput,0.0,0.0
+PPO seed mean,Fixed Priority,saturation-10029,saturation,throughput,0.25,2.9411764705882355
+PPO seed mean,Fixed Priority,disruption-10002,disruption,mean_delay,-4.5714285714285765,7.260940032414919
+PPO seed mean,Fixed Priority,disruption-10007,disruption,mean_delay,-3.240000000000002,5.280312907431555
+PPO seed mean,Fixed Priority,disruption-10012,disruption,mean_delay,-5.196078431372548,8.806912595546692
+PPO seed mean,Fixed Priority,disruption-10017,disruption,mean_delay,-4.66196078431372,7.6548615582743
+PPO seed mean,Fixed Priority,disruption-10022,disruption,mean_delay,-5.714285714285715,8.544400366188588
+PPO seed mean,Fixed Priority,disruption-10027,disruption,mean_delay,-3.6923076923076934,7.1829405162738516
+PPO seed mean,Fixed Priority,imbalance-10003,imbalance,mean_delay,-6.3300000000000125,8.750345590268195
+PPO seed mean,Fixed Priority,imbalance-10008,imbalance,mean_delay,-6.580000000000005,10.138674884437604
+PPO seed mean,Fixed Priority,imbalance-10013,imbalance,mean_delay,0.0,-0.0
+PPO seed mean,Fixed Priority,imbalance-10018,imbalance,mean_delay,1.2299999999999969,-2.027027027027022
+PPO seed mean,Fixed Priority,imbalance-10023,imbalance,mean_delay,2.785714285714292,-4.244402985074636
+PPO seed mean,Fixed Priority,imbalance-10028,imbalance,mean_delay,4.549019607843142,-7.738492328218822
+PPO seed mean,Fixed Priority,normal-10000,normal,mean_delay,-4.019607843137258,7.006151742993855
+PPO seed mean,Fixed Priority,normal-10005,normal,mean_delay,-4.384615384615387,7.485226526592255
+PPO seed mean,Fixed Priority,normal-10010,normal,mean_delay,-3.8039215686274446,5.748148148148139
+PPO seed mean,Fixed Priority,normal-10015,normal,mean_delay,-4.21153846153846,6.82668329177057
+PPO seed mean,Fixed Priority,normal-10020,normal,mean_delay,-5.5,9.584450402144771
+PPO seed mean,Fixed Priority,normal-10025,normal,mean_delay,-3.384615384615387,5.911991938192815
+PPO seed mean,Fixed Priority,peak-10001,peak,mean_delay,-17.141764705882352,17.69381162869772
+PPO seed mean,Fixed Priority,peak-10006,peak,mean_delay,-27.276573426573435,25.87815760229554
+PPO seed mean,Fixed Priority,peak-10011,peak,mean_delay,-17.287058823529406,17.00812556427529
+PPO seed mean,Fixed Priority,peak-10016,peak,mean_delay,-23.548076923076934,21.70329670329671
+PPO seed mean,Fixed Priority,peak-10021,peak,mean_delay,-22.91025641025641,21.545695683626715
+PPO seed mean,Fixed Priority,peak-10026,peak,mean_delay,-20.0,19.124115509657678
+PPO seed mean,Fixed Priority,saturation-10004,saturation,mean_delay,-5.0192307692307665,8.427510494026473
+PPO seed mean,Fixed Priority,saturation-10009,saturation,mean_delay,-6.081960784313722,9.781217086384242
+PPO seed mean,Fixed Priority,saturation-10014,saturation,mean_delay,-4.408163265306129,6.390532544378708
+PPO seed mean,Fixed Priority,saturation-10019,saturation,mean_delay,-3.6600000000000037,5.972584856396872
+PPO seed mean,Fixed Priority,saturation-10024,saturation,mean_delay,-3.6078431372549034,5.91259640102828
+PPO seed mean,Fixed Priority,saturation-10029,saturation,mean_delay,-6.03846153846154,9.432261940522682
+PPO seed mean,Fixed Priority,disruption-10002,disruption,p95_delay,19.80000000000001,-16.751269035533007
+PPO seed mean,Fixed Priority,disruption-10007,disruption,p95_delay,16.09999999999998,-13.355454168394841
+PPO seed mean,Fixed Priority,disruption-10012,disruption,p95_delay,13.400000000000006,-12.061206120612066
+PPO seed mean,Fixed Priority,disruption-10017,disruption,p95_delay,21.149999999999977,-17.848101265822766
+PPO seed mean,Fixed Priority,disruption-10022,disruption,p95_delay,15.0,-11.737089201877936
+PPO seed mean,Fixed Priority,disruption-10027,disruption,p95_delay,21.44999999999999,-22.34374999999999
+PPO seed mean,Fixed Priority,imbalance-10003,imbalance,p95_delay,61.099999999999994,-49.6344435418359
+PPO seed mean,Fixed Priority,imbalance-10008,imbalance,p95_delay,65.19999999999995,-54.53785027185274
+PPO seed mean,Fixed Priority,imbalance-10013,imbalance,p95_delay,77.64999999999992,-70.9456372772955
+PPO seed mean,Fixed Priority,imbalance-10018,imbalance,p95_delay,54.42499999999997,-46.29944704381112
+PPO seed mean,Fixed Priority,imbalance-10023,imbalance,p95_delay,50.19999999999999,-39.34169278996865
+PPO seed mean,Fixed Priority,imbalance-10028,imbalance,p95_delay,70.5,-64.0909090909091
+PPO seed mean,Fixed Priority,normal-10000,normal,p95_delay,15.0,-13.513513513513514
+PPO seed mean,Fixed Priority,normal-10005,normal,p95_delay,11.449999999999989,-10.315315315315305
+PPO seed mean,Fixed Priority,normal-10010,normal,p95_delay,23.0,-19.574468085106382
+PPO seed mean,Fixed Priority,normal-10015,normal,p95_delay,18.89999999999999,-17.830188679245275
+PPO seed mean,Fixed Priority,normal-10020,normal,p95_delay,13.549999999999997,-13.168124392614187
+PPO seed mean,Fixed Priority,normal-10025,normal,p95_delay,23.0,-23.601847101077478
+PPO seed mean,Fixed Priority,peak-10001,peak,p95_delay,44.32500000000002,-23.722237088573735
+PPO seed mean,Fixed Priority,peak-10006,peak,p95_delay,44.70000000000002,-23.427672955974856
+PPO seed mean,Fixed Priority,peak-10011,peak,p95_delay,64.30000000000001,-34.53276047261011
+PPO seed mean,Fixed Priority,peak-10016,peak,p95_delay,46.62499999999997,-24.754446509158466
+PPO seed mean,Fixed Priority,peak-10021,peak,p95_delay,66.35,-36.45604395604395
+PPO seed mean,Fixed Priority,peak-10026,peak,p95_delay,61.89999999999998,-33.50473612990527
+PPO seed mean,Fixed Priority,saturation-10004,saturation,p95_delay,11.0,-10.237319683573757
+PPO seed mean,Fixed Priority,saturation-10009,saturation,p95_delay,10.900000000000006,-9.151973131822002
+PPO seed mean,Fixed Priority,saturation-10014,saturation,p95_delay,23.200000000000017,-19.01639344262297
+PPO seed mean,Fixed Priority,saturation-10019,saturation,p95_delay,11.450000000000003,-9.862187769164516
+PPO seed mean,Fixed Priority,saturation-10024,saturation,p95_delay,24.0,-20.869565217391305
+PPO seed mean,Fixed Priority,saturation-10029,saturation,p95_delay,11.0,-9.734513274336283
+PPO seed mean,Fixed Priority,disruption-10002,disruption,incomplete_trains,0.0,-0.0
+PPO seed mean,Fixed Priority,disruption-10007,disruption,incomplete_trains,0.0,-0.0
+PPO seed mean,Fixed Priority,disruption-10012,disruption,incomplete_trains,-1.0,50.0
+PPO seed mean,Fixed Priority,disruption-10017,disruption,incomplete_trains,1.0,-100.0
+PPO seed mean,Fixed Priority,disruption-10022,disruption,incomplete_trains,0.0,-0.0
+PPO seed mean,Fixed Priority,disruption-10027,disruption,incomplete_trains,0.0,
+PPO seed mean,Fixed Priority,imbalance-10003,imbalance,incomplete_trains,0.0,-0.0
+PPO seed mean,Fixed Priority,imbalance-10008,imbalance,incomplete_trains,0.0,-0.0
+PPO seed mean,Fixed Priority,imbalance-10013,imbalance,incomplete_trains,0.0,
+PPO seed mean,Fixed Priority,imbalance-10018,imbalance,incomplete_trains,0.0,-0.0
+PPO seed mean,Fixed Priority,imbalance-10023,imbalance,incomplete_trains,0.0,-0.0
+PPO seed mean,Fixed Priority,imbalance-10028,imbalance,incomplete_trains,0.0,-0.0
+PPO seed mean,Fixed Priority,normal-10000,normal,incomplete_trains,0.0,-0.0
+PPO seed mean,Fixed Priority,normal-10005,normal,incomplete_trains,0.0,
+PPO seed mean,Fixed Priority,normal-10010,normal,incomplete_trains,0.0,-0.0
+PPO seed mean,Fixed Priority,normal-10015,normal,incomplete_trains,0.0,
+PPO seed mean,Fixed Priority,normal-10020,normal,incomplete_trains,0.0,
+PPO seed mean,Fixed Priority,normal-10025,normal,incomplete_trains,0.0,
+PPO seed mean,Fixed Priority,peak-10001,peak,incomplete_trains,-0.5,1.7857142857142858
+PPO seed mean,Fixed Priority,peak-10006,peak,incomplete_trains,-3.0,11.538461538461538
+PPO seed mean,Fixed Priority,peak-10011,peak,incomplete_trains,-1.0,3.5714285714285716
+PPO seed mean,Fixed Priority,peak-10016,peak,incomplete_trains,0.0,-0.0
+PPO seed mean,Fixed Priority,peak-10021,peak,incomplete_trains,-1.0,3.7037037037037037
+PPO seed mean,Fixed Priority,peak-10026,peak,incomplete_trains,0.0,-0.0
+PPO seed mean,Fixed Priority,saturation-10004,saturation,incomplete_trains,0.0,
+PPO seed mean,Fixed Priority,saturation-10009,saturation,incomplete_trains,-1.0,50.0
+PPO seed mean,Fixed Priority,saturation-10014,saturation,incomplete_trains,0.0,-0.0
+PPO seed mean,Fixed Priority,saturation-10019,saturation,incomplete_trains,0.0,-0.0
+PPO seed mean,Fixed Priority,saturation-10024,saturation,incomplete_trains,0.0,-0.0
+PPO seed mean,Fixed Priority,saturation-10029,saturation,incomplete_trains,0.0,
+PPO seed mean,Fixed Priority,disruption-10002,disruption,selection_cost,-4.307692307692307,4.945904173106645
+PPO seed mean,Fixed Priority,disruption-10007,disruption,selection_cost,-3.0576923076923066,3.951292246520873
+PPO seed mean,Fixed Priority,disruption-10012,disruption,selection_cost,-13.11538461538462,17.43799539759653
+PPO seed mean,Fixed Priority,disruption-10017,disruption,selection_cost,3.538461538461533,-5.128205128205121
+PPO seed mean,Fixed Priority,disruption-10022,disruption,selection_cost,-5.384615384615387,5.923418658768777
+PPO seed mean,Fixed Priority,disruption-10027,disruption,selection_cost,-3.6923076923076934,7.1829405162738516
+PPO seed mean,Fixed Priority,imbalance-10003,imbalance,selection_cost,-6.02884615384616,6.839005235602102
+PPO seed mean,Fixed Priority,imbalance-10008,imbalance,selection_cost,-6.07692307692308,7.511290705966251
+PPO seed mean,Fixed Priority,imbalance-10013,imbalance,selection_cost,0.0,-0.0
+PPO seed mean,Fixed Priority,imbalance-10018,imbalance,selection_cost,1.201923076923066,-1.5628907226806559
+PPO seed mean,Fixed Priority,imbalance-10023,imbalance,selection_cost,2.625,-2.9279279279279278
+PPO seed mean,Fixed Priority,imbalance-10028,imbalance,selection_cost,4.596153846153854,-6.88165850849411
+PPO seed mean,Fixed Priority,normal-10000,normal,selection_cost,-3.846153846153854,5.880623346074695
+PPO seed mean,Fixed Priority,normal-10005,normal,selection_cost,-4.384615384615387,7.485226526592255
+PPO seed mean,Fixed Priority,normal-10010,normal,selection_cost,-3.711538461538453,5.003889032927134
+PPO seed mean,Fixed Priority,normal-10015,normal,selection_cost,-4.21153846153846,6.82668329177057
+PPO seed mean,Fixed Priority,normal-10020,normal,selection_cost,-5.5,9.584450402144771
+PPO seed mean,Fixed Priority,normal-10025,normal,selection_cost,-3.384615384615387,5.911991938192815
+PPO seed mean,Fixed Priority,peak-10001,peak,selection_cost,-9.18589743589743,3.687786298831641
+PPO seed mean,Fixed Priority,peak-10006,peak,selection_cost,-29.65384615384616,12.09917874143433
+PPO seed mean,Fixed Priority,peak-10011,peak,selection_cost,-11.320512820512818,4.429395535490342
+PPO seed mean,Fixed Priority,peak-10016,peak,selection_cost,-10.44230769230768,4.226777374156715
+PPO seed mean,Fixed Priority,peak-10021,peak,selection_cost,-15.628205128205138,6.194105691056914
+PPO seed mean,Fixed Priority,peak-10026,peak,selection_cost,-7.961538461538453,3.0814270828164507
+PPO seed mean,Fixed Priority,saturation-10004,saturation,selection_cost,-5.0192307692307665,8.427510494026473
+PPO seed mean,Fixed Priority,saturation-10009,saturation,selection_cost,-14.0,17.847511645011032
+PPO seed mean,Fixed Priority,saturation-10014,saturation,selection_cost,-4.057692307692307,4.3541064795707785
+PPO seed mean,Fixed Priority,saturation-10019,saturation,selection_cost,-3.442307692307679,4.436183395291185
+PPO seed mean,Fixed Priority,saturation-10024,saturation,selection_cost,-3.32692307692308,4.820284201727505
+PPO seed mean,Fixed Priority,saturation-10029,saturation,selection_cost,-6.03846153846154,9.432261940522682
+PPO seed mean,Fixed Priority,disruption-10002,disruption,utilization,-0.008333333333333304,-1.1560693641618456
+PPO seed mean,Fixed Priority,disruption-10007,disruption,utilization,-0.008333333333333304,-1.1627906976744145
+PPO seed mean,Fixed Priority,disruption-10012,disruption,utilization,-0.02083333333333337,-2.9069767441860517
+PPO seed mean,Fixed Priority,disruption-10017,disruption,utilization,0.0,0.0
+PPO seed mean,Fixed Priority,disruption-10022,disruption,utilization,-0.012499999999999956,-1.7045454545454486
+PPO seed mean,Fixed Priority,disruption-10027,disruption,utilization,0.0,0.0
+PPO seed mean,Fixed Priority,imbalance-10003,imbalance,utilization,-0.02083333333333326,-2.8735632183907946
+PPO seed mean,Fixed Priority,imbalance-10008,imbalance,utilization,-0.008333333333333415,-1.1834319526627333
+PPO seed mean,Fixed Priority,imbalance-10013,imbalance,utilization,0.0,0.0
+PPO seed mean,Fixed Priority,imbalance-10018,imbalance,utilization,0.008333333333333304,1.1627906976744145
+PPO seed mean,Fixed Priority,imbalance-10023,imbalance,utilization,0.0,0.0
+PPO seed mean,Fixed Priority,imbalance-10028,imbalance,utilization,0.025000000000000022,3.5714285714285747
+PPO seed mean,Fixed Priority,normal-10000,normal,utilization,-0.012499999999999956,-1.7857142857142796
+PPO seed mean,Fixed Priority,normal-10005,normal,utilization,-0.012499999999999956,-1.7857142857142796
+PPO seed mean,Fixed Priority,normal-10010,normal,utilization,-0.012499999999999956,-1.7441860465116217
+PPO seed mean,Fixed Priority,normal-10015,normal,utilization,0.0,0.0
+PPO seed mean,Fixed Priority,normal-10020,normal,utilization,-0.01666666666666672,-2.3529411764705954
+PPO seed mean,Fixed Priority,normal-10025,normal,utilization,-0.008333333333333304,-1.1904761904761862
+PPO seed mean,Fixed Priority,peak-10001,peak,utilization,-0.02499999999999991,-3.409090909090897
+PPO seed mean,Fixed Priority,peak-10006,peak,utilization,-0.04999999999999993,-6.896551724137922
+PPO seed mean,Fixed Priority,peak-10011,peak,utilization,-0.02083333333333326,-2.8735632183907946
+PPO seed mean,Fixed Priority,peak-10016,peak,utilization,-0.04166666666666674,-5.617977528089898
+PPO seed mean,Fixed Priority,peak-10021,peak,utilization,-0.04166666666666674,-5.649717514124304
+PPO seed mean,Fixed Priority,peak-10026,peak,utilization,-0.029166666666666674,-3.932584269662922
+PPO seed mean,Fixed Priority,saturation-10004,saturation,utilization,-0.012500000000000067,-1.75438596491229
+PPO seed mean,Fixed Priority,saturation-10009,saturation,utilization,-0.025000000000000022,-3.448275862068969
+PPO seed mean,Fixed Priority,saturation-10014,saturation,utilization,-0.008333333333333304,-1.1627906976744145
+PPO seed mean,Fixed Priority,saturation-10019,saturation,utilization,-0.01666666666666672,-2.339181286549715
+PPO seed mean,Fixed Priority,saturation-10024,saturation,utilization,0.0,0.0
+PPO seed mean,Fixed Priority,saturation-10029,saturation,utilization,-0.008333333333333304,-1.2048192771084294
+PPO seed mean,Longest Waiting,disruption-10002,disruption,throughput,0.25,3.0303030303030303
+PPO seed mean,Longest Waiting,disruption-10007,disruption,throughput,0.25,3.0303030303030303
+PPO seed mean,Longest Waiting,disruption-10012,disruption,throughput,0.5,5.882352941176471
+PPO seed mean,Longest Waiting,disruption-10017,disruption,throughput,0.25,2.9411764705882355
+PPO seed mean,Longest Waiting,disruption-10022,disruption,throughput,0.25,3.0303030303030303
+PPO seed mean,Longest Waiting,disruption-10027,disruption,throughput,0.0,0.0
+PPO seed mean,Longest Waiting,imbalance-10003,imbalance,throughput,0.75,9.67741935483871
+PPO seed mean,Longest Waiting,imbalance-10008,imbalance,throughput,0.25,2.9411764705882355
+PPO seed mean,Longest Waiting,imbalance-10013,imbalance,throughput,0.0,0.0
+PPO seed mean,Longest Waiting,imbalance-10018,imbalance,throughput,-0.25,-2.9411764705882355
+PPO seed mean,Longest Waiting,imbalance-10023,imbalance,throughput,0.0,0.0
+PPO seed mean,Longest Waiting,imbalance-10028,imbalance,throughput,-0.75,-8.333333333333334
+PPO seed mean,Longest Waiting,normal-10000,normal,throughput,0.25,2.857142857142857
+PPO seed mean,Longest Waiting,normal-10005,normal,throughput,0.25,2.857142857142857
+PPO seed mean,Longest Waiting,normal-10010,normal,throughput,0.25,3.0303030303030303
+PPO seed mean,Longest Waiting,normal-10015,normal,throughput,-0.25,-2.7777777777777777
+PPO seed mean,Longest Waiting,normal-10020,normal,throughput,0.5,5.714285714285714
+PPO seed mean,Longest Waiting,normal-10025,normal,throughput,0.25,2.857142857142857
+PPO seed mean,Longest Waiting,peak-10001,peak,throughput,0.75,9.375
+PPO seed mean,Longest Waiting,peak-10006,peak,throughput,1.75,21.21212121212121
+PPO seed mean,Longest Waiting,peak-10011,peak,throughput,0.75,9.090909090909092
+PPO seed mean,Longest Waiting,peak-10016,peak,throughput,1.0,12.5
+PPO seed mean,Longest Waiting,peak-10021,peak,throughput,1.25,15.625
+PPO seed mean,Longest Waiting,peak-10026,peak,throughput,1.0,12.903225806451612
+PPO seed mean,Longest Waiting,saturation-10004,saturation,throughput,0.25,2.857142857142857
+PPO seed mean,Longest Waiting,saturation-10009,saturation,throughput,0.75,9.090909090909092
+PPO seed mean,Longest Waiting,saturation-10014,saturation,throughput,0.25,3.0303030303030303
+PPO seed mean,Longest Waiting,saturation-10019,saturation,throughput,0.25,2.9411764705882355
+PPO seed mean,Longest Waiting,saturation-10024,saturation,throughput,0.0,0.0
+PPO seed mean,Longest Waiting,saturation-10029,saturation,throughput,0.25,2.9411764705882355
+PPO seed mean,Longest Waiting,disruption-10002,disruption,mean_delay,-4.5714285714285765,7.260940032414919
+PPO seed mean,Longest Waiting,disruption-10007,disruption,mean_delay,-3.240000000000002,5.280312907431555
+PPO seed mean,Longest Waiting,disruption-10012,disruption,mean_delay,-5.196078431372548,8.806912595546692
+PPO seed mean,Longest Waiting,disruption-10017,disruption,mean_delay,-4.66196078431372,7.6548615582743
+PPO seed mean,Longest Waiting,disruption-10022,disruption,mean_delay,-5.714285714285715,8.544400366188588
+PPO seed mean,Longest Waiting,disruption-10027,disruption,mean_delay,-3.6923076923076934,7.1829405162738516
+PPO seed mean,Longest Waiting,imbalance-10003,imbalance,mean_delay,-6.3300000000000125,8.750345590268195
+PPO seed mean,Longest Waiting,imbalance-10008,imbalance,mean_delay,-6.580000000000005,10.138674884437604
+PPO seed mean,Longest Waiting,imbalance-10013,imbalance,mean_delay,0.0,-0.0
+PPO seed mean,Longest Waiting,imbalance-10018,imbalance,mean_delay,1.2299999999999969,-2.027027027027022
+PPO seed mean,Longest Waiting,imbalance-10023,imbalance,mean_delay,2.785714285714292,-4.244402985074636
+PPO seed mean,Longest Waiting,imbalance-10028,imbalance,mean_delay,4.549019607843142,-7.738492328218822
+PPO seed mean,Longest Waiting,normal-10000,normal,mean_delay,-4.019607843137258,7.006151742993855
+PPO seed mean,Longest Waiting,normal-10005,normal,mean_delay,-4.384615384615387,7.485226526592255
+PPO seed mean,Longest Waiting,normal-10010,normal,mean_delay,-3.8039215686274446,5.748148148148139
+PPO seed mean,Longest Waiting,normal-10015,normal,mean_delay,-4.21153846153846,6.82668329177057
+PPO seed mean,Longest Waiting,normal-10020,normal,mean_delay,-5.5,9.584450402144771
+PPO seed mean,Longest Waiting,normal-10025,normal,mean_delay,-3.384615384615387,5.911991938192815
+PPO seed mean,Longest Waiting,peak-10001,peak,mean_delay,-17.141764705882352,17.69381162869772
+PPO seed mean,Longest Waiting,peak-10006,peak,mean_delay,-27.276573426573435,25.87815760229554
+PPO seed mean,Longest Waiting,peak-10011,peak,mean_delay,-17.287058823529406,17.00812556427529
+PPO seed mean,Longest Waiting,peak-10016,peak,mean_delay,-23.548076923076934,21.70329670329671
+PPO seed mean,Longest Waiting,peak-10021,peak,mean_delay,-22.91025641025641,21.545695683626715
+PPO seed mean,Longest Waiting,peak-10026,peak,mean_delay,-20.0,19.124115509657678
+PPO seed mean,Longest Waiting,saturation-10004,saturation,mean_delay,-5.0192307692307665,8.427510494026473
+PPO seed mean,Longest Waiting,saturation-10009,saturation,mean_delay,-6.081960784313722,9.781217086384242
+PPO seed mean,Longest Waiting,saturation-10014,saturation,mean_delay,-4.408163265306129,6.390532544378708
+PPO seed mean,Longest Waiting,saturation-10019,saturation,mean_delay,-3.6600000000000037,5.972584856396872
+PPO seed mean,Longest Waiting,saturation-10024,saturation,mean_delay,-3.6078431372549034,5.91259640102828
+PPO seed mean,Longest Waiting,saturation-10029,saturation,mean_delay,-6.03846153846154,9.432261940522682
+PPO seed mean,Longest Waiting,disruption-10002,disruption,p95_delay,19.80000000000001,-16.751269035533007
+PPO seed mean,Longest Waiting,disruption-10007,disruption,p95_delay,16.09999999999998,-13.355454168394841
+PPO seed mean,Longest Waiting,disruption-10012,disruption,p95_delay,13.400000000000006,-12.061206120612066
+PPO seed mean,Longest Waiting,disruption-10017,disruption,p95_delay,21.149999999999977,-17.848101265822766
+PPO seed mean,Longest Waiting,disruption-10022,disruption,p95_delay,15.0,-11.737089201877936
+PPO seed mean,Longest Waiting,disruption-10027,disruption,p95_delay,21.44999999999999,-22.34374999999999
+PPO seed mean,Longest Waiting,imbalance-10003,imbalance,p95_delay,61.099999999999994,-49.6344435418359
+PPO seed mean,Longest Waiting,imbalance-10008,imbalance,p95_delay,65.19999999999995,-54.53785027185274
+PPO seed mean,Longest Waiting,imbalance-10013,imbalance,p95_delay,77.64999999999992,-70.9456372772955
+PPO seed mean,Longest Waiting,imbalance-10018,imbalance,p95_delay,54.42499999999997,-46.29944704381112
+PPO seed mean,Longest Waiting,imbalance-10023,imbalance,p95_delay,50.19999999999999,-39.34169278996865
+PPO seed mean,Longest Waiting,imbalance-10028,imbalance,p95_delay,70.5,-64.0909090909091
+PPO seed mean,Longest Waiting,normal-10000,normal,p95_delay,15.0,-13.513513513513514
+PPO seed mean,Longest Waiting,normal-10005,normal,p95_delay,11.449999999999989,-10.315315315315305
+PPO seed mean,Longest Waiting,normal-10010,normal,p95_delay,23.0,-19.574468085106382
+PPO seed mean,Longest Waiting,normal-10015,normal,p95_delay,18.89999999999999,-17.830188679245275
+PPO seed mean,Longest Waiting,normal-10020,normal,p95_delay,13.549999999999997,-13.168124392614187
+PPO seed mean,Longest Waiting,normal-10025,normal,p95_delay,23.0,-23.601847101077478
+PPO seed mean,Longest Waiting,peak-10001,peak,p95_delay,44.32500000000002,-23.722237088573735
+PPO seed mean,Longest Waiting,peak-10006,peak,p95_delay,44.70000000000002,-23.427672955974856
+PPO seed mean,Longest Waiting,peak-10011,peak,p95_delay,64.30000000000001,-34.53276047261011
+PPO seed mean,Longest Waiting,peak-10016,peak,p95_delay,46.62499999999997,-24.754446509158466
+PPO seed mean,Longest Waiting,peak-10021,peak,p95_delay,66.35,-36.45604395604395
+PPO seed mean,Longest Waiting,peak-10026,peak,p95_delay,61.89999999999998,-33.50473612990527
+PPO seed mean,Longest Waiting,saturation-10004,saturation,p95_delay,11.0,-10.237319683573757
+PPO seed mean,Longest Waiting,saturation-10009,saturation,p95_delay,10.900000000000006,-9.151973131822002
+PPO seed mean,Longest Waiting,saturation-10014,saturation,p95_delay,23.200000000000017,-19.01639344262297
+PPO seed mean,Longest Waiting,saturation-10019,saturation,p95_delay,11.450000000000003,-9.862187769164516
+PPO seed mean,Longest Waiting,saturation-10024,saturation,p95_delay,24.0,-20.869565217391305
+PPO seed mean,Longest Waiting,saturation-10029,saturation,p95_delay,11.0,-9.734513274336283
+PPO seed mean,Longest Waiting,disruption-10002,disruption,incomplete_trains,0.0,-0.0
+PPO seed mean,Longest Waiting,disruption-10007,disruption,incomplete_trains,0.0,-0.0
+PPO seed mean,Longest Waiting,disruption-10012,disruption,incomplete_trains,-1.0,50.0
+PPO seed mean,Longest Waiting,disruption-10017,disruption,incomplete_trains,1.0,-100.0
+PPO seed mean,Longest Waiting,disruption-10022,disruption,incomplete_trains,0.0,-0.0
+PPO seed mean,Longest Waiting,disruption-10027,disruption,incomplete_trains,0.0,
+PPO seed mean,Longest Waiting,imbalance-10003,imbalance,incomplete_trains,0.0,-0.0
+PPO seed mean,Longest Waiting,imbalance-10008,imbalance,incomplete_trains,0.0,-0.0
+PPO seed mean,Longest Waiting,imbalance-10013,imbalance,incomplete_trains,0.0,
+PPO seed mean,Longest Waiting,imbalance-10018,imbalance,incomplete_trains,0.0,-0.0
+PPO seed mean,Longest Waiting,imbalance-10023,imbalance,incomplete_trains,0.0,-0.0
+PPO seed mean,Longest Waiting,imbalance-10028,imbalance,incomplete_trains,0.0,-0.0
+PPO seed mean,Longest Waiting,normal-10000,normal,incomplete_trains,0.0,-0.0
+PPO seed mean,Longest Waiting,normal-10005,normal,incomplete_trains,0.0,
+PPO seed mean,Longest Waiting,normal-10010,normal,incomplete_trains,0.0,-0.0
+PPO seed mean,Longest Waiting,normal-10015,normal,incomplete_trains,0.0,
+PPO seed mean,Longest Waiting,normal-10020,normal,incomplete_trains,0.0,
+PPO seed mean,Longest Waiting,normal-10025,normal,incomplete_trains,0.0,
+PPO seed mean,Longest Waiting,peak-10001,peak,incomplete_trains,-0.5,1.7857142857142858
+PPO seed mean,Longest Waiting,peak-10006,peak,incomplete_trains,-3.0,11.538461538461538
+PPO seed mean,Longest Waiting,peak-10011,peak,incomplete_trains,-1.0,3.5714285714285716
+PPO seed mean,Longest Waiting,peak-10016,peak,incomplete_trains,0.0,-0.0
+PPO seed mean,Longest Waiting,peak-10021,peak,incomplete_trains,-1.0,3.7037037037037037
+PPO seed mean,Longest Waiting,peak-10026,peak,incomplete_trains,0.0,-0.0
+PPO seed mean,Longest Waiting,saturation-10004,saturation,incomplete_trains,0.0,
+PPO seed mean,Longest Waiting,saturation-10009,saturation,incomplete_trains,-1.0,50.0
+PPO seed mean,Longest Waiting,saturation-10014,saturation,incomplete_trains,0.0,-0.0
+PPO seed mean,Longest Waiting,saturation-10019,saturation,incomplete_trains,0.0,-0.0
+PPO seed mean,Longest Waiting,saturation-10024,saturation,incomplete_trains,0.0,-0.0
+PPO seed mean,Longest Waiting,saturation-10029,saturation,incomplete_trains,0.0,
+PPO seed mean,Longest Waiting,disruption-10002,disruption,selection_cost,-4.307692307692307,4.945904173106645
+PPO seed mean,Longest Waiting,disruption-10007,disruption,selection_cost,-3.0576923076923066,3.951292246520873
+PPO seed mean,Longest Waiting,disruption-10012,disruption,selection_cost,-13.11538461538462,17.43799539759653
+PPO seed mean,Longest Waiting,disruption-10017,disruption,selection_cost,3.538461538461533,-5.128205128205121
+PPO seed mean,Longest Waiting,disruption-10022,disruption,selection_cost,-5.384615384615387,5.923418658768777
+PPO seed mean,Longest Waiting,disruption-10027,disruption,selection_cost,-3.6923076923076934,7.1829405162738516
+PPO seed mean,Longest Waiting,imbalance-10003,imbalance,selection_cost,-6.02884615384616,6.839005235602102
+PPO seed mean,Longest Waiting,imbalance-10008,imbalance,selection_cost,-6.07692307692308,7.511290705966251
+PPO seed mean,Longest Waiting,imbalance-10013,imbalance,selection_cost,0.0,-0.0
+PPO seed mean,Longest Waiting,imbalance-10018,imbalance,selection_cost,1.201923076923066,-1.5628907226806559
+PPO seed mean,Longest Waiting,imbalance-10023,imbalance,selection_cost,2.625,-2.9279279279279278
+PPO seed mean,Longest Waiting,imbalance-10028,imbalance,selection_cost,4.596153846153854,-6.88165850849411
+PPO seed mean,Longest Waiting,normal-10000,normal,selection_cost,-3.846153846153854,5.880623346074695
+PPO seed mean,Longest Waiting,normal-10005,normal,selection_cost,-4.384615384615387,7.485226526592255
+PPO seed mean,Longest Waiting,normal-10010,normal,selection_cost,-3.711538461538453,5.003889032927134
+PPO seed mean,Longest Waiting,normal-10015,normal,selection_cost,-4.21153846153846,6.82668329177057
+PPO seed mean,Longest Waiting,normal-10020,normal,selection_cost,-5.5,9.584450402144771
+PPO seed mean,Longest Waiting,normal-10025,normal,selection_cost,-3.384615384615387,5.911991938192815
+PPO seed mean,Longest Waiting,peak-10001,peak,selection_cost,-9.18589743589743,3.687786298831641
+PPO seed mean,Longest Waiting,peak-10006,peak,selection_cost,-29.65384615384616,12.09917874143433
+PPO seed mean,Longest Waiting,peak-10011,peak,selection_cost,-11.320512820512818,4.429395535490342
+PPO seed mean,Longest Waiting,peak-10016,peak,selection_cost,-10.44230769230768,4.226777374156715
+PPO seed mean,Longest Waiting,peak-10021,peak,selection_cost,-15.628205128205138,6.194105691056914
+PPO seed mean,Longest Waiting,peak-10026,peak,selection_cost,-7.961538461538453,3.0814270828164507
+PPO seed mean,Longest Waiting,saturation-10004,saturation,selection_cost,-5.0192307692307665,8.427510494026473
+PPO seed mean,Longest Waiting,saturation-10009,saturation,selection_cost,-14.0,17.847511645011032
+PPO seed mean,Longest Waiting,saturation-10014,saturation,selection_cost,-4.057692307692307,4.3541064795707785
+PPO seed mean,Longest Waiting,saturation-10019,saturation,selection_cost,-3.442307692307679,4.436183395291185
+PPO seed mean,Longest Waiting,saturation-10024,saturation,selection_cost,-3.32692307692308,4.820284201727505
+PPO seed mean,Longest Waiting,saturation-10029,saturation,selection_cost,-6.03846153846154,9.432261940522682
+PPO seed mean,Longest Waiting,disruption-10002,disruption,utilization,-0.008333333333333304,-1.1560693641618456
+PPO seed mean,Longest Waiting,disruption-10007,disruption,utilization,-0.008333333333333304,-1.1627906976744145
+PPO seed mean,Longest Waiting,disruption-10012,disruption,utilization,-0.02083333333333337,-2.9069767441860517
+PPO seed mean,Longest Waiting,disruption-10017,disruption,utilization,0.0,0.0
+PPO seed mean,Longest Waiting,disruption-10022,disruption,utilization,-0.012499999999999956,-1.7045454545454486
+PPO seed mean,Longest Waiting,disruption-10027,disruption,utilization,0.0,0.0
+PPO seed mean,Longest Waiting,imbalance-10003,imbalance,utilization,-0.02083333333333326,-2.8735632183907946
+PPO seed mean,Longest Waiting,imbalance-10008,imbalance,utilization,-0.008333333333333415,-1.1834319526627333
+PPO seed mean,Longest Waiting,imbalance-10013,imbalance,utilization,0.0,0.0
+PPO seed mean,Longest Waiting,imbalance-10018,imbalance,utilization,0.008333333333333304,1.1627906976744145
+PPO seed mean,Longest Waiting,imbalance-10023,imbalance,utilization,0.0,0.0
+PPO seed mean,Longest Waiting,imbalance-10028,imbalance,utilization,0.025000000000000022,3.5714285714285747
+PPO seed mean,Longest Waiting,normal-10000,normal,utilization,-0.012499999999999956,-1.7857142857142796
+PPO seed mean,Longest Waiting,normal-10005,normal,utilization,-0.012499999999999956,-1.7857142857142796
+PPO seed mean,Longest Waiting,normal-10010,normal,utilization,-0.012499999999999956,-1.7441860465116217
+PPO seed mean,Longest Waiting,normal-10015,normal,utilization,0.0,0.0
+PPO seed mean,Longest Waiting,normal-10020,normal,utilization,-0.01666666666666672,-2.3529411764705954
+PPO seed mean,Longest Waiting,normal-10025,normal,utilization,-0.008333333333333304,-1.1904761904761862
+PPO seed mean,Longest Waiting,peak-10001,peak,utilization,-0.02499999999999991,-3.409090909090897
+PPO seed mean,Longest Waiting,peak-10006,peak,utilization,-0.04999999999999993,-6.896551724137922
+PPO seed mean,Longest Waiting,peak-10011,peak,utilization,-0.02083333333333326,-2.8735632183907946
+PPO seed mean,Longest Waiting,peak-10016,peak,utilization,-0.04166666666666674,-5.617977528089898
+PPO seed mean,Longest Waiting,peak-10021,peak,utilization,-0.04166666666666674,-5.649717514124304
+PPO seed mean,Longest Waiting,peak-10026,peak,utilization,-0.029166666666666674,-3.932584269662922
+PPO seed mean,Longest Waiting,saturation-10004,saturation,utilization,-0.012500000000000067,-1.75438596491229
+PPO seed mean,Longest Waiting,saturation-10009,saturation,utilization,-0.025000000000000022,-3.448275862068969
+PPO seed mean,Longest Waiting,saturation-10014,saturation,utilization,-0.008333333333333304,-1.1627906976744145
+PPO seed mean,Longest Waiting,saturation-10019,saturation,utilization,-0.01666666666666672,-2.339181286549715
+PPO seed mean,Longest Waiting,saturation-10024,saturation,utilization,0.0,0.0
+PPO seed mean,Longest Waiting,saturation-10029,saturation,utilization,-0.008333333333333304,-1.2048192771084294
+PPO seed mean,Work Conserving,disruption-10002,disruption,throughput,0.0,0.0
+PPO seed mean,Work Conserving,disruption-10007,disruption,throughput,0.0,0.0
+PPO seed mean,Work Conserving,disruption-10012,disruption,throughput,0.0,0.0
+PPO seed mean,Work Conserving,disruption-10017,disruption,throughput,0.0,0.0
+PPO seed mean,Work Conserving,disruption-10022,disruption,throughput,0.0,0.0
+PPO seed mean,Work Conserving,disruption-10027,disruption,throughput,0.0,0.0
+PPO seed mean,Work Conserving,imbalance-10003,imbalance,throughput,0.0,0.0
+PPO seed mean,Work Conserving,imbalance-10008,imbalance,throughput,0.0,0.0
+PPO seed mean,Work Conserving,imbalance-10013,imbalance,throughput,-0.25,-2.857142857142857
+PPO seed mean,Work Conserving,imbalance-10018,imbalance,throughput,0.25,3.125
+PPO seed mean,Work Conserving,imbalance-10023,imbalance,throughput,0.25,3.125
+PPO seed mean,Work Conserving,imbalance-10028,imbalance,throughput,0.0,0.0
+PPO seed mean,Work Conserving,normal-10000,normal,throughput,0.0,0.0
+PPO seed mean,Work Conserving,normal-10005,normal,throughput,0.0,0.0
+PPO seed mean,Work Conserving,normal-10010,normal,throughput,0.0,0.0
+PPO seed mean,Work Conserving,normal-10015,normal,throughput,0.0,0.0
+PPO seed mean,Work Conserving,normal-10020,normal,throughput,0.0,0.0
+PPO seed mean,Work Conserving,normal-10025,normal,throughput,0.0,0.0
+PPO seed mean,Work Conserving,peak-10001,peak,throughput,0.0,0.0
+PPO seed mean,Work Conserving,peak-10006,peak,throughput,0.0,0.0
+PPO seed mean,Work Conserving,peak-10011,peak,throughput,0.0,0.0
+PPO seed mean,Work Conserving,peak-10016,peak,throughput,0.0,0.0
+PPO seed mean,Work Conserving,peak-10021,peak,throughput,0.0,0.0
+PPO seed mean,Work Conserving,peak-10026,peak,throughput,0.0,0.0
+PPO seed mean,Work Conserving,saturation-10004,saturation,throughput,0.0,0.0
+PPO seed mean,Work Conserving,saturation-10009,saturation,throughput,0.25,2.857142857142857
+PPO seed mean,Work Conserving,saturation-10014,saturation,throughput,0.0,0.0
+PPO seed mean,Work Conserving,saturation-10019,saturation,throughput,0.25,2.9411764705882355
+PPO seed mean,Work Conserving,saturation-10024,saturation,throughput,0.0,0.0
+PPO seed mean,Work Conserving,saturation-10029,saturation,throughput,0.0,0.0
+PPO seed mean,Work Conserving,disruption-10002,disruption,mean_delay,0.46938775510204067,-0.8104298801973219
+PPO seed mean,Work Conserving,disruption-10007,disruption,mean_delay,1.6506122448979568,-2.923021322732197
+PPO seed mean,Work Conserving,disruption-10012,disruption,mean_delay,0.6839215686274542,-1.2875029529884305
+PPO seed mean,Work Conserving,disruption-10017,disruption,mean_delay,-0.759999999999998,1.33333333333333
+PPO seed mean,Work Conserving,disruption-10022,disruption,mean_delay,0.9387755102040813,-1.5587936292782103
+PPO seed mean,Work Conserving,disruption-10027,disruption,mean_delay,-0.3461538461538467,0.7202881152460996
+PPO seed mean,Work Conserving,imbalance-10003,imbalance,mean_delay,3.5406122448979502,-5.667755635413249
+PPO seed mean,Work Conserving,imbalance-10008,imbalance,mean_delay,0.8999999999999986,-1.5673981191222546
+PPO seed mean,Work Conserving,imbalance-10013,imbalance,mean_delay,0.6538461538461533,-1.0831474992035672
+PPO seed mean,Work Conserving,imbalance-10018,imbalance,mean_delay,-2.6300000000000097,4.074992252866454
+PPO seed mean,Work Conserving,imbalance-10023,imbalance,mean_delay,-0.5816326530612201,0.8429458740017683
+PPO seed mean,Work Conserving,imbalance-10028,imbalance,mean_delay,-2.882352941176471,4.352976014213799
+PPO seed mean,Work Conserving,normal-10000,normal,mean_delay,-0.5686274509803937,1.0545454545454573
+PPO seed mean,Work Conserving,normal-10005,normal,mean_delay,0.4230769230769269,-0.7868383404864163
+PPO seed mean,Work Conserving,normal-10010,normal,mean_delay,0.019607843137258385,-0.03144654088050873
+PPO seed mean,Work Conserving,normal-10015,normal,mean_delay,-1.3461538461538467,2.2883295194508015
+PPO seed mean,Work Conserving,normal-10020,normal,mean_delay,-0.5769230769230731,1.099706744868028
+PPO seed mean,Work Conserving,normal-10025,normal,mean_delay,-0.8846153846153868,1.6157358623112088
+PPO seed mean,Work Conserving,peak-10001,peak,mean_delay,4.838235294117638,-6.459593183067607
+PPO seed mean,Work Conserving,peak-10006,peak,mean_delay,5.3999999999999915,-7.4249999999999865
+PPO seed mean,Work Conserving,peak-10011,peak,mean_delay,11.132941176470595,-15.204781721484014
+PPO seed mean,Work Conserving,peak-10016,peak,mean_delay,5.759615384615373,-7.272948033025725
+PPO seed mean,Work Conserving,peak-10021,peak,mean_delay,14.893665158371036,-21.733245295477047
+PPO seed mean,Work Conserving,peak-10026,peak,mean_delay,13.840000000000003,-19.564602770709648
+PPO seed mean,Work Conserving,saturation-10004,saturation,mean_delay,-0.1730769230769198,0.3163444639718745
+PPO seed mean,Work Conserving,saturation-10009,saturation,mean_delay,1.2380392156862783,-2.2567247825123555
+PPO seed mean,Work Conserving,saturation-10014,saturation,mean_delay,0.46938775510203357,-0.7322508755173398
+PPO seed mean,Work Conserving,saturation-10019,saturation,mean_delay,-1.1400000000000006,1.9400953029271624
+PPO seed mean,Work Conserving,saturation-10024,saturation,mean_delay,-0.8039215686274517,1.380936342202763
+PPO seed mean,Work Conserving,saturation-10029,saturation,mean_delay,0.2307692307692335,-0.39960039960040433
+PPO seed mean,Work Conserving,disruption-10002,disruption,p95_delay,-16.0,10.38961038961039
+PPO seed mean,Work Conserving,disruption-10007,disruption,p95_delay,-16.349999999999994,10.686274509803921
+PPO seed mean,Work Conserving,disruption-10012,disruption,p95_delay,-19.05000000000001,13.270637408568449
+PPO seed mean,Work Conserving,disruption-10017,disruption,p95_delay,-5.850000000000023,4.020618556701047
+PPO seed mean,Work Conserving,disruption-10022,disruption,p95_delay,-14.0,8.928571428571429
+PPO seed mean,Work Conserving,disruption-10027,disruption,p95_delay,-13.900000000000006,10.582413399314811
+PPO seed mean,Work Conserving,imbalance-10003,imbalance,p95_delay,-21.19999999999999,10.321324245374875
+PPO seed mean,Work Conserving,imbalance-10008,imbalance,p95_delay,-12.0,6.099110546378655
+PPO seed mean,Work Conserving,imbalance-10013,imbalance,p95_delay,-25.0,11.786892975011792
+PPO seed mean,Work Conserving,imbalance-10018,imbalance,p95_delay,-84.32499999999999,32.90089738587592
+PPO seed mean,Work Conserving,imbalance-10023,imbalance,p95_delay,-76.0,29.944838455476756
+PPO seed mean,Work Conserving,imbalance-10028,imbalance,p95_delay,-42.0,18.876404494382022
+PPO seed mean,Work Conserving,normal-10000,normal,p95_delay,-14.0,10.0
+PPO seed mean,Work Conserving,normal-10005,normal,p95_delay,-9.550000000000011,7.234848484848493
+PPO seed mean,Work Conserving,normal-10010,normal,p95_delay,-14.0,9.06148867313916
+PPO seed mean,Work Conserving,normal-10015,normal,p95_delay,-13.899999999999991,10.014409221902012
+PPO seed mean,Work Conserving,normal-10020,normal,p95_delay,-12.349999999999994,9.588509316770184
+PPO seed mean,Work Conserving,normal-10025,normal,p95_delay,-11.900000000000006,8.991310918020405
+PPO seed mean,Work Conserving,peak-10001,peak,p95_delay,-4.125,1.753081172970676
+PPO seed mean,Work Conserving,peak-10006,peak,p95_delay,-10.800000000000011,4.384896467722294
+PPO seed mean,Work Conserving,peak-10011,peak,p95_delay,-24.5,8.909090909090908
+PPO seed mean,Work Conserving,peak-10016,peak,p95_delay,-6.074999999999989,2.520224019912877
+PPO seed mean,Work Conserving,peak-10021,peak,p95_delay,-26.650000000000006,9.690909090909093
+PPO seed mean,Work Conserving,peak-10026,peak,p95_delay,-32.55000000000001,11.658309455587396
+PPO seed mean,Work Conserving,saturation-10004,saturation,p95_delay,-14.550000000000011,10.939849624060159
+PPO seed mean,Work Conserving,saturation-10009,saturation,p95_delay,-9.099999999999994,6.542056074766351
+PPO seed mean,Work Conserving,saturation-10014,saturation,p95_delay,-7.0,4.599211563731932
+PPO seed mean,Work Conserving,saturation-10019,saturation,p95_delay,-18.000000000000014,12.366884232222612
+PPO seed mean,Work Conserving,saturation-10024,saturation,p95_delay,-9.0,6.081081081081081
+PPO seed mean,Work Conserving,saturation-10029,saturation,p95_delay,-13.449999999999989,9.785376500545645
+PPO seed mean,Work Conserving,disruption-10002,disruption,incomplete_trains,0.0,-0.0
+PPO seed mean,Work Conserving,disruption-10007,disruption,incomplete_trains,-1.0,33.333333333333336
+PPO seed mean,Work Conserving,disruption-10012,disruption,incomplete_trains,-1.0,50.0
+PPO seed mean,Work Conserving,disruption-10017,disruption,incomplete_trains,1.0,-100.0
+PPO seed mean,Work Conserving,disruption-10022,disruption,incomplete_trains,0.0,-0.0
+PPO seed mean,Work Conserving,disruption-10027,disruption,incomplete_trains,0.0,
+PPO seed mean,Work Conserving,imbalance-10003,imbalance,incomplete_trains,-1.0,33.333333333333336
+PPO seed mean,Work Conserving,imbalance-10008,imbalance,incomplete_trains,0.0,-0.0
+PPO seed mean,Work Conserving,imbalance-10013,imbalance,incomplete_trains,0.0,
+PPO seed mean,Work Conserving,imbalance-10018,imbalance,incomplete_trains,0.0,-0.0
+PPO seed mean,Work Conserving,imbalance-10023,imbalance,incomplete_trains,0.0,-0.0
+PPO seed mean,Work Conserving,imbalance-10028,imbalance,incomplete_trains,0.0,-0.0
+PPO seed mean,Work Conserving,normal-10000,normal,incomplete_trains,0.0,-0.0
+PPO seed mean,Work Conserving,normal-10005,normal,incomplete_trains,0.0,
+PPO seed mean,Work Conserving,normal-10010,normal,incomplete_trains,0.0,-0.0
+PPO seed mean,Work Conserving,normal-10015,normal,incomplete_trains,0.0,
+PPO seed mean,Work Conserving,normal-10020,normal,incomplete_trains,0.0,
+PPO seed mean,Work Conserving,normal-10025,normal,incomplete_trains,0.0,
+PPO seed mean,Work Conserving,peak-10001,peak,incomplete_trains,-0.5,1.7857142857142858
+PPO seed mean,Work Conserving,peak-10006,peak,incomplete_trains,0.0,-0.0
+PPO seed mean,Work Conserving,peak-10011,peak,incomplete_trains,-1.0,3.5714285714285716
+PPO seed mean,Work Conserving,peak-10016,peak,incomplete_trains,0.0,-0.0
+PPO seed mean,Work Conserving,peak-10021,peak,incomplete_trains,-1.0,3.7037037037037037
+PPO seed mean,Work Conserving,peak-10026,peak,incomplete_trains,0.0,-0.0
+PPO seed mean,Work Conserving,saturation-10004,saturation,incomplete_trains,0.0,
+PPO seed mean,Work Conserving,saturation-10009,saturation,incomplete_trains,-1.0,50.0
+PPO seed mean,Work Conserving,saturation-10014,saturation,incomplete_trains,0.0,-0.0
+PPO seed mean,Work Conserving,saturation-10019,saturation,incomplete_trains,0.0,-0.0
+PPO seed mean,Work Conserving,saturation-10024,saturation,incomplete_trains,0.0,-0.0
+PPO seed mean,Work Conserving,saturation-10029,saturation,incomplete_trains,0.0,
+PPO seed mean,Work Conserving,disruption-10002,disruption,selection_cost,-0.173076923076934,0.20862308762170997
+PPO seed mean,Work Conserving,disruption-10007,disruption,selection_cost,-7.307692307692307,8.95170789163722
+PPO seed mean,Work Conserving,disruption-10012,disruption,selection_cost,-7.692307692307686,11.022320198401756
+PPO seed mean,Work Conserving,disruption-10017,disruption,selection_cost,7.365384615384613,-11.301268810858657
+PPO seed mean,Work Conserving,disruption-10022,disruption,selection_cost,0.423076923076934,-0.49717514124295076
+PPO seed mean,Work Conserving,disruption-10027,disruption,selection_cost,-0.3461538461538467,0.7202881152460996
+PPO seed mean,Work Conserving,imbalance-10003,imbalance,selection_cost,-6.20192307692308,7.02155453951666
+PPO seed mean,Work Conserving,imbalance-10008,imbalance,selection_cost,1.0769230769230802,-1.4602346805736681
+PPO seed mean,Work Conserving,imbalance-10013,imbalance,selection_cost,0.6538461538461533,-1.0831474992035672
+PPO seed mean,Work Conserving,imbalance-10018,imbalance,selection_cost,-2.70192307692308,3.3436458829129028
+PPO seed mean,Work Conserving,imbalance-10023,imbalance,selection_cost,-2.9711538461538396,3.119321623258624
+PPO seed mean,Work Conserving,imbalance-10028,imbalance,selection_cost,-2.6923076923076934,3.634475597092421
+PPO seed mean,Work Conserving,normal-10000,normal,selection_cost,-0.4615384615384599,0.7441860465116253
+PPO seed mean,Work Conserving,normal-10005,normal,selection_cost,0.4230769230769269,-0.7868383404864163
+PPO seed mean,Work Conserving,normal-10010,normal,selection_cost,0.03846153846154721,-0.054614964500285496
+PPO seed mean,Work Conserving,normal-10015,normal,selection_cost,-1.3461538461538467,2.2883295194508015
+PPO seed mean,Work Conserving,normal-10020,normal,selection_cost,-0.5769230769230731,1.099706744868028
+PPO seed mean,Work Conserving,normal-10025,normal,selection_cost,-0.8846153846153868,1.6157358623112088
+PPO seed mean,Work Conserving,peak-10001,peak,selection_cost,-2.698717948717956,1.1124028959467345
+PPO seed mean,Work Conserving,peak-10006,peak,selection_cost,0.3205128205128176,-0.14899576852017268
+PPO seed mean,Work Conserving,peak-10011,peak,selection_cost,-5.0,2.005966464355519
+PPO seed mean,Work Conserving,peak-10016,peak,selection_cost,-0.4038461538461604,0.17039000378644728
+PPO seed mean,Work Conserving,peak-10021,peak,selection_cost,-4.564102564102569,1.891906254982199
+PPO seed mean,Work Conserving,peak-10026,peak,selection_cost,0.6153846153846132,-0.24635598439745346
+PPO seed mean,Work Conserving,saturation-10004,saturation,selection_cost,-0.1730769230769198,0.3163444639718745
+PPO seed mean,Work Conserving,saturation-10009,saturation,selection_cost,-7.192307692307693,10.04026845637584
+PPO seed mean,Work Conserving,saturation-10014,saturation,selection_cost,0.211538461538467,-0.23788927335640753
+PPO seed mean,Work Conserving,saturation-10019,saturation,selection_cost,-1.2115384615384528,1.6075529471803915
+PPO seed mean,Work Conserving,saturation-10024,saturation,selection_cost,-0.5769230769230802,0.8705745792222916
+PPO seed mean,Work Conserving,saturation-10029,saturation,selection_cost,0.2307692307692335,-0.39960039960040433
+PPO seed mean,Work Conserving,disruption-10002,disruption,utilization,0.0,0.0
+PPO seed mean,Work Conserving,disruption-10007,disruption,utilization,0.0,0.0
+PPO seed mean,Work Conserving,disruption-10012,disruption,utilization,0.0,0.0
+PPO seed mean,Work Conserving,disruption-10017,disruption,utilization,0.0,0.0
+PPO seed mean,Work Conserving,disruption-10022,disruption,utilization,0.0,0.0
+PPO seed mean,Work Conserving,disruption-10027,disruption,utilization,0.0,0.0
+PPO seed mean,Work Conserving,imbalance-10003,imbalance,utilization,0.0,0.0
+PPO seed mean,Work Conserving,imbalance-10008,imbalance,utilization,0.0,0.0
+PPO seed mean,Work Conserving,imbalance-10013,imbalance,utilization,0.004166666666666652,0.588235294117645
+PPO seed mean,Work Conserving,imbalance-10018,imbalance,utilization,-0.008333333333333304,-1.1363636363636325
+PPO seed mean,Work Conserving,imbalance-10023,imbalance,utilization,-0.01666666666666672,-2.247191011235962
+PPO seed mean,Work Conserving,imbalance-10028,imbalance,utilization,0.0,0.0
+PPO seed mean,Work Conserving,normal-10000,normal,utilization,0.0,0.0
+PPO seed mean,Work Conserving,normal-10005,normal,utilization,0.0,0.0
+PPO seed mean,Work Conserving,normal-10010,normal,utilization,0.0,0.0
+PPO seed mean,Work Conserving,normal-10015,normal,utilization,0.0,0.0
+PPO seed mean,Work Conserving,normal-10020,normal,utilization,0.0,0.0
+PPO seed mean,Work Conserving,normal-10025,normal,utilization,0.0,0.0
+PPO seed mean,Work Conserving,peak-10001,peak,utilization,0.0,0.0
+PPO seed mean,Work Conserving,peak-10006,peak,utilization,0.0,0.0
+PPO seed mean,Work Conserving,peak-10011,peak,utilization,0.0,0.0
+PPO seed mean,Work Conserving,peak-10016,peak,utilization,0.0,0.0
+PPO seed mean,Work Conserving,peak-10021,peak,utilization,0.0,0.0
+PPO seed mean,Work Conserving,peak-10026,peak,utilization,0.0,0.0
+PPO seed mean,Work Conserving,saturation-10004,saturation,utilization,-0.004166666666666763,-0.5917159763313745
+PPO seed mean,Work Conserving,saturation-10009,saturation,utilization,-0.008333333333333415,-1.1764705882353055
+PPO seed mean,Work Conserving,saturation-10014,saturation,utilization,0.0,0.0
+PPO seed mean,Work Conserving,saturation-10019,saturation,utilization,-0.008333333333333415,-1.1834319526627333
+PPO seed mean,Work Conserving,saturation-10024,saturation,utilization,0.0,0.0
+PPO seed mean,Work Conserving,saturation-10029,saturation,utilization,0.0,0.0

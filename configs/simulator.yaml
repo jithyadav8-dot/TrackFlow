@@ -1,0 +1,19 @@
+simulation:
+  control_horizon_minutes: 240
+  drain_horizon_minutes: 120
+  time_step_minutes: 1
+  section_capacity: 1
+  nominal_travel_minutes: 8
+  travel_variation_minutes: 2
+  clearance_minutes: 2
+  default_train_count: 30
+  random_delay: {probability: 0.25, min_minutes: 0, max_minutes: 10}
+  priorities: {local: 1, express: 2}
+  seed: 42
+reward:
+  completion: 2.0
+  waiting: 0.05
+  invalid: 0.10
+  hold: 0.02
+  backlog: 2.0
+  priority_weighting: true

@@ -1,0 +1,22 @@
+{
+  "seed": 42,
+  "requested_timesteps": 50000,
+  "selection_split": "validation",
+  "experiments": {
+    "control": {},
+    "completion_4": {
+      "completion": 4.0
+    },
+    "waiting_010": {
+      "waiting": 0.1
+    },
+    "hold_010": {
+      "hold": 0.1
+    },
+    "unweighted": {
+      "priority_weighting": false
+    }
+  },
+  "changes_to_final_test_models": "none",
+  "caveat": "Short single-seed exploratory runs; unweighted is identical when all priorities are one."
+}
